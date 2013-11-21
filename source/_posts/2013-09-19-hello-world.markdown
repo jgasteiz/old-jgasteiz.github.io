@@ -3,14 +3,18 @@ layout: post
 title: "Hello World"
 date: 2013-09-19 23:48
 comments: true
-categories: 
+categories: Comic
 ---
 
-This is the first post of this new blog I've decided to create. It's going to be called _Fuzzopress_, like the bloging application I developed in Django for my personal blog, [Fuzzing the Web](http://fuzzingtheweb.com). It makes even more sense now, since this is pure Octopress - I want to give static blogs a go.
+This is the first post of this new stage of Fuzzing the Web. I've decided to give static blogs a go and I'll start using Octopress for it.
 
-Since I already write about random stuff in my personal blog, I'll focus this one on Web Development. There is no Web Development content today, but I'll probably start writing something about CSS transitions one of these days. It's what it's keeping me awake for the last couple of weeks.
+I'll write about the same random things I used to write about before, but I'll try to write better stuff.
 
-And since I'm a xkcd lover, let's close this first post with a funny strip.
+Also, not all of the old content of Fuzzing the Web will be here. At the beginning, I'll make an effort to migrate my favourite blog posts, but they will be only a few. I'll keep migrating posts little by little, until one day I'll be done.
+
+I'll also work hard on keeping all the content properly categorised.
+
+Let's close this first post of this new blog with some _classic_ fun :)
 
 ![tags - xkcd](http://imgs.xkcd.com/comics/tags.png "<A>: Like </a>this.&nbsp;")
 

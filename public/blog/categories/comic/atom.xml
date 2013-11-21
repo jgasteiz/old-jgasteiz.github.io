@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Comic | Fuzzing the Web]]></title>
+  <link href="http://jgasteiz.github.io/blog/categories/comic/atom.xml" rel="self"/>
+  <link href="http://jgasteiz.github.io/"/>
+  <updated>2013-11-21T19:53:39+00:00</updated>
+  <id>http://jgasteiz.github.io/</id>
+  <author>
+    <name><![CDATA[Javi Manzano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/09/19/hello-world/"/>
+    <updated>2013-09-19T23:48:00+01:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/09/19/hello-world</id>
+    <content type="html"><![CDATA[<p>This is the first post of this new stage of Fuzzing the Web. I&rsquo;ve decided to give static blogs a go and I&rsquo;ll start using Octopress for it.</p>
+
+<p>I&rsquo;ll write about the same random things I used to write about before, but I&rsquo;ll try to write better stuff.</p>
+
+<p>Also, not all of the old content of Fuzzing the Web will be here. At the beginning, I&rsquo;ll make an effort to migrate my favourite blog posts, but they will be only a few. I&rsquo;ll keep migrating posts little by little, until one day I&rsquo;ll be done.</p>
+
+<p>I&rsquo;ll also work hard on keeping all the content properly categorised.</p>
+
+<p>Let&rsquo;s close this first post of this new blog with some <em>classic</em> fun :)</p>
+
+<p><img src="http://imgs.xkcd.com/comics/tags.png" title="&lt;A&gt;: Like &lt;/a&gt;this.&nbsp;" alt="tags - xkcd" /></p>
+
+<p><a href="http://xkcd.com/1144/" title="tags">Tags &ndash; xkcd</a></p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,322 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Installing PIL on Ubuntu based distributions - Fuzzing the Web</title>
+  <meta name="author" content="Javi Manzano">
+
+  
+  <meta name="description" content="Today I&rsquo;ve been trying to run grunt-glue in my Elementary OS and after trying to understand why it wasn&rsquo;t running, I realised the JPEG/ &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://jgasteiz.github.io/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="Fuzzing the Web" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-44413405-1', 'fuzzopress.herokuapp.com');
+    ga('send', 'pageview');
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Fuzzing the Web</a></h1>
+  
+    <h2>Javi Manzano's blog</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:jgasteiz.github.io" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+  <li><a href="/about">About</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Installing PIL on Ubuntu Based Distributions</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-09-26T21:09:00+01:00" pubdate data-updated="true">Sep 26<span>th</span>, 2013</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Today I&rsquo;ve been trying to run <a href="https://npmjs.org/package/grunt-glue">grunt-glue</a> in my Elementary OS and after trying to understand why it wasn&rsquo;t running, I realised the JPEG/ZLIB support weren&rsquo;t working.</p>
+
+<p>It usually happens when you install PIL via pip. To fix the issue, do the following:</p>
+
+<p>Uninstall PIL from your virtualenv &ndash; please, use <a href="https://pypi.python.org/pypi/virtualenv">virtualenv</a>.</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>pip uninstall PIL</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Install PIL dependencies &ndash; and python-dev, if you don&rsquo;t have it installed.</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>sudo apt-get build-dep python-imaging
+</span><span class='line'>sudo apt-get install python-dev</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Create a few symbolic links and install PIL again. When you install PIL, do it with a -U argument to see some output of the installation. I&rsquo;ve noticed the sources for 32bit installations would change to <em>i386-linux-gnu</em> instead of <em>x86_64linux-gnu</em>.</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>sudo ln -s /usr/lib/x86_64-linux-gnu/libjpeg.so /usr/lib
+</span><span class='line'>sudo ln -s /usr/lib/x86_64-linux-gnu/libfreetype.so /usr/lib
+</span><span class='line'>sudo ln -s /usr/lib/x86_64-linux-gnu/libz.so /usr/lib
+</span><span class='line'>
+</span><span class='line'>pip install -U PIL</span></code></pre></td></tr></table></div></figure>
+
+
+<p>If everything went fine, you shoould see something like this if you scroll up a bit:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>--------------------------------------------------------------------
+</span><span class='line'>PIL 1.1.7 SETUP SUMMARY
+</span><span class='line'>--------------------------------------------------------------------
+</span><span class='line'>version       1.1.7
+</span><span class='line'>platform      linux2 2.7.3 (default, Apr 10 2013, 06:20:15)
+</span><span class='line'>              [GCC 4.6.3]
+</span><span class='line'>--------------------------------------------------------------------
+</span><span class='line'>*** TKINTER support not available
+</span><span class='line'>--- JPEG support available
+</span><span class='line'>--- ZLIB (PNG/ZIP) support available
+</span><span class='line'>--- FREETYPE2 support available
+</span><span class='line'>*** LITTLECMS support not available
+</span><span class='line'>--------------------------------------------------------------------</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Another option, instead of creating those links manually, would be installing PIL in the machine python installation.</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>sudo apt-get install python-imaging</span></code></pre></td></tr></table></div></figure>
+
+
+<p>And another option, although not what you were looking for, would be installing Pillow &ndash; which is a better PIL, basically.</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>pip install Pillow</span></code></pre></td></tr></table></div></figure>
+
+
+<p>After any of these 3 options you should be able to use the python imaging library happily now.</p>
+
+<p>PS: Thanks everyone for the corrections and suggestions for this post ;)</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Javi Manzano</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-09-26T21:09:00+01:00" pubdate data-updated="true">Sep 26<span>th</span>, 2013</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/grunt/'>Grunt,</a>, <a class='category' href='/blog/categories/javascript/'>JavaScript</a>, <a class='category' href='/blog/categories/python/'>Python,</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://jgasteiz.github.io/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions/" data-via="jgasteiz" data-counturl="http://jgasteiz.github.io/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions/" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2013/09/19/hello-world/" title="Previous Post: Hello World">&laquo; Hello World</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions/">Installing PIL on Ubuntu Based Distributions</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/09/19/hello-world/">Hello World</a>
+      </li>
+    
+  </ul>
+</section>
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2013 - Javi Manzano -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'fuzzopress';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://jgasteiz.github.io/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions/';
+        var disqus_url = 'http://jgasteiz.github.io/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

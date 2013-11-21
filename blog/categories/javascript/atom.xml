@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: JavaScript | Fuzzing the Web]]></title>
+  <link href="http://jgasteiz.github.io/blog/categories/javascript/atom.xml" rel="self"/>
+  <link href="http://jgasteiz.github.io/"/>
+  <updated>2013-11-21T06:43:40+00:00</updated>
+  <id>http://jgasteiz.github.io/</id>
+  <author>
+    <name><![CDATA[Javi Manzano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Installing PIL on Ubuntu based distributions]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions/"/>
+    <updated>2013-09-26T21:09:00+01:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions</id>
+    <content type="html"><![CDATA[<p>Today I&rsquo;ve been trying to run <a href="https://npmjs.org/package/grunt-glue">grunt-glue</a> in my Elementary OS and after trying to understand why it wasn&rsquo;t running, I realised the JPEG/ZLIB support weren&rsquo;t working.</p>
+
+<p>It usually happens when you install PIL via pip. To fix the issue, do the following:</p>
+
+<p>Uninstall PIL from your virtualenv &ndash; please, use <a href="https://pypi.python.org/pypi/virtualenv">virtualenv</a>.</p>
+
+<p><code>
+pip uninstall PIL
+</code></p>
+
+<p>Install PIL dependencies &ndash; and python-dev, if you don&rsquo;t have it installed.</p>
+
+<p><code>
+sudo apt-get build-dep python-imaging
+sudo apt-get install python-dev
+</code></p>
+
+<p>Create a few symbolic links and install PIL again. When you install PIL, do it with a -U argument to see some output of the installation. I&rsquo;ve noticed the sources for 32bit installations would change to <em>i386-linux-gnu</em> instead of <em>x86_64linux-gnu</em>.</p>
+
+<p>```
+sudo ln -s /usr/lib/x86_64-linux-gnu/libjpeg.so /usr/lib
+sudo ln -s /usr/lib/x86_64-linux-gnu/libfreetype.so /usr/lib
+sudo ln -s /usr/lib/x86_64-linux-gnu/libz.so /usr/lib</p>
+
+<p>pip install -U PIL
+```
+If everything went fine, you shoould see something like this if you scroll up a bit:</p>
+
+<h2>```</h2>
+
+<h2>PIL 1.1.7 SETUP SUMMARY</h2>
+
+<p>version       1.1.7
+platform      linux2 2.7.3 (default, Apr 10 2013, 06:20:15)</p>
+
+<pre><code>          [GCC 4.6.3]
+</code></pre>
+
+<hr />
+
+<p>*** TKINTER support not available
+&mdash;&ndash; JPEG support available
+&mdash;&ndash; ZLIB (PNG/ZIP) support available
+&mdash;&ndash; FREETYPE2 support available</p>
+
+<h2>*** LITTLECMS support not available</h2>
+
+<p>```</p>
+
+<p>Another option, instead of creating those links manually, would be installing PIL in the machine python installation.</p>
+
+<p><code>
+sudo apt-get install python-imaging
+</code></p>
+
+<p>And another option, although not what you were looking for, would be installing Pillow &ndash; which is a better PIL, basically.</p>
+
+<p><code>
+pip install Pillow
+</code></p>
+
+<p>After any of these 3 options you should be able to use the python imaging library happily now.</p>
+
+<p>PS: Thanks everyone for the corrections and suggestions for this post ;)</p>
+]]></content>
+  </entry>
+  
+</feed>

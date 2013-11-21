@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Internet, | Fuzzing the Web]]></title>
+  <link href="http://jgasteiz.github.io/blog/categories/internet/atom.xml" rel="self"/>
+  <link href="http://jgasteiz.github.io/"/>
+  <updated>2013-11-21T20:38:10+00:00</updated>
+  <id>http://jgasteiz.github.io/</id>
+  <author>
+    <name><![CDATA[Javi Manzano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Vim Adventures]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/04/07/vim-adventures/"/>
+    <updated>2013-04-07T23:48:00+01:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/04/07/vim-adventures</id>
+    <content type="html"><![CDATA[<p>Very nice game :)</p>
+
+<p><img src="http://lh5.googleusercontent.com/-QgJo84OtIEg/UWHUSkQG22I/AAAAAAAAGo8/tyYKEbSvpH0/s818/Screenshot+from+2013-04-07+21%3A14%3A45.png" title="vim adventures" alt="vim adventures" /></p>
+
+<p><img src="http://lh5.googleusercontent.com/-W0VzetuFgg8/UWMcuAF5x9I/AAAAAAAAGqA/R3nt0FmehHo/s934/Screenshot+from+2013-04-08+20%3A37%3A48.png" title="vim adventures" alt="vim adventures" /></p>
+
+<p>Go and play it in <a href="http://vim-adventures.com/" title="vim adventures">vim-adventures.com</a></p>
+]]></content>
+  </entry>
+  
+</feed>

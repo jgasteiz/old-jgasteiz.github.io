@@ -4,7 +4,7 @@
   <title><![CDATA[Fuzzing the Web]]></title>
   <link href="http://jgasteiz.github.io/atom.xml" rel="self"/>
   <link href="http://jgasteiz.github.io/"/>
-  <updated>2013-11-21T19:53:39+00:00</updated>
+  <updated>2013-11-21T20:38:10+00:00</updated>
   <id>http://jgasteiz.github.io/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
@@ -263,6 +263,371 @@ And before we realise, it&rsquo;s time to come back to London.</p>
 <p><img src="https://lh3.googleusercontent.com/-bzIW4WH4t4A/UcYzLzacbuI/AAAAAAAAJOo/J0BV76gXwUs/w1119-h839-no/IMG_20130622_164855.jpg" alt="bbq ullibarri" /></p>
 
 <p>It&rsquo;s always a pleasure and a bit sad going back to Vitoria for a few days. One part of me, wants to stay there. Another part wants to come back. But I always manage to get moments like these, lucky me!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Causa Sui - Euporie Tide]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/06/19/causa-sui-euporie-tide/"/>
+    <updated>2013-06-19T23:48:00+01:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/06/19/causa-sui-euporie-tide</id>
+    <content type="html"><![CDATA[<p>God, it&rsquo;s been a busy June.</p>
+
+<p>A whole week living outside my flat, new and exciting projects which required some <a href="http://angularjs.org/">formation at home</a> and&hellip; some <a href="http://www.urbandictionary.com/define.php?term=real%20world&amp;defid=176772">other things with higher priority than writing here</a>. But here I am again, bringing <strong>great</strong> news from the psychedelic side of life :)</p>
+
+<p>Causa Sui is releasing a new LP this August! I&rsquo;ve missed them a lot since their awesome <a href="http://www.causasui.com/releases.html">Pewt&#8217;r Sessions</a>, which Vinyl I got last Desertfest (2011), but fortunately here they come again.</p>
+
+<p><img src="https://lh4.googleusercontent.com/-Dbu94Yprgz8/UcIWhpIyBHI/AAAAAAAAJHc/hBmXtUShioU/s500-no/artworks-000045232150-mi0o28-t500x500.jpg" alt="Causa Sui Emporie Tide" /></p>
+
+<p>And here are the two tracks they&rsquo;ve published in their SoundCloud account. Enjoy!</p>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F87383940"></iframe>
+
+
+
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F93651320"></iframe>
+
+
+<p>You might want to check <a href="http://www.elparaisorecords.com/">elparaisorecords.com</a> for further information regarding this album.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DjangoCon EU 2013, Warszawa]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/05/20/djangocon-eu-2013-warszawa/"/>
+    <updated>2013-05-20T23:48:00+01:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/05/20/djangocon-eu-2013-warszawa</id>
+    <content type="html"><![CDATA[<p>This is an entry I&rsquo;ve been writing during DjangoCon 2013, from several places: hotel bedroom, laying in the grass from DjangoCon, having a beer in some terrace in Warsaw, airplane and back in the office before starting Monday :)</p>
+
+<h2>Friday, 17th May</h2>
+
+<p>Dzień dobry from my hotel room (cloning repos at 30KiB/s). I&rsquo;m half-exhausted half-excited right now. We are having an awesome weather in Warsaw these days and somehow it charges my batteries. Has to be photosynthesis.</p>
+
+<p>We arrived here  on Tuesday and after a proper afternoon rest, we headed to Stare Miasto to enjoy a bit the city. I managed to take these beautiful pics there.</p>
+
+<p><img src="http://lh3.googleusercontent.com/-4gYG4VDaD48/UZKvDAINwhI/AAAAAAAAIYY/rYuEhgPIT9M/w1532-h517-no/PANO_20130514_192834.jpg" title="Stare Miasto" alt="Stare Miasto 1" /></p>
+
+<p><img src="http://lh4.googleusercontent.com/-27IjArG1en4/UZKtfFUSraI/AAAAAAAAIXk/uw2es9HFsc0/w1533-h802-no/PANO_20130514_190623.jpg" title="Stare Miasto" alt="Stare Miasto 2" /></p>
+
+<p>On Wednesday morning DjangoCon started. My first impression of the venue was that they had experimented <em>a lot</em> setting up a real circus and trusting a lot on the weather. But after spending a few minutes there I realised they couldn&rsquo;t have chosen a better venue.</p>
+
+<p><img src="http://lh3.googleusercontent.com/-PZkNfzT-HH4/UZOwCl0tHGI/AAAAAAAAIcU/bBWh6AloaDk/w1533-h843-no/PANO_20130515_082237.jpg" title="Django Circus" alt="DjangoCon" /></p>
+
+<p>YES, it&rsquo;s a real circus. Here&rsquo;s a panorama view from the inside.</p>
+
+<p><img src="http://lh6.googleusercontent.com/-8qbIetxxq_c/UZc01mFeMbI/AAAAAAAAIfg/qEi8PdRIMyc/w1535-h739-no/PANO_20130517_122733.jpg" alt="DjangoCon" /></p>
+
+<p>Even thought I missed a few talks during the whole event, I met lots of great, wise and experienced developers/people.</p>
+
+<p><strong>The food</strong>: Since DjangoCon started we&rsquo;ve managed to get pierogi, popcorn, sandwiches, beer, <em>scoops</em> of ice cream, fruit, coffee&hellip; everything by <a href="https://www.facebook.com/bulka.spolka">Bulka i Spólka</a>. For sure, I can tell DjangoCon provided an environment that many other conferences would like to have. <strong>Well done</strong>.</p>
+
+<h2>Saturday, 18th May</h2>
+
+<p>To finish the <em>talkings</em>, <a href="http://sendgrid.com/">SendGrid</a> sponsored Friday&rsquo;s evening party. An awesome performance with the guitar by <a href="https://twitter.com/dN0t">Rob Spectre</a> and <a href="https://twitter.com/brandon_rhodes">Brandon Rhodes</a> made the night and eventually we ran out of beer. Sometimes like these, I wish I had a proper camera with me to immortalise these kind of moments.</p>
+
+<p><img src="http://lh3.googleusercontent.com/-XqBQCjOFfps/UZc1hq9hWWI/AAAAAAAAIhY/N7sL7U2D4bg/w1167-h875-no/IMG_20130517_215011.jpg" alt="Rob Spectre and Brandon Rhodes" /></p>
+
+<p>Oh, and I also got a signed copy of <a href="https://django.2scoops.org/">Two Scoops of Django</a>! &ndash; A must read for every Django developer. I don&rsquo;t say this, it&rsquo;s said by many people.</p>
+
+<p><img src="http://lh4.googleusercontent.com/-yDkh5eUoqgU/UZYMbaIWKXI/AAAAAAAAIfI/jtc5sPCuNHw/w656-h875-no/2013+-+1" alt="Two Scoops of Django" /></p>
+
+<p>Hah and if you feel curious about the <em>famous</em> PhotoBooth in DjangoCon, take a look at this <a href="http://www.facebook.com/media/set/?set=a.578110078887020.1073741829.469934899704539&amp;type=1">public album in facebook</a>.</p>
+
+<p>Example:</p>
+
+<p><img src="http://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-frc1/486653_578113725553322_1655252040_n.jpg" alt="photobooth" /></p>
+
+<h2>Sunday, 19th May</h2>
+
+<p>The party is over. The sprints are over too. It&rsquo;s been huge, all of it. It&rsquo;s the first time I feel part of a community like this, it feels very nice. I didn&rsquo;t get any picture of the sprints, I was quite immersed in the code for both Saturday and Sunday.</p>
+
+<p>During Saturday, I <em>tried</em> to contribute to Django project. I worked on a ticket (work still in progress) and from my side it wasn&rsquo;t that much contribution, but after the experience I&rsquo;m less afraid to pick any ticket now and work on them. It was something necessary in order to start contributing in a future.</p>
+
+<p>I spent today&rsquo;s morning working on personal stuff, something I started coding for personal use (which I&rsquo;m already using, by the way) and I will release in a near future. But I don&rsquo;t want to talk about it yet. I will only say it has something to do with <em>learning</em> stuff. For now, only languages :p</p>
+
+<h2>Monday, 20th May (already in the office)</h2>
+
+<p>I think the guys in France will have very difficult to organise an event as awesome as this next year, but something else I&rsquo;ve learnt these days is: with hard work, motivation and love, you can achieve anything. So as long as next year&rsquo;s organisation works hard on getting an awesome DjangoCon, everything will be just fine.</p>
+
+<p>Dziękuję for these awesome days, DjangoCon + Warsaw!!!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Porto 2013]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/05/07/porto-2013/"/>
+    <updated>2013-05-07T23:48:00+01:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/05/07/porto-2013</id>
+    <content type="html"><![CDATA[<p>Beautiful and very needed days <em>Away From Keyboard</em>. I&rsquo;ve even recovered my <a href="https://lh6.googleusercontent.com/-wfIdHswupJM/USDeYJEhw5I/AAAAAAAAEsM/EQDWeLP2wHo/s640/19.jpg">original skin color</a>!</p>
+
+<p><img src="https://lh5.googleusercontent.com/-uUo9vtar4cY/UYajzzhKLJI/AAAAAAAAIB0/78RSZiQGebk/w1105-h829-no/IMG_20130505_151306.jpg" alt="Porto 1" /></p>
+
+<p><img src="https://lh5.googleusercontent.com/--dVFurw5-UY/UYikaYuQtgI/AAAAAAAAIGI/BQoE-EK1DQM/w1181-h737-no/2.jpg" alt="Porto 2" /></p>
+
+<p><img src="https://lh6.googleusercontent.com/-Zaduoufr614/UYikbD3NZWI/AAAAAAAAIGQ/LUY-GrEAqvE/w1235-h709-no/3.jpg" alt="Porto 3" /></p>
+
+<p><img src="https://lh6.googleusercontent.com/-nRu7YIauH5g/UYikbM_e_FI/AAAAAAAAIGY/6IlF4wUCQKE/w1155-h516-no/PANO_20130505_143322.jpg" alt="Porto 4" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Das ist Berlin]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/04/28/das-ist-berlin-2013/"/>
+    <updated>2013-04-28T23:48:00+01:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/04/28/das-ist-berlin-2013</id>
+    <content type="html"><![CDATA[<p><strong>Prologue</strong></p>
+
+<p>Take a look at last year&rsquo;s post, <a href="http://jgasteiz.github.io/das-ist-berlin/">Das ist Berlin</a>. And also <a href="http://jgasteiz.github.io/desertfest-more-stuff/">Desertfest &ndash; more stuff</a></p>
+
+<p><strong>This year</strong></p>
+
+<p>We&rsquo;ve been in the same hostel and festival. Both of them were awesome and we couldn&rsquo;t come up with a better idea for spending a few days together. Great live concerts (less than the last year, though), new places we&rsquo;ve visited and lots of beer we&rsquo;ve drunk.</p>
+
+<p><img src="http://jgasteiz.github.io//lh5.googleusercontent.com/-FE65bt902O4/UXstYHEtE2I/AAAAAAAAHP4/tIA3ouexClQ/s960/PANO_20130426_141922.jpg" alt="" /><br/>
+<em>Ishtar Gate &ndash; Pergamon Museum</em></p>
+
+<p><img src="http://jgasteiz.github.io//lh4.googleusercontent.com/-w9PcN8A1fR0/UXvIa76iY0I/AAAAAAAAHTs/OX5sn4t69Mk/s960/IMG_20130427_141527.jpg" alt="Food" /><br/>
+<em>Having massive lunch on a typical german restaurant</em></p>
+
+<p><img src="http://jgasteiz.github.io//lh6.googleusercontent.com/-mrL28dsIyVM/UXsn1LTreJI/AAAAAAAAHMc/tzEPvOX9s58/s960/IMG_20130426_191516.jpg" alt="" /><br/>
+<em>Blues Pills</em></p>
+
+<p><img src="http://jgasteiz.github.io//lh4.googleusercontent.com/-PlbfByJCrnw/UXx91mAsiOI/AAAAAAAAHaE/RcJOAK0VMCc/s960/IMG_20130427_195220.jpg" alt="" /><br/>
+<em>Yawning Man</em></p>
+
+<p><img src="http://jgasteiz.github.io//lh3.googleusercontent.com/-cAAo-mTac2I/UXsx5tVyPQI/AAAAAAAAHR0/d9ES4Es66TU/s960/IMG_20130426_162149.jpg" alt="" /><br/>
+<em>Berliner Kindl &ndash; my favorite</em></p>
+
+<p><img src="http://jgasteiz.github.io//lh3.googleusercontent.com/-o8mut6iIDY0/UXzOnna-xpI/AAAAAAAAHbQ/nTx1AN79M68/s960/IMG_20130427_234747.jpg" alt="" /><br/>
+<em>Zeta floating</em></p>
+
+<p><img src="http://jgasteiz.github.io//lh3.googleusercontent.com/-Ysdrw01dx70/UXvZ18bfB6I/AAAAAAAAHUk/u05zoyumZrY/s960/IMG_20130427_151430.jpg" alt="" /><br/>
+<em>Love</em></p>
+
+<p>And much more that will remain in my mind for years.</p>
+
+<p>It&rsquo;s time to rest now. Tomorrow I&rsquo;ll be part of London&rsquo;s heartbeat again and I must <em>beat</em> properly.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[You should blog even if you have no readers]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/04/17/you-should-blog-even-if-you-have-no-readers/"/>
+    <updated>2013-04-17T23:48:00+01:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/04/17/you-should-blog-even-if-you-have-no-readers</id>
+    <content type="html"><![CDATA[<p>I read this post a couple of days ago and I have to say I concur in most of the points with the writer. Most of the reasons he talks about are the reasons why I blog. Not to make myself advertisement (at all), or because I have nothing better to do. Actually, most of the last posts I&rsquo;ve written are quite short because I have plenty of better things to do. For me is as recreational as reading a good book.</p>
+
+<p>But yeah, as <em>Nathan Marz</em> says,  you should blog because it&rsquo;s good for you. You have very little to loose and a lot to win, such as intelligence! Well, not really, but it does help a lot making you think before talking and in a more organised way, in general.</p>
+
+<p>And for me, that was only when I used to write in spanish. Now I&rsquo;m even practising english! Very little to loose, indeed.</p>
+
+<p><a href="http://nathanmarz.com/blog/you-should-blog-even-if-you-have-no-readers.html">You should blog even if you have no readers &ndash; Nathan Marz</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[RAF Museum]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/04/15/raf-museum/"/>
+    <updated>2013-04-15T23:48:00+01:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/04/15/raf-museum</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s been a <em>museums</em> weekend and for the first time in months, we&rsquo;ve had warm weather in London. Since yesterday. I might recover part of my natural tan before August!</p>
+
+<p>And I also haven&rsquo;t touch a keyboard during the weekend, which is cool. It&rsquo;s been some kind of disconnection weekend, something I&rsquo;m enjoying quite a lot lately. Anyway, I will probably compensate touching too much keyboard during this whole week, as usual.</p>
+
+<p><img src="http://lh4.googleusercontent.com/-_pcmbWoxsk8/UWrLOH6ldpI/AAAAAAAAGug/bEseDeQMqew/s1041/IMG_20130414_134941.jpg" alt="RAF Museum 1" /></p>
+
+<p><img src="http://lh5.googleusercontent.com/-dCmkTamyXYo/UWrLknhGg5I/AAAAAAAAGu4/Sy_ZvoDXm4g/s1041/IMG_20130414_135018.jpg" alt="RAF Museum 2" /></p>
+
+<p><img src="http://lh5.googleusercontent.com/-YY34hR19Z50/UWrMD-OxenI/AAAAAAAAGvc/KOTcF_UAhAI/s1041/IMG_20130414_135630.jpg" alt="RAF Museum 3" /></p>
+
+<p><img src="http://lh4.googleusercontent.com/-R-ZwMx4gRIw/UWrMPlDZ8qI/AAAAAAAAGvo/pNudU5BLINk/s1041/IMG_20130414_135643.jpg" alt="RAF Museum 4" /></p>
+
+<p><img src="http://lh6.googleusercontent.com/-1h898xXJM6Y/UWrPXmQBZuI/AAAAAAAAGyc/GhIKtYFx_XY/s1041/IMG_20130414_145342.jpg" alt="RAF Museum 5" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Vim Adventures]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/04/07/vim-adventures/"/>
+    <updated>2013-04-07T23:48:00+01:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/04/07/vim-adventures</id>
+    <content type="html"><![CDATA[<p>Very nice game :)</p>
+
+<p><img src="http://lh5.googleusercontent.com/-QgJo84OtIEg/UWHUSkQG22I/AAAAAAAAGo8/tyYKEbSvpH0/s818/Screenshot+from+2013-04-07+21%3A14%3A45.png" title="vim adventures" alt="vim adventures" /></p>
+
+<p><img src="http://lh5.googleusercontent.com/-W0VzetuFgg8/UWMcuAF5x9I/AAAAAAAAGqA/R3nt0FmehHo/s934/Screenshot+from+2013-04-08+20%3A37%3A48.png" title="vim adventures" alt="vim adventures" /></p>
+
+<p>Go and play it in <a href="http://vim-adventures.com/" title="vim adventures">vim-adventures.com</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ain't Nobody Got Time For Write]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/03/25/aint-nobody-got-time-for-write/"/>
+    <updated>2013-03-25T23:48:00+00:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/03/25/aint-nobody-got-time-for-write</id>
+    <content type="html"><![CDATA[<p>Well, it&rsquo;s not that I don&rsquo;t have any time for writing short updates like this once in a while, it&rsquo;s just I&rsquo;ve been a bit busy during the last week: reading, living, <a href="http://www.urbandictionary.com/define.php?term=sofing" title="sofing">sofing</a>, surfing the interweb. I&rsquo;ve also started working in a different project at work, which has meant more voluntary reading when arriving at home. It might sound hard, but I&rsquo;m really enjoying it.</p>
+
+<p>Here&rsquo;s something I want to write about: <em>what kind of things do you share online?</em> Yeah, I know it&rsquo;s not a hot topic after months/years of debate around it. But maybe because of that, right now seems the perfect moment for asking yourself what kind of stuff do you share online and with who. I&rsquo;m not talking about being careful about pedophiles, posting pictures of yourself doing hard drugs or uploading your last amateur porn movie. Let&rsquo;s forget about those topics and think about something much simpler.</p>
+
+<p><strong>Why do we share stuff online</strong></p>
+
+<p>Well, obviously because we think someone cares about it. And I&rsquo;m sure the 99% of the people doesn&rsquo;t care at all about the 99% of the updates they read in facebook, for example. And I truly believe that around 80% of those people know that fact. Even though, we keep updating. Why? We are fascinating creatures.</p>
+
+<p><strong>What kind of stuff do you share online?</strong></p>
+
+<p>Personal stuff? Professional stuff? Nothing at all? <em>All the things</em>?</p>
+
+<p>People can think I write in this blog because I like writing (I do, by the way. At least I enjoy trying). Or because I want to show the world how cool I am because I have a blog (really, it&rsquo;s so hard having a blog these days! :P). Or maybe because I want to show future employers that I can keep side projects alive. Or maybe because I need psychological assistance and I&rsquo;ve realised it&rsquo;s cheaper rambling in a blog than paying a psychologist. Or simply because I want to keep some record of my thoughts, using the blog like some sort of diary.</p>
+
+<p>Those are real questions I&rsquo;ve already asked to myself and I&rsquo;ve got interesting answers. Which I won&rsquo;t share here, by the way. As a conclusion, I realised I&rsquo;ve also changed a lot my way of sharing stuff in the internet during these last years. I guess we all grow up, even in the internet.</p>
+
+<p><strong>UPDATE</strong>: Another -and maybe the main- reason why apart from <em>just writing</em> in this blog, I am doing it in english: I need to improve my english. Really, if you want to improve a language (English, Spanish, Python, JavaScript), there is only one way of doing it: practising. Which means speaking/reading/writing.</p>
+
+<p>Here, some pictures from the weekend.</p>
+
+<p><img src="https://lh3.googleusercontent.com/-VXSvAXXgMKw/UU3IifvERuI/AAAAAAAAGB0/Jyx4OUCE54g/s550/IMG_20130323_152115.jpg" title="snow" alt="snow" /></p>
+
+<p><img src="https://lh3.googleusercontent.com/-58DNVQnAwIs/UVDYrf0FjNI/AAAAAAAAGB4/4Wt_UjQWEHQ/s549/photo.jpg" title="punk ipa" alt="punk ipa" /></p>
+
+<p>And I&rsquo;ll close the post with this AWESOME video showing the quick-sort algorithm with a hungarian folk dance.</p>
+
+<iframe width="100%" height="420" src="http://www.youtube.com/embed/ywWBy6J5gz8" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What if money didn't matter]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/03/15/what-if-money-didnt-matter/"/>
+    <updated>2013-03-15T23:48:00+00:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/03/15/what-if-money-didnt-matter</id>
+    <content type="html"><![CDATA[<h2>1st part</h2>
+
+<iframe width="100%" height="420" src="http://www.youtube.com/embed/IQfa96aP7ow" frameborder="0" allowfullscreen></iframe>
+
+
+<p>If money didn&rsquo;t matter&hellip; I would probably do similar stuff to what I do now for a living, but much better. Better, because time wouldn&rsquo;t be an issue, so I could spend as much time as I needed/wanted for learning a particular technology, playing with it, feeling comfortable with it and doing stuff without worrying if someone will pay for it. Thank god I don&rsquo;t worry much about selling what I code, I don&rsquo;t like selling.</p>
+
+<p>Hopefully, if I still have the same hobbies when I get retired (if I ever get retired) and my brain still works, I would love to do stuff just for passion.</p>
+
+<p>But anyway, I&rsquo;m not complaining at all. I have loads of fun everyday coding at work, <em>playing with LEGO</em>. And these days I&rsquo;ve been able to play with <a href="http://backbonejs.org/" title="backbone"><em>new LEGOs</em></a>, so I&rsquo;m even happier.</p>
+
+<h2>2nd part</h2>
+
+<iframe src="http://player.vimeo.com/video/44124657" width="100%" height="420" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+<p>Very inspiring video I&rsquo;ve seen in <a href="http://blog.floqq.com/empresa/estas-haciendo-lo-que-te-apasiona-en-este-mismo-momento/" title="floqq blog">Floqq&rsquo;s Blog</a> (content in spanish). And I&rsquo;m posting this as a second part of the post of a couple of days ago, <a href="http://fuzzingtheweb.com/what-if-money-didnt-matter-alan-watts/" title="what if money didn't matter"><em>What if money didn&rsquo;t matter</em></a>.</p>
+
+<p>On that post I told briefly, as usual, what I think I would be doing with my life if money didn&rsquo;t matter. And I said I would probably like to do the same thing I&rsquo;m doing right now, because I have the luck of enjoying my job. But I also believe that&rsquo;s something that depends on the individual, because I can recognise that coding has never been vocational for me. Actually, I didn&rsquo;t realise how much I enjoyed this whole thing until I was in third year of university, almost finishing my studies.</p>
+
+<p>I would probably have enjoyed this much any other field of human knowledge, because that&rsquo;s how I am. Luckily for me, I think I have the ability of being curious about almost anything. If I had studied psychology (I considered it, actually), I would probably have got really into it. With the proper motivation, of course. And the same would have happened if I had studied physics, which was another option back in time. Anyway, I&rsquo;m sure I wouldn&rsquo;t be in London right now if I hadn&rsquo;t chosen Computer Engineering in that moment.</p>
+
+<p>I guess I&rsquo;m the perfect person for choosing wrong in life, because somehow I usually find the bright side of everything. Let&rsquo;s call it optimism/<em>will to power</em>/whatever. What&rsquo;s the point of being unhappy? I mean, why should I be angry about random stuff, while there&rsquo;s probably something out there, reachable for me, that I could be enjoying right now? Isn&rsquo;t it easier and nicer trying to find what makes you happy? I truly think it&rsquo;s way easier.</p>
+
+<p>Ok, enough rambling. What I am trying to say is: do whatever you want to do you with your live. Don&rsquo;t do what your parents want you to do, don&rsquo;t do what anyone expects you to do. Just go somewhere and meditate for a while. It won&rsquo;t be harmful. You might end up doing something crazy, but that&rsquo;s the point. Take risks, don&rsquo;t take them, just do whatever you feel. While being a bit reasonable, if possible. It&rsquo;s always better to regret something you&rsquo;ve done than something you haven&rsquo;t.</p>
+
+<p>For example, writing this crappy post. Right now, it feels like a good idea. Tomorrow morning, it will probably not. But what I&rsquo;m supposed to do, delete it? No way.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Last goodbye to Donostia]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/03/07/last-goodbye-to-donostia/"/>
+    <updated>2013-03-07T23:48:00+00:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/03/07/last-goodbye-to-donostia</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s been today, after finishing some uni paperwork. I&rsquo;m officially an engineer now, I can finally sing <em>the song</em>!</p>
+
+<p>A 5-year part of my life has come to an end after signing this last documents. It&rsquo;s been nice, I won&rsquo;t say the opposite, but I&rsquo;m also happy it came to an end. I have plenty of new and exciting stuff to experience now :)</p>
+
+<p><img src="https://lh4.googleusercontent.com/-OsYUh4FMIVE/UTfZQwnD05I/AAAAAAAAFeo/xC7G00kU8uM/s732/IMG_20130306_131437.jpg" title="donostia" alt="donostia" /></p>
+
+<h3>The song</h3>
+
+<iframe width="100%" height="420" src="http://www.youtube.com/embed/rp8hvyjZWHs" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What most schools don't teach]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/02/27/what-most-schools-dont-teach/"/>
+    <updated>2013-02-27T23:48:00+00:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/02/27/what-most-schools-dont-teach</id>
+    <content type="html"><![CDATA[<p>This is an awesome initiative by <a href="http://www.code.org/" title="code.org">www.code.org</a>.</p>
+
+<p>After watching this video, I&rsquo;ve immediately remembered my days at uni. We were a few people in class and I could easily say that not even half of us were really interested in this field. In doing stuff at our own, in learning new things in general. And I recognise I was quite lost during my first two years there (laziness maybe?), but when the third year came and I started discovering, learning and playing&hellip; everything started to make sense.</p>
+
+<p>It&rsquo;s fun, really! Getting paid for coding is like getting paid for playing with LEGO. I have reasons for being happy, I guess :)</p>
+
+<p><em>&ldquo;Great coders are today&rsquo;s rockstars&rdquo;</em> &ndash; <a href="http://en.wikipedia.org/wiki/Will.i.am" title="will.i.am">Will.i.am, The Black Eyed Peas</a></p>
+
+<p>Too bad I&rsquo;m not <em>great</em>. Yet. :P</p>
+
+<iframe width="100%" height="420" src="http://www.youtube.com/embed/dU1xS07N-FA" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sunday awesomeness]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/02/10/sunday-awesomeness/"/>
+    <updated>2013-02-10T23:48:00+00:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/02/10/sunday-awesomeness</id>
+    <content type="html"><![CDATA[<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>traceroute 216.81.59.173</span></code></pre></td></tr></table></div></figure>
+
+
+<p>[<a href="https://gist.github.com/albyr/4749065" title="cheats">cheats</a>]</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[tar]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/02/01/tar/"/>
+    <updated>2013-02-01T23:48:00+00:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/02/01/tar</id>
+    <content type="html"><![CDATA[<p>This is so <em>sadly</em> true. I used to have a bookmark with a simple explanation of how to use tar flags correctly. Good times. I don&rsquo;t use tar anymore now :)</p>
+
+<p><img src="http://imgs.xkcd.com/comics/tar.png" title="tar" alt="tar" /></p>
+
+<p><a href="http://xkcd.com/1168/" title="tar xkcd">xkcd &ndash; tar</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Internet Explorer VS Murder Rate]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/01/20/internet-explorer-vs-murder-rate/"/>
+    <updated>2013-01-20T23:48:00+00:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/01/20/internet-explorer-vs-murder-rate</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve always been sure these two things were related, but never found any proof about it. Now here it is.</p>
+
+<p><img src="http://i.imgur.com/47D7zGq.png" title="murder rate" alt="cool graph" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[This Isn't the Petition Response You're Looking For]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/01/12/this-isnt-the-petition-response-youre-looking-for/"/>
+    <updated>2013-01-12T23:48:00+00:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/01/12/this-isnt-the-petition-response-youre-looking-for</id>
+    <content type="html"><![CDATA[<p><a href="https://petitions.whitehouse.gov/petition/secure-resources-and-funding-and-begin-construction-death-star-2016/wlfKzFkN" title="request">Funny request of start building a Death Star by 2016</a> to the White House, but <a href="https://petitions.whitehouse.gov/response/isnt-petition-response-youre-looking" title="response">unbeatable response to it</a>.</p>
+
+<p>Just to summarize a bit, here are a few points in the response by the White House:</p>
+
+<ul>
+<li>To begin with, the official response title is &ldquo;This Isn&rsquo;t the Petition Response You&rsquo;re Looking For&rdquo;. Superb.</li>
+<li>&ldquo;The construction of the Death Star has been estimated to cost more than $850 quadrillion. We&rsquo;re working hard to reduce the deficit, not expand it.&rdquo;</li>
+<li>&ldquo;The Administration does not support blowing up planets.&rdquo;</li>
+<li>&ldquo;Why would we spend countless taxpayer dollars on a Death Star with a fundamental flaw that can be exploited by a one-man starship?&rdquo;</li>
+</ul>
+
+
+<p>But you should read <a href="https://petitions.whitehouse.gov/response/isnt-petition-response-youre-looking" title="response">the whole thing</a>.</p>
+
+<p>It kind of reminds me <a href="http://fuzzingtheweb.com/404/" title="404">the 404 pages I created for this blog</a> :)</p>
 ]]></content>
   </entry>
   

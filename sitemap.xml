@@ -1,12 +1,88 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://jgasteiz.github.io/blog/2013/01/01/the-junk-room/</loc>
+        <lastmod>2013-11-21T20:35:05+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jgasteiz.github.io/blog/2013/01/06/nomad/</loc>
+        <lastmod>2013-11-21T20:34:04+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jgasteiz.github.io/blog/2013/01/07/pink-as-floyd-red-hot-chili-peppers/</loc>
+        <lastmod>2013-11-21T20:31:47+00:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://jgasteiz.github.io/blog/2013/01/12/this-isnt-the-petition-response-youre-looking-for/
+        </loc>
+        <lastmod>2013-11-21T20:31:05+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jgasteiz.github.io/blog/2013/01/20/internet-explorer-vs-murder-rate/</loc>
+        <lastmod>2013-11-21T20:30:25+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jgasteiz.github.io/blog/2013/02/01/tar/</loc>
+        <lastmod>2013-11-21T20:29:52+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jgasteiz.github.io/blog/2013/02/10/sunday-awesomeness/</loc>
+        <lastmod>2013-11-21T20:28:37+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jgasteiz.github.io/blog/2013/02/27/what-most-schools-dont-teach/</loc>
+        <lastmod>2013-11-21T20:19:42+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jgasteiz.github.io/blog/2013/03/07/last-goodbye-to-donostia/</loc>
+        <lastmod>2013-11-21T20:19:17+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jgasteiz.github.io/blog/2013/03/15/what-if-money-didnt-matter/</loc>
+        <lastmod>2013-11-21T20:17:15+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jgasteiz.github.io/blog/2013/03/25/aint-nobody-got-time-for-write/</loc>
+        <lastmod>2013-11-21T20:15:26+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jgasteiz.github.io/blog/2013/04/07/vim-adventures/</loc>
+        <lastmod>2013-11-21T20:10:58+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jgasteiz.github.io/blog/2013/04/15/raf-museum/</loc>
+        <lastmod>2013-11-21T20:06:55+00:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://jgasteiz.github.io/blog/2013/04/17/you-should-blog-even-if-you-have-no-readers/
+        </loc>
+        <lastmod>2013-11-21T20:03:51+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jgasteiz.github.io/blog/2013/04/28/das-ist-berlin-2013/</loc>
+        <lastmod>2013-11-21T20:02:38+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jgasteiz.github.io/blog/2013/05/07/porto-2013/</loc>
+        <lastmod>2013-11-21T20:01:13+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jgasteiz.github.io/blog/2013/05/20/djangocon-eu-2013-warszawa/</loc>
+        <lastmod>2013-11-21T20:00:54+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jgasteiz.github.io/blog/2013/06/19/causa-sui-euporie-tide/</loc>
+        <lastmod>2013-11-21T19:58:44+00:00</lastmod>
+    </url>
+    <url>
         <loc>http://jgasteiz.github.io/blog/2013/06/24/bbq-time/</loc>
-        <lastmod>2013-11-21T19:53:38+00:00</lastmod>
+        <lastmod>2013-11-21T20:04:10+00:00</lastmod>
     </url>
     <url>
         <loc>http://jgasteiz.github.io/blog/2013/07/01/young-qualified-and-jobless/</loc>
-        <lastmod>2013-11-21T19:52:02+00:00</lastmod>
+        <lastmod>2013-11-21T20:04:13+00:00</lastmod>
     </url>
     <url>
         <loc>http://jgasteiz.github.io/blog/2013/08/23/trans-siberian-2013/</loc>
@@ -20,7 +96,7 @@
         <loc>
             http://jgasteiz.github.io/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions/
         </loc>
-        <lastmod>2013-11-21T18:37:51+00:00</lastmod>
+        <lastmod>2013-11-21T19:59:43+00:00</lastmod>
     </url>
     <url>
         <loc>http://jgasteiz.github.io/about/</loc>
@@ -28,11 +104,11 @@
     </url>
     <url>
         <loc>http://jgasteiz.github.io/blog/archives/</loc>
-        <lastmod>2013-11-21T19:53:38+00:00</lastmod>
+        <lastmod>2013-11-21T20:35:05+00:00</lastmod>
     </url>
     <url>
         <loc>http://jgasteiz.github.io/</loc>
-        <lastmod>2013-11-21T19:53:38+00:00</lastmod>
+        <lastmod>2013-11-21T20:35:05+00:00</lastmod>
     </url>
     <url>
         <loc>http://jgasteiz.github.io/robots.txt</loc>

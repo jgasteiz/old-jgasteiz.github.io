@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Travel, | Fuzzing the Web]]></title>
-  <link href="http://jgasteiz.github.io/blog/categories/travel/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Programming | Fuzzing the Web]]></title>
+  <link href="http://jgasteiz.github.io/blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://jgasteiz.github.io/"/>
   <updated>2013-11-21T20:38:10+00:00</updated>
   <id>http://jgasteiz.github.io/</id>
@@ -14,31 +14,74 @@
 
   
   <entry>
-    <title type="html"><![CDATA[BBQ time]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/06/24/bbq-time/"/>
-    <updated>2013-06-24T23:48:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/06/24/bbq-time</id>
-    <content type="html"><![CDATA[<p>A few pics from this weekend, which I&rsquo;ve shortly spent in my hometown, Vitoria-Gasteiz :)</p>
+    <title type="html"><![CDATA[Installing PIL on Ubuntu based distributions]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions/"/>
+    <updated>2013-09-26T21:09:00+01:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions</id>
+    <content type="html"><![CDATA[<p>Today I&rsquo;ve been trying to run <a href="https://npmjs.org/package/grunt-glue">grunt-glue</a> in my Elementary OS and after trying to understand why it wasn&rsquo;t running, I realised the JPEG/ZLIB support weren&rsquo;t working.</p>
 
-<p><img src="https://lh3.googleusercontent.com/-MlGTXhLHNeU/UcYywAjlQkI/AAAAAAAAJMw/CrSIwA601oQ/w1119-h839-no/IMG_20130622_141757.jpg" alt="bbq ullibarri" /></p>
+<p>It usually happens when you install PIL via pip. To fix the issue, do the following:</p>
 
-<p><img src="https://lh4.googleusercontent.com/-MrW2w4g6Be8/UcYyzhosf_I/AAAAAAAAJNE/RslMXI7hWFA/w1119-h839-no/IMG_20130622_143307.jpg" alt="bbq ullibarri" /></p>
+<p>Uninstall PIL from your virtualenv &ndash; please, use <a href="https://pypi.python.org/pypi/virtualenv">virtualenv</a>.</p>
 
-<p><img src="https://lh6.googleusercontent.com/-rklv1ENL-hI/UcYy2HeumYI/AAAAAAAAJNQ/CyO0NwvLfSw/w1119-h839-no/IMG_20130622_143327.jpg" alt="bbq ullibarri" /></p>
+<p><code>
+pip uninstall PIL
+</code></p>
 
-<p><img src="https://lh5.googleusercontent.com/-T2ErON2mKzY/UcYy64p0s7I/AAAAAAAAJNo/c1N6TfHBn_c/w1119-h839-no/IMG_20130622_143334.jpg" alt="bbq ullibarri" /></p>
+<p>Install PIL dependencies &ndash; and python-dev, if you don&rsquo;t have it installed.</p>
 
-<p><img src="https://lh3.googleusercontent.com/-gLQy5-HoC0I/Ucfgwe51ivI/AAAAAAAAJSc/Sgy4tqWJATk/w479-h800-no/2013-06-23" alt="bbq ullibarri" /></p>
+<p><code>
+sudo apt-get build-dep python-imaging
+sudo apt-get install python-dev
+</code></p>
 
-<p><img src="https://lh6.googleusercontent.com/-jIBRTU10QvQ/UcYzGjcmjYI/AAAAAAAAJOQ/RTA_sy3eFpo/w1119-h839-no/IMG_20130622_164841.jpg" alt="bbq ullibarri" /></p>
+<p>Create a few symbolic links and install PIL again. When you install PIL, do it with a -U argument to see some output of the installation. I&rsquo;ve noticed the sources for 32bit installations would change to <em>i386-linux-gnu</em> instead of <em>x86_64linux-gnu</em>.</p>
 
-<p><img src="https://lh5.googleusercontent.com/-GXNDdu5P5sU/UcfguuZeESI/AAAAAAAAJSU/iUWM7Etwod4/w800-h600-no/2013-06-23" alt="bbq ullibarri" /></p>
+<p>```
+sudo ln -s /usr/lib/x86_64-linux-gnu/libjpeg.so /usr/lib
+sudo ln -s /usr/lib/x86_64-linux-gnu/libfreetype.so /usr/lib
+sudo ln -s /usr/lib/x86_64-linux-gnu/libz.so /usr/lib</p>
 
-<p><img src="https://lh4.googleusercontent.com/-kmwh1YX8Hag/UcfgxocBfiI/AAAAAAAAJSk/Y4ahG5VBsHw/w800-h600-no/2013-06-23" alt="bbq ullibarri" /></p>
+<p>pip install -U PIL
+```
+If everything went fine, you shoould see something like this if you scroll up a bit:</p>
 
-<p><img src="https://lh3.googleusercontent.com/-bzIW4WH4t4A/UcYzLzacbuI/AAAAAAAAJOo/J0BV76gXwUs/w1119-h839-no/IMG_20130622_164855.jpg" alt="bbq ullibarri" /></p>
+<h2>```</h2>
 
-<p>It&rsquo;s always a pleasure and a bit sad going back to Vitoria for a few days. One part of me, wants to stay there. Another part wants to come back. But I always manage to get moments like these, lucky me!</p>
+<h2>PIL 1.1.7 SETUP SUMMARY</h2>
+
+<p>version       1.1.7
+platform      linux2 2.7.3 (default, Apr 10 2013, 06:20:15)</p>
+
+<pre><code>          [GCC 4.6.3]
+</code></pre>
+
+<hr />
+
+<p>*** TKINTER support not available
+&mdash;&ndash; JPEG support available
+&mdash;&ndash; ZLIB (PNG/ZIP) support available
+&mdash;&ndash; FREETYPE2 support available</p>
+
+<h2>*** LITTLECMS support not available</h2>
+
+<p>```</p>
+
+<p>Another option, instead of creating those links manually, would be installing PIL in the machine python installation.</p>
+
+<p><code>
+sudo apt-get install python-imaging
+</code></p>
+
+<p>And another option, although not what you were looking for, would be installing Pillow &ndash; which is a better PIL, basically.</p>
+
+<p><code>
+pip install Pillow
+</code></p>
+
+<p>After any of these 3 options you should be able to use the python imaging library happily now.</p>
+
+<p>PS: Thanks everyone for the corrections and suggestions for this post ;)</p>
 ]]></content>
   </entry>
   
@@ -104,42 +147,17 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Das ist Berlin]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/04/28/das-ist-berlin-2013/"/>
-    <updated>2013-04-28T23:48:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/04/28/das-ist-berlin-2013</id>
-    <content type="html"><![CDATA[<p><strong>Prologue</strong></p>
+    <title type="html"><![CDATA[Vim Adventures]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/04/07/vim-adventures/"/>
+    <updated>2013-04-07T23:48:00+01:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/04/07/vim-adventures</id>
+    <content type="html"><![CDATA[<p>Very nice game :)</p>
 
-<p>Take a look at last year&rsquo;s post, <a href="/das-ist-berlin/">Das ist Berlin</a>. And also <a href="/desertfest-more-stuff/">Desertfest &ndash; more stuff</a></p>
+<p><img src="http://lh5.googleusercontent.com/-QgJo84OtIEg/UWHUSkQG22I/AAAAAAAAGo8/tyYKEbSvpH0/s818/Screenshot+from+2013-04-07+21%3A14%3A45.png" title="vim adventures" alt="vim adventures" /></p>
 
-<p><strong>This year</strong></p>
+<p><img src="http://lh5.googleusercontent.com/-W0VzetuFgg8/UWMcuAF5x9I/AAAAAAAAGqA/R3nt0FmehHo/s934/Screenshot+from+2013-04-08+20%3A37%3A48.png" title="vim adventures" alt="vim adventures" /></p>
 
-<p>We&rsquo;ve been in the same hostel and festival. Both of them were awesome and we couldn&rsquo;t come up with a better idea for spending a few days together. Great live concerts (less than the last year, though), new places we&rsquo;ve visited and lots of beer we&rsquo;ve drunk.</p>
-
-<p><img src="//lh5.googleusercontent.com/-FE65bt902O4/UXstYHEtE2I/AAAAAAAAHP4/tIA3ouexClQ/s960/PANO_20130426_141922.jpg" alt="" /><br/>
-<em>Ishtar Gate &ndash; Pergamon Museum</em></p>
-
-<p><img src="//lh4.googleusercontent.com/-w9PcN8A1fR0/UXvIa76iY0I/AAAAAAAAHTs/OX5sn4t69Mk/s960/IMG_20130427_141527.jpg" alt="Food" /><br/>
-<em>Having massive lunch on a typical german restaurant</em></p>
-
-<p><img src="//lh6.googleusercontent.com/-mrL28dsIyVM/UXsn1LTreJI/AAAAAAAAHMc/tzEPvOX9s58/s960/IMG_20130426_191516.jpg" alt="" /><br/>
-<em>Blues Pills</em></p>
-
-<p><img src="//lh4.googleusercontent.com/-PlbfByJCrnw/UXx91mAsiOI/AAAAAAAAHaE/RcJOAK0VMCc/s960/IMG_20130427_195220.jpg" alt="" /><br/>
-<em>Yawning Man</em></p>
-
-<p><img src="//lh3.googleusercontent.com/-cAAo-mTac2I/UXsx5tVyPQI/AAAAAAAAHR0/d9ES4Es66TU/s960/IMG_20130426_162149.jpg" alt="" /><br/>
-<em>Berliner Kindl &ndash; my favorite</em></p>
-
-<p><img src="//lh3.googleusercontent.com/-o8mut6iIDY0/UXzOnna-xpI/AAAAAAAAHbQ/nTx1AN79M68/s960/IMG_20130427_234747.jpg" alt="" /><br/>
-<em>Zeta floating</em></p>
-
-<p><img src="//lh3.googleusercontent.com/-Ysdrw01dx70/UXvZ18bfB6I/AAAAAAAAHUk/u05zoyumZrY/s960/IMG_20130427_151430.jpg" alt="" /><br/>
-<em>Love</em></p>
-
-<p>And much more that will remain in my mind for years.</p>
-
-<p>It&rsquo;s time to rest now. Tomorrow I&rsquo;ll be part of London&rsquo;s heartbeat again and I must <em>beat</em> properly.</p>
+<p>Go and play it in <a href="http://vim-adventures.com/" title="vim adventures">vim-adventures.com</a></p>
 ]]></content>
   </entry>
   

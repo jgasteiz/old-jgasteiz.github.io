@@ -1,0 +1,13 @@
+---
+layout: post
+title: "tar"
+date: 2013-02-01 23:48
+comments: true
+categories: Comic
+---
+
+This is so _sadly_ true. I used to have a bookmark with a simple explanation of how to use tar flags correctly. Good times. I don't use tar anymore now :)
+
+![tar](http://imgs.xkcd.com/comics/tar.png "tar")
+
+[xkcd - tar](http://xkcd.com/1168/ "tar xkcd")

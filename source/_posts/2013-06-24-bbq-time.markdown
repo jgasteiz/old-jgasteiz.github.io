@@ -3,7 +3,7 @@ layout: post
 title: "BBQ time"
 date: 2013-06-24 23:48
 comments: true
-categories: Life
+categories: Travel, Miscellaneous
 ---
 
 A few pics from this weekend, which I've shortly spent in my hometown, Vitoria-Gasteiz :)

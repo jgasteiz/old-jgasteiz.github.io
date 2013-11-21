@@ -3,7 +3,7 @@ layout: post
 title: "Installing PIL on Ubuntu based distributions"
 date: 2013-09-26 21:09
 comments: true
-categories: Python, Grunt, JavaScript
+categories: Programming
 ---
 
 Today I've been trying to run [grunt-glue](https://npmjs.org/package/grunt-glue) in my Elementary OS and after trying to understand why it wasn't running, I realised the JPEG/ZLIB support weren't working.

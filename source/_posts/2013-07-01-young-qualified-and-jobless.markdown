@@ -3,7 +3,7 @@ layout: post
 title: "Young, qualified and jobless"
 date: 2013-07-01 23:48
 comments: true
-categories: Life
+categories: Miscellaneous
 ---
 
 I've read [this article](http://www.guardian.co.uk/world/2013/jul/01/jobless-europe-young-qualified) in my way back home, which was in the home page of [The Guardian UK](http://www.guardian.co.uk/). Sad feelings, sad stories. Close and familiar.

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Programming | Fuzzing the Web]]></title>
+  <link href="http://jgasteiz.github.io/blog/categories/programming/atom.xml" rel="self"/>
+  <link href="http://jgasteiz.github.io/"/>
+  <updated>2013-11-21T20:38:10+00:00</updated>
+  <id>http://jgasteiz.github.io/</id>
+  <author>
+    <name><![CDATA[Javi Manzano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Installing PIL on Ubuntu based distributions]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions/"/>
+    <updated>2013-09-26T21:09:00+01:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions</id>
+    <content type="html"><![CDATA[<p>Today I&rsquo;ve been trying to run <a href="https://npmjs.org/package/grunt-glue">grunt-glue</a> in my Elementary OS and after trying to understand why it wasn&rsquo;t running, I realised the JPEG/ZLIB support weren&rsquo;t working.</p>
+
+<p>It usually happens when you install PIL via pip. To fix the issue, do the following:</p>
+
+<p>Uninstall PIL from your virtualenv &ndash; please, use <a href="https://pypi.python.org/pypi/virtualenv">virtualenv</a>.</p>
+
+<p><code>
+pip uninstall PIL
+</code></p>
+
+<p>Install PIL dependencies &ndash; and python-dev, if you don&rsquo;t have it installed.</p>
+
+<p><code>
+sudo apt-get build-dep python-imaging
+sudo apt-get install python-dev
+</code></p>
+
+<p>Create a few symbolic links and install PIL again. When you install PIL, do it with a -U argument to see some output of the installation. I&rsquo;ve noticed the sources for 32bit installations would change to <em>i386-linux-gnu</em> instead of <em>x86_64linux-gnu</em>.</p>
+
+<p>```
+sudo ln -s /usr/lib/x86_64-linux-gnu/libjpeg.so /usr/lib
+sudo ln -s /usr/lib/x86_64-linux-gnu/libfreetype.so /usr/lib
+sudo ln -s /usr/lib/x86_64-linux-gnu/libz.so /usr/lib</p>
+
+<p>pip install -U PIL
+```
+If everything went fine, you shoould see something like this if you scroll up a bit:</p>
+
+<h2>```</h2>
+
+<h2>PIL 1.1.7 SETUP SUMMARY</h2>
+
+<p>version       1.1.7
+platform      linux2 2.7.3 (default, Apr 10 2013, 06:20:15)</p>
+
+<pre><code>          [GCC 4.6.3]
+</code></pre>
+
+<hr />
+
+<p>*** TKINTER support not available
+&mdash;&ndash; JPEG support available
+&mdash;&ndash; ZLIB (PNG/ZIP) support available
+&mdash;&ndash; FREETYPE2 support available</p>
+
+<h2>*** LITTLECMS support not available</h2>
+
+<p>```</p>
+
+<p>Another option, instead of creating those links manually, would be installing PIL in the machine python installation.</p>
+
+<p><code>
+sudo apt-get install python-imaging
+</code></p>
+
+<p>And another option, although not what you were looking for, would be installing Pillow &ndash; which is a better PIL, basically.</p>
+
+<p><code>
+pip install Pillow
+</code></p>
+
+<p>After any of these 3 options you should be able to use the python imaging library happily now.</p>
+
+<p>PS: Thanks everyone for the corrections and suggestions for this post ;)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DjangoCon EU 2013, Warszawa]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/05/20/djangocon-eu-2013-warszawa/"/>
+    <updated>2013-05-20T23:48:00+01:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/05/20/djangocon-eu-2013-warszawa</id>
+    <content type="html"><![CDATA[<p>This is an entry I&rsquo;ve been writing during DjangoCon 2013, from several places: hotel bedroom, laying in the grass from DjangoCon, having a beer in some terrace in Warsaw, airplane and back in the office before starting Monday :)</p>
+
+<h2>Friday, 17th May</h2>
+
+<p>Dzień dobry from my hotel room (cloning repos at 30KiB/s). I&rsquo;m half-exhausted half-excited right now. We are having an awesome weather in Warsaw these days and somehow it charges my batteries. Has to be photosynthesis.</p>
+
+<p>We arrived here  on Tuesday and after a proper afternoon rest, we headed to Stare Miasto to enjoy a bit the city. I managed to take these beautiful pics there.</p>
+
+<p><img src="http://lh3.googleusercontent.com/-4gYG4VDaD48/UZKvDAINwhI/AAAAAAAAIYY/rYuEhgPIT9M/w1532-h517-no/PANO_20130514_192834.jpg" title="Stare Miasto" alt="Stare Miasto 1" /></p>
+
+<p><img src="http://lh4.googleusercontent.com/-27IjArG1en4/UZKtfFUSraI/AAAAAAAAIXk/uw2es9HFsc0/w1533-h802-no/PANO_20130514_190623.jpg" title="Stare Miasto" alt="Stare Miasto 2" /></p>
+
+<p>On Wednesday morning DjangoCon started. My first impression of the venue was that they had experimented <em>a lot</em> setting up a real circus and trusting a lot on the weather. But after spending a few minutes there I realised they couldn&rsquo;t have chosen a better venue.</p>
+
+<p><img src="http://lh3.googleusercontent.com/-PZkNfzT-HH4/UZOwCl0tHGI/AAAAAAAAIcU/bBWh6AloaDk/w1533-h843-no/PANO_20130515_082237.jpg" title="Django Circus" alt="DjangoCon" /></p>
+
+<p>YES, it&rsquo;s a real circus. Here&rsquo;s a panorama view from the inside.</p>
+
+<p><img src="http://lh6.googleusercontent.com/-8qbIetxxq_c/UZc01mFeMbI/AAAAAAAAIfg/qEi8PdRIMyc/w1535-h739-no/PANO_20130517_122733.jpg" alt="DjangoCon" /></p>
+
+<p>Even thought I missed a few talks during the whole event, I met lots of great, wise and experienced developers/people.</p>
+
+<p><strong>The food</strong>: Since DjangoCon started we&rsquo;ve managed to get pierogi, popcorn, sandwiches, beer, <em>scoops</em> of ice cream, fruit, coffee&hellip; everything by <a href="https://www.facebook.com/bulka.spolka">Bulka i Spólka</a>. For sure, I can tell DjangoCon provided an environment that many other conferences would like to have. <strong>Well done</strong>.</p>
+
+<h2>Saturday, 18th May</h2>
+
+<p>To finish the <em>talkings</em>, <a href="http://sendgrid.com/">SendGrid</a> sponsored Friday&rsquo;s evening party. An awesome performance with the guitar by <a href="https://twitter.com/dN0t">Rob Spectre</a> and <a href="https://twitter.com/brandon_rhodes">Brandon Rhodes</a> made the night and eventually we ran out of beer. Sometimes like these, I wish I had a proper camera with me to immortalise these kind of moments.</p>
+
+<p><img src="http://lh3.googleusercontent.com/-XqBQCjOFfps/UZc1hq9hWWI/AAAAAAAAIhY/N7sL7U2D4bg/w1167-h875-no/IMG_20130517_215011.jpg" alt="Rob Spectre and Brandon Rhodes" /></p>
+
+<p>Oh, and I also got a signed copy of <a href="https://django.2scoops.org/">Two Scoops of Django</a>! &ndash; A must read for every Django developer. I don&rsquo;t say this, it&rsquo;s said by many people.</p>
+
+<p><img src="http://lh4.googleusercontent.com/-yDkh5eUoqgU/UZYMbaIWKXI/AAAAAAAAIfI/jtc5sPCuNHw/w656-h875-no/2013+-+1" alt="Two Scoops of Django" /></p>
+
+<p>Hah and if you feel curious about the <em>famous</em> PhotoBooth in DjangoCon, take a look at this <a href="http://www.facebook.com/media/set/?set=a.578110078887020.1073741829.469934899704539&amp;type=1">public album in facebook</a>.</p>
+
+<p>Example:</p>
+
+<p><img src="http://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-frc1/486653_578113725553322_1655252040_n.jpg" alt="photobooth" /></p>
+
+<h2>Sunday, 19th May</h2>
+
+<p>The party is over. The sprints are over too. It&rsquo;s been huge, all of it. It&rsquo;s the first time I feel part of a community like this, it feels very nice. I didn&rsquo;t get any picture of the sprints, I was quite immersed in the code for both Saturday and Sunday.</p>
+
+<p>During Saturday, I <em>tried</em> to contribute to Django project. I worked on a ticket (work still in progress) and from my side it wasn&rsquo;t that much contribution, but after the experience I&rsquo;m less afraid to pick any ticket now and work on them. It was something necessary in order to start contributing in a future.</p>
+
+<p>I spent today&rsquo;s morning working on personal stuff, something I started coding for personal use (which I&rsquo;m already using, by the way) and I will release in a near future. But I don&rsquo;t want to talk about it yet. I will only say it has something to do with <em>learning</em> stuff. For now, only languages :p</p>
+
+<h2>Monday, 20th May (already in the office)</h2>
+
+<p>I think the guys in France will have very difficult to organise an event as awesome as this next year, but something else I&rsquo;ve learnt these days is: with hard work, motivation and love, you can achieve anything. So as long as next year&rsquo;s organisation works hard on getting an awesome DjangoCon, everything will be just fine.</p>
+
+<p>Dziękuję for these awesome days, DjangoCon + Warsaw!!!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Vim Adventures]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/04/07/vim-adventures/"/>
+    <updated>2013-04-07T23:48:00+01:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/04/07/vim-adventures</id>
+    <content type="html"><![CDATA[<p>Very nice game :)</p>
+
+<p><img src="http://lh5.googleusercontent.com/-QgJo84OtIEg/UWHUSkQG22I/AAAAAAAAGo8/tyYKEbSvpH0/s818/Screenshot+from+2013-04-07+21%3A14%3A45.png" title="vim adventures" alt="vim adventures" /></p>
+
+<p><img src="http://lh5.googleusercontent.com/-W0VzetuFgg8/UWMcuAF5x9I/AAAAAAAAGqA/R3nt0FmehHo/s934/Screenshot+from+2013-04-08+20%3A37%3A48.png" title="vim adventures" alt="vim adventures" /></p>
+
+<p>Go and play it in <a href="http://vim-adventures.com/" title="vim adventures">vim-adventures.com</a></p>
+]]></content>
+  </entry>
+  
+</feed>

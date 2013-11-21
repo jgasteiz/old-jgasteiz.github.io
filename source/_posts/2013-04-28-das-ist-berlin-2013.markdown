@@ -3,7 +3,7 @@ layout: post
 title: "Das ist Berlin"
 date: 2013-04-28 23:48
 comments: true
-categories: Travel, Music
+categories: [Travel, Music]
 ---
 
 **Prologue**

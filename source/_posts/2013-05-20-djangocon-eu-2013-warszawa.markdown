@@ -3,7 +3,7 @@ layout: post
 title: "DjangoCon EU 2013, Warszawa"
 date: 2013-05-20 23:48
 comments: true
-categories: Travel, Programming
+categories: [Travel, Programming]
 ---
 
 This is an entry I've been writing during DjangoCon 2013, from several places: hotel bedroom, laying in the grass from DjangoCon, having a beer in some terrace in Warsaw, airplane and back in the office before starting Monday :)

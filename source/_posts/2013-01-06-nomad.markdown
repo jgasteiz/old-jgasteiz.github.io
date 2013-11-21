@@ -3,7 +3,7 @@ layout: post
 title: "Nomad"
 date: 2013-01-06 23:48
 comments: true
-categories: Music, Miscellaneous
+categories: [Music, Miscellaneous]
 ---
 
 ![Nomadic Pursuits Cover](http://farm9.staticflickr.com/8364/8342367280_e2edb34945_o.png "nomad")

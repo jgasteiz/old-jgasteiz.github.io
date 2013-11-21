@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Internet, | Fuzzing the Web]]></title>
+  <title><![CDATA[Category: Internet | Fuzzing the Web]]></title>
   <link href="http://jgasteiz.github.io/blog/categories/internet/atom.xml" rel="self"/>
   <link href="http://jgasteiz.github.io/"/>
-  <updated>2013-11-21T20:38:10+00:00</updated>
+  <updated>2013-11-21T20:56:13+00:00</updated>
   <id>http://jgasteiz.github.io/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
@@ -25,6 +25,110 @@
 <p><img src="http://lh5.googleusercontent.com/-W0VzetuFgg8/UWMcuAF5x9I/AAAAAAAAGqA/R3nt0FmehHo/s934/Screenshot+from+2013-04-08+20%3A37%3A48.png" title="vim adventures" alt="vim adventures" /></p>
 
 <p>Go and play it in <a href="http://vim-adventures.com/" title="vim adventures">vim-adventures.com</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ain't Nobody Got Time For Write]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/03/25/aint-nobody-got-time-for-write/"/>
+    <updated>2013-03-25T23:48:00+00:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/03/25/aint-nobody-got-time-for-write</id>
+    <content type="html"><![CDATA[<p>Well, it&rsquo;s not that I don&rsquo;t have any time for writing short updates like this once in a while, it&rsquo;s just I&rsquo;ve been a bit busy during the last week: reading, living, <a href="http://www.urbandictionary.com/define.php?term=sofing" title="sofing">sofing</a>, surfing the interweb. I&rsquo;ve also started working in a different project at work, which has meant more voluntary reading when arriving at home. It might sound hard, but I&rsquo;m really enjoying it.</p>
+
+<p>Here&rsquo;s something I want to write about: <em>what kind of things do you share online?</em> Yeah, I know it&rsquo;s not a hot topic after months/years of debate around it. But maybe because of that, right now seems the perfect moment for asking yourself what kind of stuff do you share online and with who. I&rsquo;m not talking about being careful about pedophiles, posting pictures of yourself doing hard drugs or uploading your last amateur porn movie. Let&rsquo;s forget about those topics and think about something much simpler.</p>
+
+<p><strong>Why do we share stuff online</strong></p>
+
+<p>Well, obviously because we think someone cares about it. And I&rsquo;m sure the 99% of the people doesn&rsquo;t care at all about the 99% of the updates they read in facebook, for example. And I truly believe that around 80% of those people know that fact. Even though, we keep updating. Why? We are fascinating creatures.</p>
+
+<p><strong>What kind of stuff do you share online?</strong></p>
+
+<p>Personal stuff? Professional stuff? Nothing at all? <em>All the things</em>?</p>
+
+<p>People can think I write in this blog because I like writing (I do, by the way. At least I enjoy trying). Or because I want to show the world how cool I am because I have a blog (really, it&rsquo;s so hard having a blog these days! :P). Or maybe because I want to show future employers that I can keep side projects alive. Or maybe because I need psychological assistance and I&rsquo;ve realised it&rsquo;s cheaper rambling in a blog than paying a psychologist. Or simply because I want to keep some record of my thoughts, using the blog like some sort of diary.</p>
+
+<p>Those are real questions I&rsquo;ve already asked to myself and I&rsquo;ve got interesting answers. Which I won&rsquo;t share here, by the way. As a conclusion, I realised I&rsquo;ve also changed a lot my way of sharing stuff in the internet during these last years. I guess we all grow up, even in the internet.</p>
+
+<p><strong>UPDATE</strong>: Another -and maybe the main- reason why apart from <em>just writing</em> in this blog, I am doing it in english: I need to improve my english. Really, if you want to improve a language (English, Spanish, Python, JavaScript), there is only one way of doing it: practising. Which means speaking/reading/writing.</p>
+
+<p>Here, some pictures from the weekend.</p>
+
+<p><img src="https://lh3.googleusercontent.com/-VXSvAXXgMKw/UU3IifvERuI/AAAAAAAAGB0/Jyx4OUCE54g/s550/IMG_20130323_152115.jpg" title="snow" alt="snow" /></p>
+
+<p><img src="https://lh3.googleusercontent.com/-58DNVQnAwIs/UVDYrf0FjNI/AAAAAAAAGB4/4Wt_UjQWEHQ/s549/photo.jpg" title="punk ipa" alt="punk ipa" /></p>
+
+<p>And I&rsquo;ll close the post with this AWESOME video showing the quick-sort algorithm with a hungarian folk dance.</p>
+
+<iframe width="100%" height="420" src="http://www.youtube.com/embed/ywWBy6J5gz8" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What if money didn't matter]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/03/15/what-if-money-didnt-matter/"/>
+    <updated>2013-03-15T23:48:00+00:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/03/15/what-if-money-didnt-matter</id>
+    <content type="html"><![CDATA[<h2>1st part</h2>
+
+<iframe width="100%" height="420" src="http://www.youtube.com/embed/IQfa96aP7ow" frameborder="0" allowfullscreen></iframe>
+
+
+<p>If money didn&rsquo;t matter&hellip; I would probably do similar stuff to what I do now for a living, but much better. Better, because time wouldn&rsquo;t be an issue, so I could spend as much time as I needed/wanted for learning a particular technology, playing with it, feeling comfortable with it and doing stuff without worrying if someone will pay for it. Thank god I don&rsquo;t worry much about selling what I code, I don&rsquo;t like selling.</p>
+
+<p>Hopefully, if I still have the same hobbies when I get retired (if I ever get retired) and my brain still works, I would love to do stuff just for passion.</p>
+
+<p>But anyway, I&rsquo;m not complaining at all. I have loads of fun everyday coding at work, <em>playing with LEGO</em>. And these days I&rsquo;ve been able to play with <a href="http://backbonejs.org/" title="backbone"><em>new LEGOs</em></a>, so I&rsquo;m even happier.</p>
+
+<h2>2nd part</h2>
+
+<iframe src="http://player.vimeo.com/video/44124657" width="100%" height="420" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+<p>Very inspiring video I&rsquo;ve seen in <a href="http://blog.floqq.com/empresa/estas-haciendo-lo-que-te-apasiona-en-este-mismo-momento/" title="floqq blog">Floqq&rsquo;s Blog</a> (content in spanish). And I&rsquo;m posting this as a second part of the post of a couple of days ago, <a href="http://fuzzingtheweb.com/what-if-money-didnt-matter-alan-watts/" title="what if money didn't matter"><em>What if money didn&rsquo;t matter</em></a>.</p>
+
+<p>On that post I told briefly, as usual, what I think I would be doing with my life if money didn&rsquo;t matter. And I said I would probably like to do the same thing I&rsquo;m doing right now, because I have the luck of enjoying my job. But I also believe that&rsquo;s something that depends on the individual, because I can recognise that coding has never been vocational for me. Actually, I didn&rsquo;t realise how much I enjoyed this whole thing until I was in third year of university, almost finishing my studies.</p>
+
+<p>I would probably have enjoyed this much any other field of human knowledge, because that&rsquo;s how I am. Luckily for me, I think I have the ability of being curious about almost anything. If I had studied psychology (I considered it, actually), I would probably have got really into it. With the proper motivation, of course. And the same would have happened if I had studied physics, which was another option back in time. Anyway, I&rsquo;m sure I wouldn&rsquo;t be in London right now if I hadn&rsquo;t chosen Computer Engineering in that moment.</p>
+
+<p>I guess I&rsquo;m the perfect person for choosing wrong in life, because somehow I usually find the bright side of everything. Let&rsquo;s call it optimism/<em>will to power</em>/whatever. What&rsquo;s the point of being unhappy? I mean, why should I be angry about random stuff, while there&rsquo;s probably something out there, reachable for me, that I could be enjoying right now? Isn&rsquo;t it easier and nicer trying to find what makes you happy? I truly think it&rsquo;s way easier.</p>
+
+<p>Ok, enough rambling. What I am trying to say is: do whatever you want to do you with your live. Don&rsquo;t do what your parents want you to do, don&rsquo;t do what anyone expects you to do. Just go somewhere and meditate for a while. It won&rsquo;t be harmful. You might end up doing something crazy, but that&rsquo;s the point. Take risks, don&rsquo;t take them, just do whatever you feel. While being a bit reasonable, if possible. It&rsquo;s always better to regret something you&rsquo;ve done than something you haven&rsquo;t.</p>
+
+<p>For example, writing this crappy post. Right now, it feels like a good idea. Tomorrow morning, it will probably not. But what I&rsquo;m supposed to do, delete it? No way.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What most schools don't teach]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/02/27/what-most-schools-dont-teach/"/>
+    <updated>2013-02-27T23:48:00+00:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/02/27/what-most-schools-dont-teach</id>
+    <content type="html"><![CDATA[<p>This is an awesome initiative by <a href="http://www.code.org/" title="code.org">www.code.org</a>.</p>
+
+<p>After watching this video, I&rsquo;ve immediately remembered my days at uni. We were a few people in class and I could easily say that not even half of us were really interested in this field. In doing stuff at our own, in learning new things in general. And I recognise I was quite lost during my first two years there (laziness maybe?), but when the third year came and I started discovering, learning and playing&hellip; everything started to make sense.</p>
+
+<p>It&rsquo;s fun, really! Getting paid for coding is like getting paid for playing with LEGO. I have reasons for being happy, I guess :)</p>
+
+<p><em>&ldquo;Great coders are today&rsquo;s rockstars&rdquo;</em> &ndash; <a href="http://en.wikipedia.org/wiki/Will.i.am" title="will.i.am">Will.i.am, The Black Eyed Peas</a></p>
+
+<p>Too bad I&rsquo;m not <em>great</em>. Yet. :P</p>
+
+<iframe width="100%" height="420" src="http://www.youtube.com/embed/dU1xS07N-FA" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sunday awesomeness]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/02/10/sunday-awesomeness/"/>
+    <updated>2013-02-10T23:48:00+00:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/02/10/sunday-awesomeness</id>
+    <content type="html"><![CDATA[<p><code>
+traceroute 216.81.59.173
+</code></p>
+
+<p>[<a href="https://gist.github.com/albyr/4749065" title="cheats">cheats</a>]</p>
 ]]></content>
   </entry>
   

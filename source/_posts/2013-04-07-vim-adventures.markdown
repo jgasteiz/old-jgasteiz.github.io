@@ -3,7 +3,7 @@ layout: post
 title: "Vim Adventures"
 date: 2013-04-07 23:48
 comments: true
-categories: Internet, Programming
+categories: [Internet, Programming]
 ---
 
 Very nice game :)

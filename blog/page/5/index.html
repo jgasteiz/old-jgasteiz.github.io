@@ -1,0 +1,364 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Fuzzing the Web</title>
+  <meta name="author" content="Javi Manzano">
+
+  
+  <meta name="description" content="Well, it&rsquo;s not that I don&rsquo;t have any time for writing short updates like this once in a while, it&rsquo;s just I&rsquo;ve been a bit busy &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://jgasteiz.github.io/blog/page/5">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="Fuzzing the Web" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-44413405-1', 'fuzzopress.herokuapp.com');
+    ga('send', 'pageview');
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Fuzzing the Web</a></h1>
+  
+    <h2>Javi Manzano's blog</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:jgasteiz.github.io" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+  <li><a href="/about">About</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2013/03/25/aint-nobody-got-time-for-write/">Ain&#8217;t Nobody Got Time for Write</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-03-25T23:48:00+00:00" pubdate data-updated="true">Mar 25<span>th</span>, 2013</time>
+        
+         | <a href="/blog/2013/03/25/aint-nobody-got-time-for-write/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Well, it&rsquo;s not that I don&rsquo;t have any time for writing short updates like this once in a while, it&rsquo;s just I&rsquo;ve been a bit busy during the last week: reading, living, <a href="http://www.urbandictionary.com/define.php?term=sofing" title="sofing">sofing</a>, surfing the interweb. I&rsquo;ve also started working in a different project at work, which has meant more voluntary reading when arriving at home. It might sound hard, but I&rsquo;m really enjoying it.</p>
+
+<p>Here&rsquo;s something I want to write about: <em>what kind of things do you share online?</em> Yeah, I know it&rsquo;s not a hot topic after months/years of debate around it. But maybe because of that, right now seems the perfect moment for asking yourself what kind of stuff do you share online and with who. I&rsquo;m not talking about being careful about pedophiles, posting pictures of yourself doing hard drugs or uploading your last amateur porn movie. Let&rsquo;s forget about those topics and think about something much simpler.</p>
+
+<p><strong>Why do we share stuff online</strong></p>
+
+<p>Well, obviously because we think someone cares about it. And I&rsquo;m sure the 99% of the people doesn&rsquo;t care at all about the 99% of the updates they read in facebook, for example. And I truly believe that around 80% of those people know that fact. Even though, we keep updating. Why? We are fascinating creatures.</p>
+
+<p><strong>What kind of stuff do you share online?</strong></p>
+
+<p>Personal stuff? Professional stuff? Nothing at all? <em>All the things</em>?</p>
+
+<p>People can think I write in this blog because I like writing (I do, by the way. At least I enjoy trying). Or because I want to show the world how cool I am because I have a blog (really, it&rsquo;s so hard having a blog these days! :P). Or maybe because I want to show future employers that I can keep side projects alive. Or maybe because I need psychological assistance and I&rsquo;ve realised it&rsquo;s cheaper rambling in a blog than paying a psychologist. Or simply because I want to keep some record of my thoughts, using the blog like some sort of diary.</p>
+
+<p>Those are real questions I&rsquo;ve already asked to myself and I&rsquo;ve got interesting answers. Which I won&rsquo;t share here, by the way. As a conclusion, I realised I&rsquo;ve also changed a lot my way of sharing stuff in the internet during these last years. I guess we all grow up, even in the internet.</p>
+
+<p><strong>UPDATE</strong>: Another -and maybe the main- reason why apart from <em>just writing</em> in this blog, I am doing it in english: I need to improve my english. Really, if you want to improve a language (English, Spanish, Python, JavaScript), there is only one way of doing it: practising. Which means speaking/reading/writing.</p>
+
+<p>Here, some pictures from the weekend.</p>
+
+<p><img src="https://lh3.googleusercontent.com/-VXSvAXXgMKw/UU3IifvERuI/AAAAAAAAGB0/Jyx4OUCE54g/s550/IMG_20130323_152115.jpg" title="snow" alt="snow" /></p>
+
+<p><img src="https://lh3.googleusercontent.com/-58DNVQnAwIs/UVDYrf0FjNI/AAAAAAAAGB4/4Wt_UjQWEHQ/s549/photo.jpg" title="punk ipa" alt="punk ipa" /></p>
+
+<p>And I&rsquo;ll close the post with this AWESOME video showing the quick-sort algorithm with a hungarian folk dance.</p>
+
+<iframe width="100%" height="420" src="http://www.youtube.com/embed/ywWBy6J5gz8" frameborder="0" allowfullscreen></iframe>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2013/03/15/what-if-money-didnt-matter/">What if Money Didn&#8217;t Matter</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-03-15T23:48:00+00:00" pubdate data-updated="true">Mar 15<span>th</span>, 2013</time>
+        
+         | <a href="/blog/2013/03/15/what-if-money-didnt-matter/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><h2>1st part</h2>
+
+<iframe width="100%" height="420" src="http://www.youtube.com/embed/IQfa96aP7ow" frameborder="0" allowfullscreen></iframe>
+
+
+<p>If money didn&rsquo;t matter&hellip; I would probably do similar stuff to what I do now for a living, but much better. Better, because time wouldn&rsquo;t be an issue, so I could spend as much time as I needed/wanted for learning a particular technology, playing with it, feeling comfortable with it and doing stuff without worrying if someone will pay for it. Thank god I don&rsquo;t worry much about selling what I code, I don&rsquo;t like selling.</p>
+
+<p>Hopefully, if I still have the same hobbies when I get retired (if I ever get retired) and my brain still works, I would love to do stuff just for passion.</p>
+
+<p>But anyway, I&rsquo;m not complaining at all. I have loads of fun everyday coding at work, <em>playing with LEGO</em>. And these days I&rsquo;ve been able to play with <a href="http://backbonejs.org/" title="backbone"><em>new LEGOs</em></a>, so I&rsquo;m even happier.</p>
+
+<h2>2nd part</h2>
+
+<iframe src="http://player.vimeo.com/video/44124657" width="100%" height="420" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+<p>Very inspiring video I&rsquo;ve seen in <a href="http://blog.floqq.com/empresa/estas-haciendo-lo-que-te-apasiona-en-este-mismo-momento/" title="floqq blog">Floqq&rsquo;s Blog</a> (content in spanish). And I&rsquo;m posting this as a second part of the post of a couple of days ago, <a href="http://fuzzingtheweb.com/what-if-money-didnt-matter-alan-watts/" title="what if money didn't matter"><em>What if money didn&rsquo;t matter</em></a>.</p>
+
+<p>On that post I told briefly, as usual, what I think I would be doing with my life if money didn&rsquo;t matter. And I said I would probably like to do the same thing I&rsquo;m doing right now, because I have the luck of enjoying my job. But I also believe that&rsquo;s something that depends on the individual, because I can recognise that coding has never been vocational for me. Actually, I didn&rsquo;t realise how much I enjoyed this whole thing until I was in third year of university, almost finishing my studies.</p>
+
+<p>I would probably have enjoyed this much any other field of human knowledge, because that&rsquo;s how I am. Luckily for me, I think I have the ability of being curious about almost anything. If I had studied psychology (I considered it, actually), I would probably have got really into it. With the proper motivation, of course. And the same would have happened if I had studied physics, which was another option back in time. Anyway, I&rsquo;m sure I wouldn&rsquo;t be in London right now if I hadn&rsquo;t chosen Computer Engineering in that moment.</p>
+
+<p>I guess I&rsquo;m the perfect person for choosing wrong in life, because somehow I usually find the bright side of everything. Let&rsquo;s call it optimism/<em>will to power</em>/whatever. What&rsquo;s the point of being unhappy? I mean, why should I be angry about random stuff, while there&rsquo;s probably something out there, reachable for me, that I could be enjoying right now? Isn&rsquo;t it easier and nicer trying to find what makes you happy? I truly think it&rsquo;s way easier.</p>
+
+<p>Ok, enough rambling. What I am trying to say is: do whatever you want to do you with your live. Don&rsquo;t do what your parents want you to do, don&rsquo;t do what anyone expects you to do. Just go somewhere and meditate for a while. It won&rsquo;t be harmful. You might end up doing something crazy, but that&rsquo;s the point. Take risks, don&rsquo;t take them, just do whatever you feel. While being a bit reasonable, if possible. It&rsquo;s always better to regret something you&rsquo;ve done than something you haven&rsquo;t.</p>
+
+<p>For example, writing this crappy post. Right now, it feels like a good idea. Tomorrow morning, it will probably not. But what I&rsquo;m supposed to do, delete it? No way.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2013/03/07/last-goodbye-to-donostia/">Last Goodbye to Donostia</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-03-07T23:48:00+00:00" pubdate data-updated="true">Mar 7<span>th</span>, 2013</time>
+        
+         | <a href="/blog/2013/03/07/last-goodbye-to-donostia/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>It&rsquo;s been today, after finishing some uni paperwork. I&rsquo;m officially an engineer now, I can finally sing <em>the song</em>!</p>
+
+<p>A 5-year part of my life has come to an end after signing this last documents. It&rsquo;s been nice, I won&rsquo;t say the opposite, but I&rsquo;m also happy it came to an end. I have plenty of new and exciting stuff to experience now :)</p>
+
+<p><img src="https://lh4.googleusercontent.com/-OsYUh4FMIVE/UTfZQwnD05I/AAAAAAAAFeo/xC7G00kU8uM/s732/IMG_20130306_131437.jpg" title="donostia" alt="donostia" /></p>
+
+<h3>The song</h3>
+
+<iframe width="100%" height="420" src="http://www.youtube.com/embed/rp8hvyjZWHs" frameborder="0" allowfullscreen></iframe>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  <div class="pagination">
+    
+      <a class="prev" href="/blog/page/6/">&larr; Older</a>
+    
+    <a href="/blog/archives">Blog Archives</a>
+    
+    <a class="next" href="/blog/page/4/">Newer &rarr;</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions/">Installing PIL on Ubuntu Based Distributions</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/09/19/hello-world/">Hello World</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/08/23/trans-siberian-2013/">Trans Siberian 2013</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/07/01/young-qualified-and-jobless/">Young, Qualified and Jobless</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/24/bbq-time/">BBQ Time</a>
+      </li>
+    
+  </ul>
+</section>
+<section>
+  <h1>Categories</h1>
+  <ul id="categories">
+    <li class='category'><a href='/blog/categories/comic/'>Comic (2)</a></li>
+<li class='category'><a href='/blog/categories/internet/'>Internet (7)</a></li>
+<li class='category'><a href='/blog/categories/miscellaneous/'>Miscellaneous (6)</a></li>
+<li class='category'><a href='/blog/categories/music/'>Music (4)</a></li>
+<li class='category'><a href='/blog/categories/programming/'>Programming (3)</a></li>
+<li class='category'><a href='/blog/categories/travel/'>Travel (6)</a></li>
+
+  </ul>
+</section><section>
+  <h1>About me</h1>
+  <p>Web Developer at <a href="http://p.ota.to">Potato</a> who loves listening to music, eating Cheerios™ and clearing cloudy skies with the power of his mind</p>
+</section>
+  
+</aside>
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2013 - Javi Manzano -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'fuzzopress';
+      
+        
+        var disqus_script = 'count.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

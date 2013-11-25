@@ -90,12 +90,12 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: fuzzopress
+disqus_short_name: fuzzingtheweb2
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_domain_name: 'fuzzopress.herokuapp.com'
-google_analytics_tracking_id: 'UA-44413405-1'
+google_analytics_domain_name: 'fuzzingtheweb.com'
+google_analytics_tracking_id: 'UA-44413405-2'
 
 # Facebook Like
 facebook_like: false

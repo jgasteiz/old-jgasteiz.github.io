@@ -4,7 +4,7 @@
   <title><![CDATA[Fuzzing the Web]]></title>
   <link href="http://jgasteiz.github.io/atom.xml" rel="self"/>
   <link href="http://jgasteiz.github.io/"/>
-  <updated>2013-11-21T22:28:03+00:00</updated>
+  <updated>2013-11-25T19:56:11+00:00</updated>
   <id>http://jgasteiz.github.io/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[90% of my weeks]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/11/25/9-to-5/"/>
+    <updated>2013-11-25T19:52:00+00:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/11/25/9-to-5</id>
+    <content type="html"><![CDATA[<p><img src="http://www.flashasylum.com/db/files/Comics/Rob/office-worker.png" alt="Cyanide and Happiness, a daily webcomic" /></p>
+
+<p>See original in <a href="http://www.explosm.net/comics/2898/">explosm.net</a></p>
+
+<p>Or buy <a href="http://store.explosm.net/products/9-to-5-mousepad">the official mousepad</a>!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Installing PIL on Ubuntu based distributions]]></title>
@@ -605,29 +618,6 @@ And before we realise, it&rsquo;s time to come back to London.</p>
     <content type="html"><![CDATA[<p>I&rsquo;ve always been sure these two things were related, but never found any proof about it. Now here it is.</p>
 
 <p><img src="http://i.imgur.com/47D7zGq.png" title="murder rate" alt="cool graph" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[This Isn't the Petition Response You're Looking For]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/01/12/this-isnt-the-petition-response-youre-looking-for/"/>
-    <updated>2013-01-12T23:48:00+00:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/01/12/this-isnt-the-petition-response-youre-looking-for</id>
-    <content type="html"><![CDATA[<p><a href="https://petitions.whitehouse.gov/petition/secure-resources-and-funding-and-begin-construction-death-star-2016/wlfKzFkN" title="request">Funny request of start building a Death Star by 2016</a> to the White House, but <a href="https://petitions.whitehouse.gov/response/isnt-petition-response-youre-looking" title="response">unbeatable response to it</a>.</p>
-
-<p>Just to summarize a bit, here are a few points in the response by the White House:</p>
-
-<ul>
-<li>To begin with, the official response title is &ldquo;This Isn&rsquo;t the Petition Response You&rsquo;re Looking For&rdquo;. Superb.</li>
-<li>&ldquo;The construction of the Death Star has been estimated to cost more than $850 quadrillion. We&rsquo;re working hard to reduce the deficit, not expand it.&rdquo;</li>
-<li>&ldquo;The Administration does not support blowing up planets.&rdquo;</li>
-<li>&ldquo;Why would we spend countless taxpayer dollars on a Death Star with a fundamental flaw that can be exploited by a one-man starship?&rdquo;</li>
-</ul>
-
-
-<p>But you should read <a href="https://petitions.whitehouse.gov/response/isnt-petition-response-youre-looking" title="response">the whole thing</a>.</p>
-
-<p>It kind of reminds me <a href="http://fuzzingtheweb.com/404/" title="404">the 404 pages I created for this blog</a> :)</p>
 ]]></content>
   </entry>
   

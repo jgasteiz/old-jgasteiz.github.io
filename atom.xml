@@ -4,7 +4,7 @@
   <title><![CDATA[Fuzzing the Web]]></title>
   <link href="http://jgasteiz.github.io/atom.xml" rel="self"/>
   <link href="http://jgasteiz.github.io/"/>
-  <updated>2013-11-25T20:08:01+00:00</updated>
+  <updated>2013-11-26T09:03:11+00:00</updated>
   <id>http://jgasteiz.github.io/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Jobs - short review]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/11/26/jobs-short-review/"/>
+    <updated>2013-11-26T08:10:00+00:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/11/26/jobs-short-review</id>
+    <content type="html"><![CDATA[<p><img src="http://lh6.googleusercontent.com/zQvObkDlsk-J7_fDNZFw0qGRR69ngA0ggi0CEBl52_0=w519-h525-no" alt="Jobs, 2013" /></p>
+
+<p>The film was ok, but</p>
+
+<ul>
+<li><p>did anyone else had the feeling that Steve Jobs (and Jonathan Ive) got extremely caricatured? They looked more like programmed machines to follow one or two behaviours than humans! I still can&rsquo;t understand how Wozniak could put up with him for more than half of the movie.</p></li>
+<li><p>again, <em>Steve Jobs&#8217;</em> way of facing problems seemed so unhuman. It&rsquo;s well known he was a &ldquo;special&rdquo; guy for not being the nicest boss / father ever, but I would feel quite offended if anyone pictured me in a film like this. I&rsquo;d feel offended if he was my family or friend, I think.</p></li>
+<li><p>have they put all Apple commercials together as a script for Jonathan Ive&rsquo;s role? They made him look like a weirdo. Once more, I&rsquo;d feel offended if I was him.</p></li>
+</ul>
+
+
+<p>Apart from this, the film was fine. Entertaining, although I&rsquo;d say it&rsquo;s not worthy paying much for watching it :/</p>
+
+<p>I give it two thirds of a star out of two stars. Because weird roles deserve weird ratings.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[90% of my weeks]]></title>
@@ -607,17 +629,6 @@ And before we realise, it&rsquo;s time to come back to London.</p>
 <p><img src="http://imgs.xkcd.com/comics/tar.png" title="tar" alt="tar" /></p>
 
 <p><a href="http://xkcd.com/1168/" title="tar xkcd">xkcd &ndash; tar</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Internet Explorer VS Murder Rate]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/01/20/internet-explorer-vs-murder-rate/"/>
-    <updated>2013-01-20T23:48:00+00:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/01/20/internet-explorer-vs-murder-rate</id>
-    <content type="html"><![CDATA[<p>I&rsquo;ve always been sure these two things were related, but never found any proof about it. Now here it is.</p>
-
-<p><img src="http://i.imgur.com/47D7zGq.png" title="murder rate" alt="cool graph" /></p>
 ]]></content>
   </entry>
   

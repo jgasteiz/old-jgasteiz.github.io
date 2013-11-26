@@ -3,8 +3,10 @@ layout: post
 title: "Jobs - short review"
 date: 2013-11-26 08:10
 comments: true
-categories: 
+categories: Miscellaneous
 ---
+
+![Jobs, 2013](http://lh6.googleusercontent.com/zQvObkDlsk-J7_fDNZFw0qGRR69ngA0ggi0CEBl52_0=w519-h525-no)
 
 The film was ok, but
 

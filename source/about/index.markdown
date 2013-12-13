@@ -8,7 +8,7 @@ footer: true
 
 My name is Javi Manzano and I am a Web Developer.
 
-I do both backend and frontend, but I'm mainly focused on the frontend. I work for a web development agency called [Potato](http://p.ota.to/) based in London where we build awesome websites, some of them with a big traffic. If you want to take a look to the kind of stuff we build there, take a look at the [work section in Potato's website](http://p.ota.to/work/).
+I do both backend and frontend, but I'm mainly focused on the frontend. I work for [Potato](http://p.ota.to/), a web development agency based in London where we build awesome websites, some of them with very big traffic. If you want to take a look to the kind of stuff we build here, take a look at the [work section in Potato's website](http://p.ota.to/work/).
 
 Here's a brief description of the stuff I do:
 
@@ -22,12 +22,12 @@ Here's a brief description of the stuff I do:
 
 ### Prefered deployment environments
 
-- **[Google Appengine](https://developers.google.com/appengine/)** - Super easy to use, scale and magage. It has become the deployment environment I've used most.
+- **[Google Appengine](https://developers.google.com/appengine/)** - Super easy to use, scale and magage. It has become the deployment environment I use most.
 - **[Heroku](https://www.heroku.com/)** - Not that I have used it a lot, but it's always useful for some quick prototypes and personal projects.
 - **[Linode](https://www.linode.com/)** - Although I've used Amazon Web Services more than Linode, I'm always using Linode now every time I need to put my hands on any unix server.
 
 ### Contact me
 
-I'm @jgasteiz in [twitter](https://twitter.com/jgasteiz) and [github](https://github.com/jgasteiz). For a more personal approach feel free to send me an email to javi.manzano.oller at gmail.
+I'm @jgasteiz in [twitter](https://twitter.com/jgasteiz) and [github](https://github.com/jgasteiz). For a more personal approach feel free to send me an email to javi.manzano.oller at gmail dot com.
 
 Before sending any email, please know that I'm not interested on changing my current position, no matter how awesome the offer is. I'm currently where I want to be and if at some point I want to change my job, I'll probably remove this paragraph from here.

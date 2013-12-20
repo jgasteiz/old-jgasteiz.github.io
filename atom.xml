@@ -4,7 +4,7 @@
   <title><![CDATA[Fuzzing the Web]]></title>
   <link href="http://jgasteiz.github.io/atom.xml" rel="self"/>
   <link href="http://jgasteiz.github.io/"/>
-  <updated>2013-12-13T21:02:17+00:00</updated>
+  <updated>2013-12-20T10:32:12+00:00</updated>
   <id>http://jgasteiz.github.io/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Greetings from Chuck - The epic christmas split]]></title>
+    <link href="http://jgasteiz.github.io/blog/2013/12/20/greetings-from-chuck-the-epic-christmas-split/"/>
+    <updated>2013-12-20T10:27:00+00:00</updated>
+    <id>http://jgasteiz.github.io/blog/2013/12/20/greetings-from-chuck-the-epic-christmas-split</id>
+    <content type="html"><![CDATA[<p>Merry Christmas everyone.</p>
+
+<iframe width="100%" height="400" src="http://jgasteiz.github.io//www.youtube.com/embed/T-D1KVIuvjA" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Source: my Potato email account!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Comparison between learning how to code in USA and Spain]]></title>
@@ -634,26 +648,6 @@ And before we realise, it&rsquo;s time to come back to London.</p>
 <h3>The song</h3>
 
 <iframe width="100%" height="420" src="http://www.youtube.com/embed/rp8hvyjZWHs" frameborder="0" allowfullscreen></iframe>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[What most schools don't teach]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/02/27/what-most-schools-dont-teach/"/>
-    <updated>2013-02-27T23:48:00+00:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/02/27/what-most-schools-dont-teach</id>
-    <content type="html"><![CDATA[<p>This is an awesome initiative by <a href="http://www.code.org/" title="code.org">www.code.org</a>.</p>
-
-<p>After watching this video, I&rsquo;ve immediately remembered my days at uni. We were a few people in class and I could easily say that not even half of us were really interested in this field. In doing stuff at our own, in learning new things in general. And I recognise I was quite lost during my first two years there (laziness maybe?), but when the third year came and I started discovering, learning and playing&hellip; everything started to make sense.</p>
-
-<p>It&rsquo;s fun, really! Getting paid for coding is like getting paid for playing with LEGO. I have reasons for being happy, I guess :)</p>
-
-<p><em>&ldquo;Great coders are today&rsquo;s rockstars&rdquo;</em> &ndash; <a href="http://en.wikipedia.org/wiki/Will.i.am" title="will.i.am">Will.i.am, The Black Eyed Peas</a></p>
-
-<p>Too bad I&rsquo;m not <em>great</em>. Yet. :P</p>
-
-<iframe width="100%" height="420" src="http://www.youtube.com/embed/dU1xS07N-FA" frameborder="0" allowfullscreen></iframe>
 
 ]]></content>
   </entry>

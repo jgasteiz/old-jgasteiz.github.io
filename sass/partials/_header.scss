@@ -1,12 +1,21 @@
 body > header {
-  background-image: image-url('header-small.jpg');
+  background-image: image-url('header.jpg');
   background-position: 20px center;
   background-repeat: no-repeat;
   padding: 60px 0 60px 170px;
+  @media only screen and (max-width: 479px) {
+    background-image: image-url('header-small.jpg');
+    background-position: right center;
+    padding-left: $pad-min;
+    padding-right: $pad-min;
+  }
   h1 {
     font-size: 36px;
     display: inline-block;
     margin: 0;
+    @media only screen and (max-width: 479px) {
+      font-size: 24px;
+    }
     a, a:visited, a:hover {
       color: $title_color;
       text-decoration: none;
@@ -18,5 +27,8 @@ body > header {
     font-size: 26px;
     color: $subtitle-color;
     font-weight: normal;
+    @media only screen and (max-width: 479px) {
+      font-size: 18px;
+    }
   }
 }

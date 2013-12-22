@@ -1,7 +1,10 @@
 body > header {
-  background-image: image-url('header.jpg');
-  // background: $header-bg;
+  background-image: image-url('header-small.jpg');
+  background-position: 20px center;
+  background-repeat: no-repeat;
+  padding: 60px 0 60px 170px;
   h1 {
+    font-size: 36px;
     display: inline-block;
     margin: 0;
     a, a:visited, a:hover {
@@ -12,7 +15,7 @@ body > header {
   h2 {
     margin: .2em 0 0;
     @extend .sans;
-    font-size: 1em;
+    font-size: 26px;
     color: $subtitle-color;
     font-weight: normal;
   }

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Travel | Fuzzing the Web]]></title>
-  <link href="http://jgasteiz.github.io/blog/categories/travel/atom.xml" rel="self"/>
-  <link href="http://jgasteiz.github.io/"/>
-  <updated>2013-12-21T15:10:59+00:00</updated>
-  <id>http://jgasteiz.github.io/</id>
+  <link href="http://fuzzingtheweb.com/blog/categories/travel/atom.xml" rel="self"/>
+  <link href="http://fuzzingtheweb.com/"/>
+  <updated>2013-12-22T16:26:28+00:00</updated>
+  <id>http://fuzzingtheweb.com/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Trans Siberian 2013]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/08/23/trans-siberian-2013/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/08/23/trans-siberian-2013/"/>
     <updated>2013-08-23T21:09:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/08/23/trans-siberian-2013</id>
+    <id>http://fuzzingtheweb.com/blog/2013/08/23/trans-siberian-2013</id>
     <content type="html"><![CDATA[<p>As promised, here&rsquo;s a post about this August adventure: a trip going through Russia, Siberia, Mongolia and ending in China.</p>
 
 <p><img src="https://lh4.googleusercontent.com/-mCXmvnHTBJA/UhZ-MFSUF_I/AAAAAAAALj0/_btv84nweHo/w660/P8040494.JPG" alt="" /><br/>
@@ -110,9 +110,9 @@ And before we realise, it&rsquo;s time to come back to London.</p>
   
   <entry>
     <title type="html"><![CDATA[BBQ time]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/06/24/bbq-time/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/06/24/bbq-time/"/>
     <updated>2013-06-24T23:48:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/06/24/bbq-time</id>
+    <id>http://fuzzingtheweb.com/blog/2013/06/24/bbq-time</id>
     <content type="html"><![CDATA[<p>A few pics from this weekend, which I&rsquo;ve shortly spent in my hometown, Vitoria-Gasteiz :)</p>
 
 <p><img src="https://lh3.googleusercontent.com/-MlGTXhLHNeU/UcYywAjlQkI/AAAAAAAAJMw/CrSIwA601oQ/w1119-h839-no/IMG_20130622_141757.jpg" alt="bbq ullibarri" /></p>
@@ -139,9 +139,9 @@ And before we realise, it&rsquo;s time to come back to London.</p>
   
   <entry>
     <title type="html"><![CDATA[DjangoCon EU 2013, Warszawa]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/05/20/djangocon-eu-2013-warszawa/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/05/20/djangocon-eu-2013-warszawa/"/>
     <updated>2013-05-20T23:48:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/05/20/djangocon-eu-2013-warszawa</id>
+    <id>http://fuzzingtheweb.com/blog/2013/05/20/djangocon-eu-2013-warszawa</id>
     <content type="html"><![CDATA[<p>This is an entry I&rsquo;ve been writing during DjangoCon 2013, from several places: hotel bedroom, laying in the grass from DjangoCon, having a beer in some terrace in Warsaw, airplane and back in the office before starting Monday :)</p>
 
 <h2>Friday, 17th May</h2>
@@ -200,9 +200,9 @@ And before we realise, it&rsquo;s time to come back to London.</p>
   
   <entry>
     <title type="html"><![CDATA[Porto 2013]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/05/07/porto-2013/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/05/07/porto-2013/"/>
     <updated>2013-05-07T23:48:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/05/07/porto-2013</id>
+    <id>http://fuzzingtheweb.com/blog/2013/05/07/porto-2013</id>
     <content type="html"><![CDATA[<p>Beautiful and very needed days <em>Away From Keyboard</em>. I&rsquo;ve even recovered my <a href="https://lh6.googleusercontent.com/-wfIdHswupJM/USDeYJEhw5I/AAAAAAAAEsM/EQDWeLP2wHo/s640/19.jpg">original skin color</a>!</p>
 
 <p><img src="https://lh5.googleusercontent.com/-uUo9vtar4cY/UYajzzhKLJI/AAAAAAAAIB0/78RSZiQGebk/w1105-h829-no/IMG_20130505_151306.jpg" alt="Porto 1" /></p>
@@ -217,9 +217,9 @@ And before we realise, it&rsquo;s time to come back to London.</p>
   
   <entry>
     <title type="html"><![CDATA[Das ist Berlin]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/04/28/das-ist-berlin-2013/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/04/28/das-ist-berlin-2013/"/>
     <updated>2013-04-28T23:48:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/04/28/das-ist-berlin-2013</id>
+    <id>http://fuzzingtheweb.com/blog/2013/04/28/das-ist-berlin-2013</id>
     <content type="html"><![CDATA[<p><strong>Prologue</strong></p>
 
 <p>Take a look at last year&rsquo;s post, <a href="/das-ist-berlin/">Das ist Berlin</a>. And also <a href="/desertfest-more-stuff/">Desertfest &ndash; more stuff</a></p>

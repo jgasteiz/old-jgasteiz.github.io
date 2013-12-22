@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Miscellaneous | Fuzzing the Web]]></title>
-  <link href="http://jgasteiz.github.io/blog/categories/miscellaneous/atom.xml" rel="self"/>
-  <link href="http://jgasteiz.github.io/"/>
-  <updated>2013-12-21T15:10:59+00:00</updated>
-  <id>http://jgasteiz.github.io/</id>
+  <link href="http://fuzzingtheweb.com/blog/categories/miscellaneous/atom.xml" rel="self"/>
+  <link href="http://fuzzingtheweb.com/"/>
+  <updated>2013-12-22T16:26:28+00:00</updated>
+  <id>http://fuzzingtheweb.com/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Another flat goes away]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/12/12/another-flat-goes-away/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/12/12/another-flat-goes-away/"/>
     <updated>2013-12-12T18:06:00+00:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/12/12/another-flat-goes-away</id>
+    <id>http://fuzzingtheweb.com/blog/2013/12/12/another-flat-goes-away</id>
     <content type="html"><![CDATA[<p>Today will be the last night in my current flat, the place where I&rsquo;ve probably spent more time during the last 12 months. Sanctuary for watching films, playing games, lazing, sleeping and, sometimes, working.</p>
 
 <p><img src="http://farm3.staticflickr.com/2866/11342901484_931b7d029c_z.jpg" alt="My desk and bookshelf" /></p>
@@ -38,9 +38,9 @@
   
   <entry>
     <title type="html"><![CDATA[Jobs - short review]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/11/26/jobs-short-review/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/11/26/jobs-short-review/"/>
     <updated>2013-11-26T08:10:00+00:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/11/26/jobs-short-review</id>
+    <id>http://fuzzingtheweb.com/blog/2013/11/26/jobs-short-review</id>
     <content type="html"><![CDATA[<p><img src="http://lh6.googleusercontent.com/zQvObkDlsk-J7_fDNZFw0qGRR69ngA0ggi0CEBl52_0=w519-h525-no" alt="Jobs, 2013" /></p>
 
 <p>The film was ok, but</p>
@@ -60,9 +60,9 @@
   
   <entry>
     <title type="html"><![CDATA[Young, qualified and jobless]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/07/01/young-qualified-and-jobless/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/07/01/young-qualified-and-jobless/"/>
     <updated>2013-07-01T23:48:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/07/01/young-qualified-and-jobless</id>
+    <id>http://fuzzingtheweb.com/blog/2013/07/01/young-qualified-and-jobless</id>
     <content type="html"><![CDATA[<p>I&rsquo;ve read <a href="http://www.guardian.co.uk/world/2013/jul/01/jobless-europe-young-qualified">this article</a> in my way back home, which was in the home page of <a href="http://www.guardian.co.uk/">The Guardian UK</a>. Sad feelings, sad stories. Close and familiar.</p>
 
 <p>I don&rsquo;t have many friends that have left Spain because of the crisis. I&rsquo;m actually the only one who has done that in my group of friends of Vitoria (my hometown). And the crisis wasn&rsquo;t my main reason for leaving, to be honest, but that&rsquo;s a story for another post. But yeah, I can see many of <em>us</em> walking everyday through the streets of London, talking Spanish to each other, some of them going back home after work, others carrying CVs from one place to another.</p>
@@ -83,9 +83,9 @@
   
   <entry>
     <title type="html"><![CDATA[BBQ time]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/06/24/bbq-time/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/06/24/bbq-time/"/>
     <updated>2013-06-24T23:48:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/06/24/bbq-time</id>
+    <id>http://fuzzingtheweb.com/blog/2013/06/24/bbq-time</id>
     <content type="html"><![CDATA[<p>A few pics from this weekend, which I&rsquo;ve shortly spent in my hometown, Vitoria-Gasteiz :)</p>
 
 <p><img src="https://lh3.googleusercontent.com/-MlGTXhLHNeU/UcYywAjlQkI/AAAAAAAAJMw/CrSIwA601oQ/w1119-h839-no/IMG_20130622_141757.jpg" alt="bbq ullibarri" /></p>
@@ -112,9 +112,9 @@
   
   <entry>
     <title type="html"><![CDATA[You should blog even if you have no readers]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/04/17/you-should-blog-even-if-you-have-no-readers/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/04/17/you-should-blog-even-if-you-have-no-readers/"/>
     <updated>2013-04-17T23:48:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/04/17/you-should-blog-even-if-you-have-no-readers</id>
+    <id>http://fuzzingtheweb.com/blog/2013/04/17/you-should-blog-even-if-you-have-no-readers</id>
     <content type="html"><![CDATA[<p>I read this post a couple of days ago and I have to say I concur in most of the points with the writer. Most of the reasons he talks about are the reasons why I blog. Not to make myself advertisement (at all), or because I have nothing better to do. Actually, most of the last posts I&rsquo;ve written are quite short because I have plenty of better things to do. For me is as recreational as reading a good book.</p>
 
 <p>But yeah, as <em>Nathan Marz</em> says,  you should blog because it&rsquo;s good for you. You have very little to loose and a lot to win, such as intelligence! Well, not really, but it does help a lot making you think before talking and in a more organised way, in general.</p>

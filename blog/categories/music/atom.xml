@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Music | Fuzzing the Web]]></title>
-  <link href="http://jgasteiz.github.io/blog/categories/music/atom.xml" rel="self"/>
-  <link href="http://jgasteiz.github.io/"/>
-  <updated>2013-12-21T15:10:59+00:00</updated>
-  <id>http://jgasteiz.github.io/</id>
+  <link href="http://fuzzingtheweb.com/blog/categories/music/atom.xml" rel="self"/>
+  <link href="http://fuzzingtheweb.com/"/>
+  <updated>2013-12-22T16:26:28+00:00</updated>
+  <id>http://fuzzingtheweb.com/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Causa Sui - Euporie Tide]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/06/19/causa-sui-euporie-tide/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/06/19/causa-sui-euporie-tide/"/>
     <updated>2013-06-19T23:48:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/06/19/causa-sui-euporie-tide</id>
+    <id>http://fuzzingtheweb.com/blog/2013/06/19/causa-sui-euporie-tide</id>
     <content type="html"><![CDATA[<p>God, it&rsquo;s been a busy June.</p>
 
 <p>A whole week living outside my flat, new and exciting projects which required some <a href="http://angularjs.org/">formation at home</a> and&hellip; some <a href="http://www.urbandictionary.com/define.php?term=real%20world&amp;defid=176772">other things with higher priority than writing here</a>. But here I am again, bringing <strong>great</strong> news from the psychedelic side of life :)</p>
@@ -42,9 +42,9 @@
   
   <entry>
     <title type="html"><![CDATA[Das ist Berlin]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/04/28/das-ist-berlin-2013/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/04/28/das-ist-berlin-2013/"/>
     <updated>2013-04-28T23:48:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/04/28/das-ist-berlin-2013</id>
+    <id>http://fuzzingtheweb.com/blog/2013/04/28/das-ist-berlin-2013</id>
     <content type="html"><![CDATA[<p><strong>Prologue</strong></p>
 
 <p>Take a look at last year&rsquo;s post, <a href="/das-ist-berlin/">Das ist Berlin</a>. And also <a href="/desertfest-more-stuff/">Desertfest &ndash; more stuff</a></p>
@@ -82,9 +82,9 @@
   
   <entry>
     <title type="html"><![CDATA[Pink as Floyd - Red Hot Chili Peppers]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/01/07/pink-as-floyd-red-hot-chili-peppers/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/01/07/pink-as-floyd-red-hot-chili-peppers/"/>
     <updated>2013-01-07T23:48:00+00:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/01/07/pink-as-floyd-red-hot-chili-peppers</id>
+    <id>http://fuzzingtheweb.com/blog/2013/01/07/pink-as-floyd-red-hot-chili-peppers</id>
     <content type="html"><![CDATA[<p>I&rsquo;ve found on Spotify a few RHCP singles released on 2012. Not bad!</p>
 
 <iframe width="100%" height="360" src="http://www.youtube.com/embed/bcP-nC0lWTc" frameborder="0" allowfullscreen></iframe>
@@ -162,9 +162,9 @@ Your fate</p>
   
   <entry>
     <title type="html"><![CDATA[Nomad]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/01/06/nomad/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/01/06/nomad/"/>
     <updated>2013-01-06T23:48:00+00:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/01/06/nomad</id>
+    <id>http://fuzzingtheweb.com/blog/2013/01/06/nomad</id>
     <content type="html"><![CDATA[<p><img src="http://farm9.staticflickr.com/8364/8342367280_e2edb34945_o.png" title="nomad" alt="Nomadic Pursuits Cover" /></p>
 
 <p>This picture is part of Yawning Man&rsquo;s last album cover, <a href="http://1.bp.blogspot.com/-x3gv-U9deWI/Tj8d8wR8VOI/AAAAAAAABFk/xihwaQHkCdI/s1600/Yawning%2BMan%2B-%2B2010%2B-%2BNomadic%2BPursuits.jpg" title="nomadic pursuits">Nomadic Pursuits</a>.</p>
@@ -189,9 +189,9 @@ Your fate</p>
   
   <entry>
     <title type="html"><![CDATA[Truckfighters]]></title>
-    <link href="http://jgasteiz.github.io/blog/2012/12/08/truckfighters/"/>
+    <link href="http://fuzzingtheweb.com/blog/2012/12/08/truckfighters/"/>
     <updated>2012-12-08T23:53:00+00:00</updated>
-    <id>http://jgasteiz.github.io/blog/2012/12/08/truckfighters</id>
+    <id>http://fuzzingtheweb.com/blog/2012/12/08/truckfighters</id>
     <content type="html"><![CDATA[<p><img src="http://distilleryimage5.s3.amazonaws.com/080b8fde418611e2b22122000a9f12bd_7.jpg" title="truckfighters" alt="truckfighters" /></p>
 
 <p>I was warned about Truckfighters going out of tune last week in Vitoria, but as far as I know they&rsquo;ve done it pretty well today at The Underworld. Except for <em>Atomic</em>, in which guitar, bass and voice were completely out of tune. The voice has been the weakest thing, but making a good balance in general taking into account the brutality of the drums, guitar and bass.</p>

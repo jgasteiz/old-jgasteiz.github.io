@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Internet | Fuzzing the Web]]></title>
-  <link href="http://jgasteiz.github.io/blog/categories/internet/atom.xml" rel="self"/>
-  <link href="http://jgasteiz.github.io/"/>
-  <updated>2013-12-21T15:10:59+00:00</updated>
-  <id>http://jgasteiz.github.io/</id>
+  <link href="http://fuzzingtheweb.com/blog/categories/internet/atom.xml" rel="self"/>
+  <link href="http://fuzzingtheweb.com/"/>
+  <updated>2013-12-22T16:26:28+00:00</updated>
+  <id>http://fuzzingtheweb.com/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
     
@@ -15,12 +15,12 @@
   
   <entry>
     <title type="html"><![CDATA[Greetings from Chuck - The epic christmas split]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/12/20/greetings-from-chuck-the-epic-christmas-split/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/12/20/greetings-from-chuck-the-epic-christmas-split/"/>
     <updated>2013-12-20T10:27:00+00:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/12/20/greetings-from-chuck-the-epic-christmas-split</id>
+    <id>http://fuzzingtheweb.com/blog/2013/12/20/greetings-from-chuck-the-epic-christmas-split</id>
     <content type="html"><![CDATA[<p>Merry Christmas everyone.</p>
 
-<iframe width="100%" height="400" src="http://jgasteiz.github.io//www.youtube.com/embed/T-D1KVIuvjA" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="320" src="http://fuzzingtheweb.com//www.youtube.com/embed/T-D1KVIuvjA" frameborder="0" allowfullscreen></iframe>
 
 
 <p>Source: my Potato email account!</p>
@@ -29,21 +29,21 @@
   
   <entry>
     <title type="html"><![CDATA[Comparison between learning how to code in USA and Spain]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/12/13/comparison-between-learning-how-to-code-in-usa-and-spain/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/12/13/comparison-between-learning-how-to-code-in-usa-and-spain/"/>
     <updated>2013-12-13T13:41:00+00:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/12/13/comparison-between-learning-how-to-code-in-usa-and-spain</id>
+    <id>http://fuzzingtheweb.com/blog/2013/12/13/comparison-between-learning-how-to-code-in-usa-and-spain</id>
     <content type="html"><![CDATA[<p>A couple of days ago I found in some spanish blog &ndash; I can&rsquo;t find the source, sorry &ndash; a comparison between how the USA government promotes learning to code and how the spanish government tries (not very hard though) to do the same thing.</p>
 
 <p>Here&rsquo;s the american approach:</p>
 
-<iframe width="100%" height="360" src="http://jgasteiz.github.io//www.youtube.com/embed/FC5FbmsH4fw" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="360" src="http://fuzzingtheweb.com//www.youtube.com/embed/FC5FbmsH4fw" frameborder="0" allowfullscreen></iframe>
 
 
 <p>They even have a site about it, <a href="http://code.org/">code.org</a></p>
 
 <p>And here&rsquo;s the spanish approach:</p>
 
-<iframe width="100%" height="360" src="http://jgasteiz.github.io//www.youtube.com/embed/4tZQtU8QiiY" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="360" src="http://fuzzingtheweb.com//www.youtube.com/embed/4tZQtU8QiiY" frameborder="0" allowfullscreen></iframe>
 
 
 <p>Pay attention to the code he&rsquo;s working on.</p>
@@ -58,9 +58,9 @@
   
   <entry>
     <title type="html"><![CDATA[Vim Adventures]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/04/07/vim-adventures/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/04/07/vim-adventures/"/>
     <updated>2013-04-07T23:48:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/04/07/vim-adventures</id>
+    <id>http://fuzzingtheweb.com/blog/2013/04/07/vim-adventures</id>
     <content type="html"><![CDATA[<p>Very nice game :)</p>
 
 <p><img src="http://lh5.googleusercontent.com/-QgJo84OtIEg/UWHUSkQG22I/AAAAAAAAGo8/tyYKEbSvpH0/s818/Screenshot+from+2013-04-07+21%3A14%3A45.png" title="vim adventures" alt="vim adventures" /></p>
@@ -73,9 +73,9 @@
   
   <entry>
     <title type="html"><![CDATA[Ain't Nobody Got Time For Write]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/03/25/aint-nobody-got-time-for-write/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/03/25/aint-nobody-got-time-for-write/"/>
     <updated>2013-03-25T23:48:00+00:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/03/25/aint-nobody-got-time-for-write</id>
+    <id>http://fuzzingtheweb.com/blog/2013/03/25/aint-nobody-got-time-for-write</id>
     <content type="html"><![CDATA[<p>Well, it&rsquo;s not that I don&rsquo;t have any time for writing short updates like this once in a while, it&rsquo;s just I&rsquo;ve been a bit busy during the last week: reading, living, <a href="http://www.urbandictionary.com/define.php?term=sofing" title="sofing">sofing</a>, surfing the interweb. I&rsquo;ve also started working in a different project at work, which has meant more voluntary reading when arriving at home. It might sound hard, but I&rsquo;m really enjoying it.</p>
 
 <p>Here&rsquo;s something I want to write about: <em>what kind of things do you share online?</em> Yeah, I know it&rsquo;s not a hot topic after months/years of debate around it. But maybe because of that, right now seems the perfect moment for asking yourself what kind of stuff do you share online and with who. I&rsquo;m not talking about being careful about pedophiles, posting pictures of yourself doing hard drugs or uploading your last amateur porn movie. Let&rsquo;s forget about those topics and think about something much simpler.</p>
@@ -109,9 +109,9 @@
   
   <entry>
     <title type="html"><![CDATA[What if money didn't matter]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/03/15/what-if-money-didnt-matter/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/03/15/what-if-money-didnt-matter/"/>
     <updated>2013-03-15T23:48:00+00:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/03/15/what-if-money-didnt-matter</id>
+    <id>http://fuzzingtheweb.com/blog/2013/03/15/what-if-money-didnt-matter</id>
     <content type="html"><![CDATA[<h2>1st part</h2>
 
 <iframe width="100%" height="420" src="http://www.youtube.com/embed/IQfa96aP7ow" frameborder="0" allowfullscreen></iframe>

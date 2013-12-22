@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Fuzzing the Web]]></title>
-  <link href="http://jgasteiz.github.io/atom.xml" rel="self"/>
-  <link href="http://jgasteiz.github.io/"/>
-  <updated>2013-12-21T15:10:59+00:00</updated>
-  <id>http://jgasteiz.github.io/</id>
+  <link href="http://fuzzingtheweb.com/atom.xml" rel="self"/>
+  <link href="http://fuzzingtheweb.com/"/>
+  <updated>2013-12-22T16:26:28+00:00</updated>
+  <id>http://fuzzingtheweb.com/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
     
@@ -15,12 +15,12 @@
   
   <entry>
     <title type="html"><![CDATA[Greetings from Chuck - The epic christmas split]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/12/20/greetings-from-chuck-the-epic-christmas-split/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/12/20/greetings-from-chuck-the-epic-christmas-split/"/>
     <updated>2013-12-20T10:27:00+00:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/12/20/greetings-from-chuck-the-epic-christmas-split</id>
+    <id>http://fuzzingtheweb.com/blog/2013/12/20/greetings-from-chuck-the-epic-christmas-split</id>
     <content type="html"><![CDATA[<p>Merry Christmas everyone.</p>
 
-<iframe width="100%" height="400" src="http://jgasteiz.github.io//www.youtube.com/embed/T-D1KVIuvjA" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="320" src="http://fuzzingtheweb.com//www.youtube.com/embed/T-D1KVIuvjA" frameborder="0" allowfullscreen></iframe>
 
 
 <p>Source: my Potato email account!</p>
@@ -29,21 +29,21 @@
   
   <entry>
     <title type="html"><![CDATA[Comparison between learning how to code in USA and Spain]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/12/13/comparison-between-learning-how-to-code-in-usa-and-spain/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/12/13/comparison-between-learning-how-to-code-in-usa-and-spain/"/>
     <updated>2013-12-13T13:41:00+00:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/12/13/comparison-between-learning-how-to-code-in-usa-and-spain</id>
+    <id>http://fuzzingtheweb.com/blog/2013/12/13/comparison-between-learning-how-to-code-in-usa-and-spain</id>
     <content type="html"><![CDATA[<p>A couple of days ago I found in some spanish blog &ndash; I can&rsquo;t find the source, sorry &ndash; a comparison between how the USA government promotes learning to code and how the spanish government tries (not very hard though) to do the same thing.</p>
 
 <p>Here&rsquo;s the american approach:</p>
 
-<iframe width="100%" height="360" src="http://jgasteiz.github.io//www.youtube.com/embed/FC5FbmsH4fw" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="360" src="http://fuzzingtheweb.com//www.youtube.com/embed/FC5FbmsH4fw" frameborder="0" allowfullscreen></iframe>
 
 
 <p>They even have a site about it, <a href="http://code.org/">code.org</a></p>
 
 <p>And here&rsquo;s the spanish approach:</p>
 
-<iframe width="100%" height="360" src="http://jgasteiz.github.io//www.youtube.com/embed/4tZQtU8QiiY" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="360" src="http://fuzzingtheweb.com//www.youtube.com/embed/4tZQtU8QiiY" frameborder="0" allowfullscreen></iframe>
 
 
 <p>Pay attention to the code he&rsquo;s working on.</p>
@@ -58,9 +58,9 @@
   
   <entry>
     <title type="html"><![CDATA[Another flat goes away]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/12/12/another-flat-goes-away/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/12/12/another-flat-goes-away/"/>
     <updated>2013-12-12T18:06:00+00:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/12/12/another-flat-goes-away</id>
+    <id>http://fuzzingtheweb.com/blog/2013/12/12/another-flat-goes-away</id>
     <content type="html"><![CDATA[<p>Today will be the last night in my current flat, the place where I&rsquo;ve probably spent more time during the last 12 months. Sanctuary for watching films, playing games, lazing, sleeping and, sometimes, working.</p>
 
 <p><img src="http://farm3.staticflickr.com/2866/11342901484_931b7d029c_z.jpg" alt="My desk and bookshelf" /></p>
@@ -81,9 +81,9 @@
   
   <entry>
     <title type="html"><![CDATA[Jobs - short review]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/11/26/jobs-short-review/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/11/26/jobs-short-review/"/>
     <updated>2013-11-26T08:10:00+00:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/11/26/jobs-short-review</id>
+    <id>http://fuzzingtheweb.com/blog/2013/11/26/jobs-short-review</id>
     <content type="html"><![CDATA[<p><img src="http://lh6.googleusercontent.com/zQvObkDlsk-J7_fDNZFw0qGRR69ngA0ggi0CEBl52_0=w519-h525-no" alt="Jobs, 2013" /></p>
 
 <p>The film was ok, but</p>
@@ -103,9 +103,9 @@
   
   <entry>
     <title type="html"><![CDATA[90% of my weeks]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/11/25/90-percent-of-my-weeks/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/11/25/90-percent-of-my-weeks/"/>
     <updated>2013-11-25T19:52:00+00:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/11/25/90-percent-of-my-weeks</id>
+    <id>http://fuzzingtheweb.com/blog/2013/11/25/90-percent-of-my-weeks</id>
     <content type="html"><![CDATA[<p><img src="http://www.flashasylum.com/db/files/Comics/Rob/office-worker.png" alt="Cyanide and Happiness, a daily webcomic" /></p>
 
 <p>See original in <a href="http://www.explosm.net/comics/2898/">explosm.net</a></p>
@@ -116,9 +116,9 @@
   
   <entry>
     <title type="html"><![CDATA[Installing PIL on Ubuntu based distributions]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions/"/>
     <updated>2013-09-26T21:09:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions</id>
+    <id>http://fuzzingtheweb.com/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions</id>
     <content type="html"><![CDATA[<p>Today I&rsquo;ve been trying to run <a href="https://npmjs.org/package/grunt-glue">grunt-glue</a> in my Elementary OS and after trying to understand why it wasn&rsquo;t running, I realised the JPEG/ZLIB support weren&rsquo;t working.</p>
 
 <p>It usually happens when you install PIL via pip. To fix the issue, do the following:</p>
@@ -201,9 +201,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/09/19/hello-world/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/09/19/hello-world/"/>
     <updated>2013-09-19T23:48:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/09/19/hello-world</id>
+    <id>http://fuzzingtheweb.com/blog/2013/09/19/hello-world</id>
     <content type="html"><![CDATA[<p>This is the first post of this new stage of Fuzzing the Web. I&rsquo;ve decided to give static blogs a go and I&rsquo;ll start using Octopress for it.</p>
 
 <p>I&rsquo;ll write about the same random things I used to write about before, but I&rsquo;ll try to write better stuff.</p>
@@ -222,9 +222,9 @@
   
   <entry>
     <title type="html"><![CDATA[Trans Siberian 2013]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/08/23/trans-siberian-2013/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/08/23/trans-siberian-2013/"/>
     <updated>2013-08-23T21:09:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/08/23/trans-siberian-2013</id>
+    <id>http://fuzzingtheweb.com/blog/2013/08/23/trans-siberian-2013</id>
     <content type="html"><![CDATA[<p>As promised, here&rsquo;s a post about this August adventure: a trip going through Russia, Siberia, Mongolia and ending in China.</p>
 
 <p><img src="https://lh4.googleusercontent.com/-mCXmvnHTBJA/UhZ-MFSUF_I/AAAAAAAALj0/_btv84nweHo/w660/P8040494.JPG" alt="" /><br/>
@@ -317,9 +317,9 @@ And before we realise, it&rsquo;s time to come back to London.</p>
   
   <entry>
     <title type="html"><![CDATA[Young, qualified and jobless]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/07/01/young-qualified-and-jobless/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/07/01/young-qualified-and-jobless/"/>
     <updated>2013-07-01T23:48:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/07/01/young-qualified-and-jobless</id>
+    <id>http://fuzzingtheweb.com/blog/2013/07/01/young-qualified-and-jobless</id>
     <content type="html"><![CDATA[<p>I&rsquo;ve read <a href="http://www.guardian.co.uk/world/2013/jul/01/jobless-europe-young-qualified">this article</a> in my way back home, which was in the home page of <a href="http://www.guardian.co.uk/">The Guardian UK</a>. Sad feelings, sad stories. Close and familiar.</p>
 
 <p>I don&rsquo;t have many friends that have left Spain because of the crisis. I&rsquo;m actually the only one who has done that in my group of friends of Vitoria (my hometown). And the crisis wasn&rsquo;t my main reason for leaving, to be honest, but that&rsquo;s a story for another post. But yeah, I can see many of <em>us</em> walking everyday through the streets of London, talking Spanish to each other, some of them going back home after work, others carrying CVs from one place to another.</p>
@@ -340,9 +340,9 @@ And before we realise, it&rsquo;s time to come back to London.</p>
   
   <entry>
     <title type="html"><![CDATA[BBQ time]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/06/24/bbq-time/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/06/24/bbq-time/"/>
     <updated>2013-06-24T23:48:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/06/24/bbq-time</id>
+    <id>http://fuzzingtheweb.com/blog/2013/06/24/bbq-time</id>
     <content type="html"><![CDATA[<p>A few pics from this weekend, which I&rsquo;ve shortly spent in my hometown, Vitoria-Gasteiz :)</p>
 
 <p><img src="https://lh3.googleusercontent.com/-MlGTXhLHNeU/UcYywAjlQkI/AAAAAAAAJMw/CrSIwA601oQ/w1119-h839-no/IMG_20130622_141757.jpg" alt="bbq ullibarri" /></p>
@@ -369,9 +369,9 @@ And before we realise, it&rsquo;s time to come back to London.</p>
   
   <entry>
     <title type="html"><![CDATA[Causa Sui - Euporie Tide]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/06/19/causa-sui-euporie-tide/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/06/19/causa-sui-euporie-tide/"/>
     <updated>2013-06-19T23:48:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/06/19/causa-sui-euporie-tide</id>
+    <id>http://fuzzingtheweb.com/blog/2013/06/19/causa-sui-euporie-tide</id>
     <content type="html"><![CDATA[<p>God, it&rsquo;s been a busy June.</p>
 
 <p>A whole week living outside my flat, new and exciting projects which required some <a href="http://angularjs.org/">formation at home</a> and&hellip; some <a href="http://www.urbandictionary.com/define.php?term=real%20world&amp;defid=176772">other things with higher priority than writing here</a>. But here I am again, bringing <strong>great</strong> news from the psychedelic side of life :)</p>
@@ -396,9 +396,9 @@ And before we realise, it&rsquo;s time to come back to London.</p>
   
   <entry>
     <title type="html"><![CDATA[DjangoCon EU 2013, Warszawa]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/05/20/djangocon-eu-2013-warszawa/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/05/20/djangocon-eu-2013-warszawa/"/>
     <updated>2013-05-20T23:48:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/05/20/djangocon-eu-2013-warszawa</id>
+    <id>http://fuzzingtheweb.com/blog/2013/05/20/djangocon-eu-2013-warszawa</id>
     <content type="html"><![CDATA[<p>This is an entry I&rsquo;ve been writing during DjangoCon 2013, from several places: hotel bedroom, laying in the grass from DjangoCon, having a beer in some terrace in Warsaw, airplane and back in the office before starting Monday :)</p>
 
 <h2>Friday, 17th May</h2>
@@ -457,9 +457,9 @@ And before we realise, it&rsquo;s time to come back to London.</p>
   
   <entry>
     <title type="html"><![CDATA[Porto 2013]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/05/07/porto-2013/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/05/07/porto-2013/"/>
     <updated>2013-05-07T23:48:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/05/07/porto-2013</id>
+    <id>http://fuzzingtheweb.com/blog/2013/05/07/porto-2013</id>
     <content type="html"><![CDATA[<p>Beautiful and very needed days <em>Away From Keyboard</em>. I&rsquo;ve even recovered my <a href="https://lh6.googleusercontent.com/-wfIdHswupJM/USDeYJEhw5I/AAAAAAAAEsM/EQDWeLP2wHo/s640/19.jpg">original skin color</a>!</p>
 
 <p><img src="https://lh5.googleusercontent.com/-uUo9vtar4cY/UYajzzhKLJI/AAAAAAAAIB0/78RSZiQGebk/w1105-h829-no/IMG_20130505_151306.jpg" alt="Porto 1" /></p>
@@ -474,36 +474,36 @@ And before we realise, it&rsquo;s time to come back to London.</p>
   
   <entry>
     <title type="html"><![CDATA[Das ist Berlin]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/04/28/das-ist-berlin-2013/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/04/28/das-ist-berlin-2013/"/>
     <updated>2013-04-28T23:48:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/04/28/das-ist-berlin-2013</id>
+    <id>http://fuzzingtheweb.com/blog/2013/04/28/das-ist-berlin-2013</id>
     <content type="html"><![CDATA[<p><strong>Prologue</strong></p>
 
-<p>Take a look at last year&rsquo;s post, <a href="http://jgasteiz.github.io/das-ist-berlin/">Das ist Berlin</a>. And also <a href="http://jgasteiz.github.io/desertfest-more-stuff/">Desertfest &ndash; more stuff</a></p>
+<p>Take a look at last year&rsquo;s post, <a href="http://fuzzingtheweb.com/das-ist-berlin/">Das ist Berlin</a>. And also <a href="http://fuzzingtheweb.com/desertfest-more-stuff/">Desertfest &ndash; more stuff</a></p>
 
 <p><strong>This year</strong></p>
 
 <p>We&rsquo;ve been in the same hostel and festival. Both of them were awesome and we couldn&rsquo;t come up with a better idea for spending a few days together. Great live concerts (less than the last year, though), new places we&rsquo;ve visited and lots of beer we&rsquo;ve drunk.</p>
 
-<p><img src="http://jgasteiz.github.io//lh5.googleusercontent.com/-FE65bt902O4/UXstYHEtE2I/AAAAAAAAHP4/tIA3ouexClQ/s960/PANO_20130426_141922.jpg" alt="" /><br/>
+<p><img src="http://fuzzingtheweb.com//lh5.googleusercontent.com/-FE65bt902O4/UXstYHEtE2I/AAAAAAAAHP4/tIA3ouexClQ/s960/PANO_20130426_141922.jpg" alt="" /><br/>
 <em>Ishtar Gate &ndash; Pergamon Museum</em></p>
 
-<p><img src="http://jgasteiz.github.io//lh4.googleusercontent.com/-w9PcN8A1fR0/UXvIa76iY0I/AAAAAAAAHTs/OX5sn4t69Mk/s960/IMG_20130427_141527.jpg" alt="Food" /><br/>
+<p><img src="http://fuzzingtheweb.com//lh4.googleusercontent.com/-w9PcN8A1fR0/UXvIa76iY0I/AAAAAAAAHTs/OX5sn4t69Mk/s960/IMG_20130427_141527.jpg" alt="Food" /><br/>
 <em>Having massive lunch on a typical german restaurant</em></p>
 
-<p><img src="http://jgasteiz.github.io//lh6.googleusercontent.com/-mrL28dsIyVM/UXsn1LTreJI/AAAAAAAAHMc/tzEPvOX9s58/s960/IMG_20130426_191516.jpg" alt="" /><br/>
+<p><img src="http://fuzzingtheweb.com//lh6.googleusercontent.com/-mrL28dsIyVM/UXsn1LTreJI/AAAAAAAAHMc/tzEPvOX9s58/s960/IMG_20130426_191516.jpg" alt="" /><br/>
 <em>Blues Pills</em></p>
 
-<p><img src="http://jgasteiz.github.io//lh4.googleusercontent.com/-PlbfByJCrnw/UXx91mAsiOI/AAAAAAAAHaE/RcJOAK0VMCc/s960/IMG_20130427_195220.jpg" alt="" /><br/>
+<p><img src="http://fuzzingtheweb.com//lh4.googleusercontent.com/-PlbfByJCrnw/UXx91mAsiOI/AAAAAAAAHaE/RcJOAK0VMCc/s960/IMG_20130427_195220.jpg" alt="" /><br/>
 <em>Yawning Man</em></p>
 
-<p><img src="http://jgasteiz.github.io//lh3.googleusercontent.com/-cAAo-mTac2I/UXsx5tVyPQI/AAAAAAAAHR0/d9ES4Es66TU/s960/IMG_20130426_162149.jpg" alt="" /><br/>
+<p><img src="http://fuzzingtheweb.com//lh3.googleusercontent.com/-cAAo-mTac2I/UXsx5tVyPQI/AAAAAAAAHR0/d9ES4Es66TU/s960/IMG_20130426_162149.jpg" alt="" /><br/>
 <em>Berliner Kindl &ndash; my favorite</em></p>
 
-<p><img src="http://jgasteiz.github.io//lh3.googleusercontent.com/-o8mut6iIDY0/UXzOnna-xpI/AAAAAAAAHbQ/nTx1AN79M68/s960/IMG_20130427_234747.jpg" alt="" /><br/>
+<p><img src="http://fuzzingtheweb.com//lh3.googleusercontent.com/-o8mut6iIDY0/UXzOnna-xpI/AAAAAAAAHbQ/nTx1AN79M68/s960/IMG_20130427_234747.jpg" alt="" /><br/>
 <em>Zeta floating</em></p>
 
-<p><img src="http://jgasteiz.github.io//lh3.googleusercontent.com/-Ysdrw01dx70/UXvZ18bfB6I/AAAAAAAAHUk/u05zoyumZrY/s960/IMG_20130427_151430.jpg" alt="" /><br/>
+<p><img src="http://fuzzingtheweb.com//lh3.googleusercontent.com/-Ysdrw01dx70/UXvZ18bfB6I/AAAAAAAAHUk/u05zoyumZrY/s960/IMG_20130427_151430.jpg" alt="" /><br/>
 <em>Love</em></p>
 
 <p>And much more that will remain in my mind for years.</p>
@@ -514,9 +514,9 @@ And before we realise, it&rsquo;s time to come back to London.</p>
   
   <entry>
     <title type="html"><![CDATA[You should blog even if you have no readers]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/04/17/you-should-blog-even-if-you-have-no-readers/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/04/17/you-should-blog-even-if-you-have-no-readers/"/>
     <updated>2013-04-17T23:48:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/04/17/you-should-blog-even-if-you-have-no-readers</id>
+    <id>http://fuzzingtheweb.com/blog/2013/04/17/you-should-blog-even-if-you-have-no-readers</id>
     <content type="html"><![CDATA[<p>I read this post a couple of days ago and I have to say I concur in most of the points with the writer. Most of the reasons he talks about are the reasons why I blog. Not to make myself advertisement (at all), or because I have nothing better to do. Actually, most of the last posts I&rsquo;ve written are quite short because I have plenty of better things to do. For me is as recreational as reading a good book.</p>
 
 <p>But yeah, as <em>Nathan Marz</em> says,  you should blog because it&rsquo;s good for you. You have very little to loose and a lot to win, such as intelligence! Well, not really, but it does help a lot making you think before talking and in a more organised way, in general.</p>
@@ -529,9 +529,9 @@ And before we realise, it&rsquo;s time to come back to London.</p>
   
   <entry>
     <title type="html"><![CDATA[RAF Museum]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/04/15/raf-museum/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/04/15/raf-museum/"/>
     <updated>2013-04-15T23:48:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/04/15/raf-museum</id>
+    <id>http://fuzzingtheweb.com/blog/2013/04/15/raf-museum</id>
     <content type="html"><![CDATA[<p>It&rsquo;s been a <em>museums</em> weekend and for the first time in months, we&rsquo;ve had warm weather in London. Since yesterday. I might recover part of my natural tan before August!</p>
 
 <p>And I also haven&rsquo;t touch a keyboard during the weekend, which is cool. It&rsquo;s been some kind of disconnection weekend, something I&rsquo;m enjoying quite a lot lately. Anyway, I will probably compensate touching too much keyboard during this whole week, as usual.</p>
@@ -550,9 +550,9 @@ And before we realise, it&rsquo;s time to come back to London.</p>
   
   <entry>
     <title type="html"><![CDATA[Vim Adventures]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/04/07/vim-adventures/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/04/07/vim-adventures/"/>
     <updated>2013-04-07T23:48:00+01:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/04/07/vim-adventures</id>
+    <id>http://fuzzingtheweb.com/blog/2013/04/07/vim-adventures</id>
     <content type="html"><![CDATA[<p>Very nice game :)</p>
 
 <p><img src="http://lh5.googleusercontent.com/-QgJo84OtIEg/UWHUSkQG22I/AAAAAAAAGo8/tyYKEbSvpH0/s818/Screenshot+from+2013-04-07+21%3A14%3A45.png" title="vim adventures" alt="vim adventures" /></p>
@@ -565,9 +565,9 @@ And before we realise, it&rsquo;s time to come back to London.</p>
   
   <entry>
     <title type="html"><![CDATA[Ain't Nobody Got Time For Write]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/03/25/aint-nobody-got-time-for-write/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/03/25/aint-nobody-got-time-for-write/"/>
     <updated>2013-03-25T23:48:00+00:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/03/25/aint-nobody-got-time-for-write</id>
+    <id>http://fuzzingtheweb.com/blog/2013/03/25/aint-nobody-got-time-for-write</id>
     <content type="html"><![CDATA[<p>Well, it&rsquo;s not that I don&rsquo;t have any time for writing short updates like this once in a while, it&rsquo;s just I&rsquo;ve been a bit busy during the last week: reading, living, <a href="http://www.urbandictionary.com/define.php?term=sofing" title="sofing">sofing</a>, surfing the interweb. I&rsquo;ve also started working in a different project at work, which has meant more voluntary reading when arriving at home. It might sound hard, but I&rsquo;m really enjoying it.</p>
 
 <p>Here&rsquo;s something I want to write about: <em>what kind of things do you share online?</em> Yeah, I know it&rsquo;s not a hot topic after months/years of debate around it. But maybe because of that, right now seems the perfect moment for asking yourself what kind of stuff do you share online and with who. I&rsquo;m not talking about being careful about pedophiles, posting pictures of yourself doing hard drugs or uploading your last amateur porn movie. Let&rsquo;s forget about those topics and think about something much simpler.</p>
@@ -601,9 +601,9 @@ And before we realise, it&rsquo;s time to come back to London.</p>
   
   <entry>
     <title type="html"><![CDATA[What if money didn't matter]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/03/15/what-if-money-didnt-matter/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/03/15/what-if-money-didnt-matter/"/>
     <updated>2013-03-15T23:48:00+00:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/03/15/what-if-money-didnt-matter</id>
+    <id>http://fuzzingtheweb.com/blog/2013/03/15/what-if-money-didnt-matter</id>
     <content type="html"><![CDATA[<h2>1st part</h2>
 
 <iframe width="100%" height="420" src="http://www.youtube.com/embed/IQfa96aP7ow" frameborder="0" allowfullscreen></iframe>
@@ -636,9 +636,9 @@ And before we realise, it&rsquo;s time to come back to London.</p>
   
   <entry>
     <title type="html"><![CDATA[Last goodbye to Donostia]]></title>
-    <link href="http://jgasteiz.github.io/blog/2013/03/07/last-goodbye-to-donostia/"/>
+    <link href="http://fuzzingtheweb.com/blog/2013/03/07/last-goodbye-to-donostia/"/>
     <updated>2013-03-07T23:48:00+00:00</updated>
-    <id>http://jgasteiz.github.io/blog/2013/03/07/last-goodbye-to-donostia</id>
+    <id>http://fuzzingtheweb.com/blog/2013/03/07/last-goodbye-to-donostia</id>
     <content type="html"><![CDATA[<p>It&rsquo;s been today, after finishing some uni paperwork. I&rsquo;m officially an engineer now, I can finally sing <em>the song</em>!</p>
 
 <p>A 5-year part of my life has come to an end after signing this last documents. It&rsquo;s been nice, I won&rsquo;t say the opposite, but I&rsquo;m also happy it came to an end. I have plenty of new and exciting stuff to experience now :)</p>

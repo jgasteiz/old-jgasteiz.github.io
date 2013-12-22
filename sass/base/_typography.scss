@@ -30,18 +30,20 @@ body {
   line-height: 1.5em;
   color: $text-color;
   @extend .serif;
+  @media only screen and (min-width: $big-screen) {
+    font-size: 1.15em;
+  }
 }
 h1 {
-  font-size: 2.2em;
+  font-size: 36px;
   line-height: 1.2em;
+  @media only screen and (min-width: $big-screen) {
+    font-size: 48px;
+    line-height: 1.2em;
+  }
   @media only screen and (max-width: 479px) {
     font-size: 24px;
   }
-}
-
-@media only screen and (min-width: 992px) {
-  body { font-size: 1.15em; }
-  h1 { font-size: 2.6em; line-height: 1.2em; }
 }
 
 #{headings()}{
@@ -51,7 +53,14 @@ h1 {
   font-weight: bold;
 }
 h2, section h1 {
-  font-size: 1.5em;
+  font-size: 26px;
+  @media only screen and (min-width: $big-screen) {
+    font-size: 36px;
+    line-height: 1.2em;
+  }
+  @media only screen and (max-width: 479px) {
+    font-size: 18px;
+  }
 }
 h3, section h2, section section h1 {
   font-size: 1.3em;
@@ -123,7 +132,7 @@ article blockquote {
     a { color: $text-color-light !important; word-wrap: break-word; }
     &:before { content: '\2014'; padding:{right: .3em; left: .3em;} color: $text-color-light; }
   }
-  @media only screen and (min-width: 992px) {
+  @media only screen and (min-width: $big-screen) {
     padding-left: 1.5em;
     border-left-width: 4px;
   }

@@ -5,12 +5,10 @@ body > header {
   padding: 60px 0 60px 170px;
   @media only screen and (max-width: 479px) {
     background-image: image-url('header-small.jpg');
-    background-position: right center;
-    padding-left: $pad-min;
-    padding-right: $pad-min;
+    background-position: 10px center;
+    padding: 30px 0 30px 100px;
   }
   h1 {
-    font-size: 36px;
     display: inline-block;
     margin: 0;
     @media only screen and (max-width: 479px) {
@@ -24,11 +22,7 @@ body > header {
   h2 {
     margin: .2em 0 0;
     @extend .sans;
-    font-size: 26px;
     color: $subtitle-color;
     font-weight: normal;
-    @media only screen and (max-width: 479px) {
-      font-size: 18px;
-    }
   }
 }

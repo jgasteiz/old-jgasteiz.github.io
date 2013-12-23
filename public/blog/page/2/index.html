@@ -9,7 +9,7 @@
   <meta name="author" content="Javi Manzano">
 
   
-  <meta name="description" content="The film was ok, but did anyone else had the feeling that Steve Jobs (and Jonathan Ive) got extremely caricatured? They looked more like programmed &hellip;">
+  <meta name="description" content="Today will be the last night in my current flat, the place where I&rsquo;ve probably spent more time during the last 12 months. Sanctuary for &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -76,6 +76,56 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2013/12/12/another-flat-goes-away/">Another Flat Goes Away</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-12-12T18:06:00+00:00" pubdate data-updated="true">Dec 12<span>th</span>, 2013</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Today will be the last night in my current flat, the place where I&rsquo;ve probably spent more time during the last 12 months. Sanctuary for watching films, playing games, lazing, sleeping and, sometimes, working.</p>
+
+<p><img src="http://farm3.staticflickr.com/2866/11342901484_931b7d029c_z.jpg" alt="My desk and bookshelf" /></p>
+
+<p>On Saturday morning I will regret things like having a guitar or heavy books. Every time I&rsquo;ve bought something during the last year I&rsquo;ve thought for a while on the moving one day I would have to do and how much I would hate myself for that. It didn&rsquo;t make buy less.</p>
+
+<p><img src="http://farm8.staticflickr.com/7364/11342899124_b614ff504d_z.jpg" alt="Berlin is a bitch, and then you marry. Nice souvenir I bought in a shop in Kreuzberg" /></p>
+
+<p>The good thing about this bookself is that it represents most of the things I&rsquo;ve done and places I&rsquo;ve visited during this year. It&rsquo;s not shown in the picture, but some Russian souvenirs live in the lowest shelf.</p>
+
+<p><img src="http://farm8.staticflickr.com/7407/11342785855_f7b3f45506_z.jpg" alt="Books I've bought during this year" /></p>
+
+<p>Kindles might be a perfect substitute for most of the books in the market, but I still believe there is nothing like paper when we talk about reference or programming books. Flipping pages >>> pressing buttons.</p>
+
+<p>I don&rsquo;t have time for writing more, there are a few bags that need to be filled with stuff. Wish me luck.</p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -166,118 +216,6 @@
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions/">Installing PIL on Ubuntu Based Distributions</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-09-26T21:09:00+01:00" pubdate data-updated="true">Sep 26<span>th</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Today I&rsquo;ve been trying to run <a href="https://npmjs.org/package/grunt-glue">grunt-glue</a> in my Elementary OS and after trying to understand why it wasn&rsquo;t running, I realised the JPEG/ZLIB support weren&rsquo;t working.</p>
-
-<p>It usually happens when you install PIL via pip. To fix the issue, do the following:</p>
-
-<p>Uninstall PIL from your virtualenv &ndash; please, use <a href="https://pypi.python.org/pypi/virtualenv">virtualenv</a>.</p>
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>pip uninstall PIL</span></code></pre></td></tr></table></div></figure>
-
-
-<p>Install PIL dependencies &ndash; and python-dev, if you don&rsquo;t have it installed.</p>
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>sudo apt-get build-dep python-imaging
-</span><span class='line'>sudo apt-get install python-dev</span></code></pre></td></tr></table></div></figure>
-
-
-<p>Create a few symbolic links and install PIL again. When you install PIL, do it with a -U argument to see some output of the installation. I&rsquo;ve noticed the sources for 32bit installations would change to <em>i386-linux-gnu</em> instead of <em>x86_64linux-gnu</em>.</p>
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>sudo ln -s /usr/lib/x86_64-linux-gnu/libjpeg.so /usr/lib
-</span><span class='line'>sudo ln -s /usr/lib/x86_64-linux-gnu/libfreetype.so /usr/lib
-</span><span class='line'>sudo ln -s /usr/lib/x86_64-linux-gnu/libz.so /usr/lib
-</span><span class='line'>
-</span><span class='line'>pip install -U PIL</span></code></pre></td></tr></table></div></figure>
-
-
-<p>If everything went fine, you shoould see something like this if you scroll up a bit:</p>
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>--------------------------------------------------------------------
-</span><span class='line'>PIL 1.1.7 SETUP SUMMARY
-</span><span class='line'>--------------------------------------------------------------------
-</span><span class='line'>version       1.1.7
-</span><span class='line'>platform      linux2 2.7.3 (default, Apr 10 2013, 06:20:15)
-</span><span class='line'>              [GCC 4.6.3]
-</span><span class='line'>--------------------------------------------------------------------
-</span><span class='line'>*** TKINTER support not available
-</span><span class='line'>--- JPEG support available
-</span><span class='line'>--- ZLIB (PNG/ZIP) support available
-</span><span class='line'>--- FREETYPE2 support available
-</span><span class='line'>*** LITTLECMS support not available
-</span><span class='line'>--------------------------------------------------------------------</span></code></pre></td></tr></table></div></figure>
-
-
-<p>Another option, instead of creating those links manually, would be installing PIL in the machine python installation.</p>
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>sudo apt-get install python-imaging</span></code></pre></td></tr></table></div></figure>
-
-
-<p>And another option, although not what you were looking for, would be installing Pillow &ndash; which is a better PIL, basically.</p>
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>pip install Pillow</span></code></pre></td></tr></table></div></figure>
-
-
-<p>After any of these 3 options you should be able to use the python imaging library happily now.</p>
-
-<p>PS: Thanks everyone for the corrections and suggestions for this post ;)</p>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/3/">&larr; Older</a>
@@ -299,6 +237,10 @@
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2013/12/23/assembler-in-elysium/">Assembler in Elysium</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2013/12/20/greetings-from-chuck-the-epic-christmas-split/">Greetings From Chuck - the Epic Christmas Split</a>
       </li>
     
@@ -314,17 +256,13 @@
         <a href="/blog/2013/11/26/jobs-short-review/">Jobs - Short Review</a>
       </li>
     
-      <li class="post">
-        <a href="/blog/2013/11/25/90-percent-of-my-weeks/">90% of My Weeks</a>
-      </li>
-    
   </ul>
 </section>
 <section>
   <h1>Categories</h1>
   <ul id="categories">
     <li class='category'><a href='/blog/categories/comic/'>Comic (4)</a></li>
-<li class='category'><a href='/blog/categories/internet/'>Internet (9)</a></li>
+<li class='category'><a href='/blog/categories/internet/'>Internet (10)</a></li>
 <li class='category'><a href='/blog/categories/miscellaneous/'>Miscellaneous (13)</a></li>
 <li class='category'><a href='/blog/categories/music/'>Music (6)</a></li>
 <li class='category'><a href='/blog/categories/programming/'>Programming (4)</a></li>

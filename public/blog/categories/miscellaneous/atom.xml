@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Miscellaneous | Fuzzing the Web]]></title>
   <link href="http://fuzzingtheweb.com/blog/categories/miscellaneous/atom.xml" rel="self"/>
   <link href="http://fuzzingtheweb.com/"/>
-  <updated>2013-12-23T22:31:09+00:00</updated>
+  <updated>2014-01-03T01:38:13+01:00</updated>
   <id>http://fuzzingtheweb.com/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
@@ -14,9 +14,24 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Back for Christmas- Turrón style]]></title>
+    <link href="http://fuzzingtheweb.com/blog/2014/01/03/back-for-christmas/"/>
+    <updated>2014-01-03T01:22:00+01:00</updated>
+    <id>http://fuzzingtheweb.com/blog/2014/01/03/back-for-christmas</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m back here since this Monday morning, that&rsquo;s one of the few and vague reasons I haven&rsquo;t written in a few days. That and Christmas excitement. New year&rsquo;s eve has been brutal this year. I can&rsquo;t remember a night as epic as this year&rsquo;s has been, hard to believe. Specially because I don&rsquo;t usually enjoy new year&rsquo;s eve at all.</p>
+
+<p>I brought the new camera to Spain and I&rsquo;ve some time to spend learning the basics about it. After reading some book introductions and blog posts, I&rsquo;ve got a common message from all of them: I should try to make tons of pictures. Apparently &ldquo;learning by doing&rdquo; is the best way of learning. Good stuff. I&rsquo;ve also started uploading some of them to <a href="http://www.flickr.com/photos/jgasteiz/">my flickr account</a>.</p>
+
+<p><img src="http://farm4.staticflickr.com/3822/11719225215_4f406bfc08_z.jpg" alt="vinyl" /></p>
+
+<p>And that&rsquo;s all folks.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Another flat goes away]]></title>
     <link href="http://fuzzingtheweb.com/blog/2013/12/12/another-flat-goes-away/"/>
-    <updated>2013-12-12T18:06:00+00:00</updated>
+    <updated>2013-12-12T18:06:00+01:00</updated>
     <id>http://fuzzingtheweb.com/blog/2013/12/12/another-flat-goes-away</id>
     <content type="html"><![CDATA[<p>Today will be the last night in my current flat, the place where I&rsquo;ve probably spent more time during the last 12 months. Sanctuary for watching films, playing games, lazing, sleeping and, sometimes, working.</p>
 
@@ -39,7 +54,7 @@
   <entry>
     <title type="html"><![CDATA[Jobs - short review]]></title>
     <link href="http://fuzzingtheweb.com/blog/2013/11/26/jobs-short-review/"/>
-    <updated>2013-11-26T08:10:00+00:00</updated>
+    <updated>2013-11-26T08:10:00+01:00</updated>
     <id>http://fuzzingtheweb.com/blog/2013/11/26/jobs-short-review</id>
     <content type="html"><![CDATA[<p><img src="http://lh6.googleusercontent.com/zQvObkDlsk-J7_fDNZFw0qGRR69ngA0ggi0CEBl52_0=w519-h525-no" alt="Jobs, 2013" /></p>
 
@@ -61,7 +76,7 @@
   <entry>
     <title type="html"><![CDATA[Young, qualified and jobless]]></title>
     <link href="http://fuzzingtheweb.com/blog/2013/07/01/young-qualified-and-jobless/"/>
-    <updated>2013-07-01T23:48:00+01:00</updated>
+    <updated>2013-07-01T23:48:00+02:00</updated>
     <id>http://fuzzingtheweb.com/blog/2013/07/01/young-qualified-and-jobless</id>
     <content type="html"><![CDATA[<p>I&rsquo;ve read <a href="http://www.guardian.co.uk/world/2013/jul/01/jobless-europe-young-qualified">this article</a> in my way back home, which was in the home page of <a href="http://www.guardian.co.uk/">The Guardian UK</a>. Sad feelings, sad stories. Close and familiar.</p>
 
@@ -84,7 +99,7 @@
   <entry>
     <title type="html"><![CDATA[BBQ time]]></title>
     <link href="http://fuzzingtheweb.com/blog/2013/06/24/bbq-time/"/>
-    <updated>2013-06-24T23:48:00+01:00</updated>
+    <updated>2013-06-24T23:48:00+02:00</updated>
     <id>http://fuzzingtheweb.com/blog/2013/06/24/bbq-time</id>
     <content type="html"><![CDATA[<p>A few pics from this weekend, which I&rsquo;ve shortly spent in my hometown, Vitoria-Gasteiz :)</p>
 
@@ -107,21 +122,6 @@
 <p><img src="https://lh3.googleusercontent.com/-bzIW4WH4t4A/UcYzLzacbuI/AAAAAAAAJOo/J0BV76gXwUs/w1119-h839-no/IMG_20130622_164855.jpg" alt="bbq ullibarri" /></p>
 
 <p>It&rsquo;s always a pleasure and a bit sad going back to Vitoria for a few days. One part of me, wants to stay there. Another part wants to come back. But I always manage to get moments like these, lucky me!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[You should blog even if you have no readers]]></title>
-    <link href="http://fuzzingtheweb.com/blog/2013/04/17/you-should-blog-even-if-you-have-no-readers/"/>
-    <updated>2013-04-17T23:48:00+01:00</updated>
-    <id>http://fuzzingtheweb.com/blog/2013/04/17/you-should-blog-even-if-you-have-no-readers</id>
-    <content type="html"><![CDATA[<p>I read this post a couple of days ago and I have to say I concur in most of the points with the writer. Most of the reasons he talks about are the reasons why I blog. Not to make myself advertisement (at all), or because I have nothing better to do. Actually, most of the last posts I&rsquo;ve written are quite short because I have plenty of better things to do. For me is as recreational as reading a good book.</p>
-
-<p>But yeah, as <em>Nathan Marz</em> says,  you should blog because it&rsquo;s good for you. You have very little to loose and a lot to win, such as intelligence! Well, not really, but it does help a lot making you think before talking and in a more organised way, in general.</p>
-
-<p>And for me, that was only when I used to write in spanish. Now I&rsquo;m even practising english! Very little to loose, indeed.</p>
-
-<p><a href="http://nathanmarz.com/blog/you-should-blog-even-if-you-have-no-readers.html">You should blog even if you have no readers &ndash; Nathan Marz</a></p>
 ]]></content>
   </entry>
   

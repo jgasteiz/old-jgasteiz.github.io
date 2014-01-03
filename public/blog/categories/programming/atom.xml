@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Programming | Fuzzing the Web]]></title>
   <link href="http://fuzzingtheweb.com/blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://fuzzingtheweb.com/"/>
-  <updated>2013-12-23T22:31:09+00:00</updated>
+  <updated>2014-01-03T01:38:13+01:00</updated>
   <id>http://fuzzingtheweb.com/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Comparison between learning how to code in USA and Spain]]></title>
     <link href="http://fuzzingtheweb.com/blog/2013/12/13/comparison-between-learning-how-to-code-in-usa-and-spain/"/>
-    <updated>2013-12-13T13:41:00+00:00</updated>
+    <updated>2013-12-13T13:41:00+01:00</updated>
     <id>http://fuzzingtheweb.com/blog/2013/12/13/comparison-between-learning-how-to-code-in-usa-and-spain</id>
     <content type="html"><![CDATA[<p>A couple of days ago I found in some spanish blog &ndash; I can&rsquo;t find the source, sorry &ndash; a comparison between how the USA government promotes learning to code and how the spanish government tries (not very hard though) to do the same thing.</p>
 
@@ -45,7 +45,7 @@
   <entry>
     <title type="html"><![CDATA[Installing PIL on Ubuntu based distributions]]></title>
     <link href="http://fuzzingtheweb.com/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions/"/>
-    <updated>2013-09-26T21:09:00+01:00</updated>
+    <updated>2013-09-26T21:09:00+02:00</updated>
     <id>http://fuzzingtheweb.com/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions</id>
     <content type="html"><![CDATA[<p>Today I&rsquo;ve been trying to run <a href="https://npmjs.org/package/grunt-glue">grunt-glue</a> in my Elementary OS and after trying to understand why it wasn&rsquo;t running, I realised the JPEG/ZLIB support weren&rsquo;t working.</p>
 
@@ -117,7 +117,7 @@ pip install Pillow
   <entry>
     <title type="html"><![CDATA[DjangoCon EU 2013, Warszawa]]></title>
     <link href="http://fuzzingtheweb.com/blog/2013/05/20/djangocon-eu-2013-warszawa/"/>
-    <updated>2013-05-20T23:48:00+01:00</updated>
+    <updated>2013-05-20T23:48:00+02:00</updated>
     <id>http://fuzzingtheweb.com/blog/2013/05/20/djangocon-eu-2013-warszawa</id>
     <content type="html"><![CDATA[<p>This is an entry I&rsquo;ve been writing during DjangoCon 2013, from several places: hotel bedroom, laying in the grass from DjangoCon, having a beer in some terrace in Warsaw, airplane and back in the office before starting Monday :)</p>
 
@@ -178,7 +178,7 @@ pip install Pillow
   <entry>
     <title type="html"><![CDATA[Vim Adventures]]></title>
     <link href="http://fuzzingtheweb.com/blog/2013/04/07/vim-adventures/"/>
-    <updated>2013-04-07T23:48:00+01:00</updated>
+    <updated>2013-04-07T23:48:00+02:00</updated>
     <id>http://fuzzingtheweb.com/blog/2013/04/07/vim-adventures</id>
     <content type="html"><![CDATA[<p>Very nice game :)</p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Miscellaneous | Fuzzing the Web]]></title>
   <link href="http://fuzzingtheweb.com/blog/categories/miscellaneous/atom.xml" rel="self"/>
   <link href="http://fuzzingtheweb.com/"/>
-  <updated>2014-01-05T17:49:50+01:00</updated>
+  <updated>2014-01-16T09:11:11+00:00</updated>
   <id>http://fuzzingtheweb.com/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
@@ -14,9 +14,26 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Ready Player One - Ernest Cline]]></title>
+    <link href="http://fuzzingtheweb.com/blog/2014/01/16/ready-player-one/"/>
+    <updated>2014-01-16T08:56:00+00:00</updated>
+    <id>http://fuzzingtheweb.com/blog/2014/01/16/ready-player-one</id>
+    <content type="html"><![CDATA[<p>The year is 2044. The Great Recession, the one we have now, is still there and a huge energy crisis has joined it. Real Life™ sucks, but fortunately there is a virtual world much better than reality itself called OASIS, accessible for everyone, for free.</p>
+
+<p>One day, the creator of this OASIS dies and leaves a last will: he has hidden 3 keys or <em>Easter Eggs</em> in the OASIS and the one who finds the three of them, will inherit all his fortune and the control of the OASIS.</p>
+
+<p>After that happens loads of people, gunters from now on &ndash; Egg hunters &ndash;, will start looking for the keys. The creator of the OASIS was known to be a fanatic of the 80s pop culture and in order to understand the riddles he left behind and find the keys, every gunter will have to become an expert in the matter.</p>
+
+<p>The book is full of references to videogames, movies, books, comic books, more videogames, tv series and everything you can imagine from the 80s. So everyone who still remembers how the 80s were or even the early 90s, will probably enjoy this book.</p>
+
+<p><img src="https://lh3.googleusercontent.com/-YdFbA5XSEOU/UtegebtvQAI/AAAAAAAANqw/hsThl61Q1DA/w829-h649-no/small_background.jpg" alt="Ready Player One book cover" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Back for Christmas- Turrón style]]></title>
     <link href="http://fuzzingtheweb.com/blog/2014/01/03/back-for-christmas/"/>
-    <updated>2014-01-03T01:22:00+01:00</updated>
+    <updated>2014-01-03T01:22:00+00:00</updated>
     <id>http://fuzzingtheweb.com/blog/2014/01/03/back-for-christmas</id>
     <content type="html"><![CDATA[<p>I&rsquo;m back here since this Monday morning, that&rsquo;s one of the few and vague reasons I haven&rsquo;t written in a few days. That and Christmas excitement. New year&rsquo;s eve has been brutal this year. I can&rsquo;t remember a night as epic as this year&rsquo;s has been, hard to believe. Specially because I don&rsquo;t usually enjoy new year&rsquo;s eve at all.</p>
 
@@ -39,7 +56,7 @@
   <entry>
     <title type="html"><![CDATA[Another flat goes away]]></title>
     <link href="http://fuzzingtheweb.com/blog/2013/12/12/another-flat-goes-away/"/>
-    <updated>2013-12-12T18:06:00+01:00</updated>
+    <updated>2013-12-12T18:06:00+00:00</updated>
     <id>http://fuzzingtheweb.com/blog/2013/12/12/another-flat-goes-away</id>
     <content type="html"><![CDATA[<p>Today will be the last night in my current flat, the place where I&rsquo;ve probably spent more time during the last 12 months. Sanctuary for watching films, playing games, lazing, sleeping and, sometimes, working.</p>
 
@@ -62,7 +79,7 @@
   <entry>
     <title type="html"><![CDATA[Jobs - short review]]></title>
     <link href="http://fuzzingtheweb.com/blog/2013/11/26/jobs-short-review/"/>
-    <updated>2013-11-26T08:10:00+01:00</updated>
+    <updated>2013-11-26T08:10:00+00:00</updated>
     <id>http://fuzzingtheweb.com/blog/2013/11/26/jobs-short-review</id>
     <content type="html"><![CDATA[<p><img src="http://lh6.googleusercontent.com/zQvObkDlsk-J7_fDNZFw0qGRR69ngA0ggi0CEBl52_0=w519-h525-no" alt="Jobs, 2013" /></p>
 
@@ -84,7 +101,7 @@
   <entry>
     <title type="html"><![CDATA[Young, qualified and jobless]]></title>
     <link href="http://fuzzingtheweb.com/blog/2013/07/01/young-qualified-and-jobless/"/>
-    <updated>2013-07-01T23:48:00+02:00</updated>
+    <updated>2013-07-01T23:48:00+01:00</updated>
     <id>http://fuzzingtheweb.com/blog/2013/07/01/young-qualified-and-jobless</id>
     <content type="html"><![CDATA[<p>I&rsquo;ve read <a href="http://www.guardian.co.uk/world/2013/jul/01/jobless-europe-young-qualified">this article</a> in my way back home, which was in the home page of <a href="http://www.guardian.co.uk/">The Guardian UK</a>. Sad feelings, sad stories. Close and familiar.</p>
 
@@ -101,35 +118,6 @@
 <p>Back then, both of us thought that if the unemployment was so high is basically because there are no jobs for everyone, plain and simple. Stuff like travel agencies, estate agencies (in Spain, probably the 70% of them are gone), music stores, media stores, cinemas, post offices&hellip; all of them seem from a past age. And many more to come.</p>
 
 <p>What we used to say, without giving proper arguments, is that the human race is getting to a point in which we shouldn&rsquo;t work that much. But the established economy model isn&rsquo;t prepared for that yet. I&rsquo;m sure we&rsquo;ll see some kind of global economy reorganization within ten years. I would like to see it.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[BBQ time]]></title>
-    <link href="http://fuzzingtheweb.com/blog/2013/06/24/bbq-time/"/>
-    <updated>2013-06-24T23:48:00+02:00</updated>
-    <id>http://fuzzingtheweb.com/blog/2013/06/24/bbq-time</id>
-    <content type="html"><![CDATA[<p>A few pics from this weekend, which I&rsquo;ve shortly spent in my hometown, Vitoria-Gasteiz :)</p>
-
-<p><img src="https://lh3.googleusercontent.com/-MlGTXhLHNeU/UcYywAjlQkI/AAAAAAAAJMw/CrSIwA601oQ/w1119-h839-no/IMG_20130622_141757.jpg" alt="bbq ullibarri" /></p>
-
-<p><img src="https://lh4.googleusercontent.com/-MrW2w4g6Be8/UcYyzhosf_I/AAAAAAAAJNE/RslMXI7hWFA/w1119-h839-no/IMG_20130622_143307.jpg" alt="bbq ullibarri" /></p>
-
-<p><img src="https://lh6.googleusercontent.com/-rklv1ENL-hI/UcYy2HeumYI/AAAAAAAAJNQ/CyO0NwvLfSw/w1119-h839-no/IMG_20130622_143327.jpg" alt="bbq ullibarri" /></p>
-
-<p><img src="https://lh5.googleusercontent.com/-T2ErON2mKzY/UcYy64p0s7I/AAAAAAAAJNo/c1N6TfHBn_c/w1119-h839-no/IMG_20130622_143334.jpg" alt="bbq ullibarri" /></p>
-
-<p><img src="https://lh3.googleusercontent.com/-gLQy5-HoC0I/Ucfgwe51ivI/AAAAAAAAJSc/Sgy4tqWJATk/w479-h800-no/2013-06-23" alt="bbq ullibarri" /></p>
-
-<p><img src="https://lh6.googleusercontent.com/-jIBRTU10QvQ/UcYzGjcmjYI/AAAAAAAAJOQ/RTA_sy3eFpo/w1119-h839-no/IMG_20130622_164841.jpg" alt="bbq ullibarri" /></p>
-
-<p><img src="https://lh5.googleusercontent.com/-GXNDdu5P5sU/UcfguuZeESI/AAAAAAAAJSU/iUWM7Etwod4/w800-h600-no/2013-06-23" alt="bbq ullibarri" /></p>
-
-<p><img src="https://lh4.googleusercontent.com/-kmwh1YX8Hag/UcfgxocBfiI/AAAAAAAAJSk/Y4ahG5VBsHw/w800-h600-no/2013-06-23" alt="bbq ullibarri" /></p>
-
-<p><img src="https://lh3.googleusercontent.com/-bzIW4WH4t4A/UcYzLzacbuI/AAAAAAAAJOo/J0BV76gXwUs/w1119-h839-no/IMG_20130622_164855.jpg" alt="bbq ullibarri" /></p>
-
-<p>It&rsquo;s always a pleasure and a bit sad going back to Vitoria for a few days. One part of me, wants to stay there. Another part wants to come back. But I always manage to get moments like these, lucky me!</p>
 ]]></content>
   </entry>
   

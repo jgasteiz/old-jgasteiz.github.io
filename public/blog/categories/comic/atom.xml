@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Comic | Fuzzing the Web]]></title>
   <link href="http://fuzzingtheweb.com/blog/categories/comic/atom.xml" rel="self"/>
   <link href="http://fuzzingtheweb.com/"/>
-  <updated>2014-01-05T17:49:50+01:00</updated>
+  <updated>2014-01-20T06:52:23+00:00</updated>
   <id>http://fuzzingtheweb.com/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
@@ -14,9 +14,22 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Automation]]></title>
+    <link href="http://fuzzingtheweb.com/blog/2014/01/20/automation/"/>
+    <updated>2014-01-20T06:49:00+00:00</updated>
+    <id>http://fuzzingtheweb.com/blog/2014/01/20/automation</id>
+    <content type="html"><![CDATA[<p><img src="http://imgs.xkcd.com/comics/automation.png" alt="'Automating' comes from the roots 'auto-' meaning 'self-', and 'mating', meaning 'screwing'." /></p>
+
+<p>Caption: &lsquo;Automating&rsquo; comes from the roots &lsquo;auto-&rsquo; meaning &lsquo;self-&rsquo;, and &lsquo;mating&rsquo;, meaning &lsquo;screwing&rsquo;.</p>
+
+<p>Source: <a href="http://xkcd.com/1319/">xkcd &ndash; Automation</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[90% of my weeks]]></title>
     <link href="http://fuzzingtheweb.com/blog/2013/11/25/90-percent-of-my-weeks/"/>
-    <updated>2013-11-25T19:52:00+01:00</updated>
+    <updated>2013-11-25T19:52:00+00:00</updated>
     <id>http://fuzzingtheweb.com/blog/2013/11/25/90-percent-of-my-weeks</id>
     <content type="html"><![CDATA[<p><img src="http://www.flashasylum.com/db/files/Comics/Rob/office-worker.png" alt="Cyanide and Happiness, a daily webcomic" /></p>
 
@@ -29,7 +42,7 @@
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
     <link href="http://fuzzingtheweb.com/blog/2013/09/19/hello-world/"/>
-    <updated>2013-09-19T23:48:00+02:00</updated>
+    <updated>2013-09-19T23:48:00+01:00</updated>
     <id>http://fuzzingtheweb.com/blog/2013/09/19/hello-world</id>
     <content type="html"><![CDATA[<p>This is the first post of this new stage of Fuzzing the Web. I&rsquo;ve decided to give static blogs a go and I&rsquo;ll start using Octopress for it.</p>
 
@@ -50,7 +63,7 @@
   <entry>
     <title type="html"><![CDATA[tar]]></title>
     <link href="http://fuzzingtheweb.com/blog/2013/02/01/tar/"/>
-    <updated>2013-02-01T23:48:00+01:00</updated>
+    <updated>2013-02-01T23:48:00+00:00</updated>
     <id>http://fuzzingtheweb.com/blog/2013/02/01/tar</id>
     <content type="html"><![CDATA[<p>This is so <em>sadly</em> true. I used to have a bookmark with a simple explanation of how to use tar flags correctly. Good times. I don&rsquo;t use tar anymore now :)</p>
 
@@ -63,7 +76,7 @@
   <entry>
     <title type="html"><![CDATA[I'm not slacking off]]></title>
     <link href="http://fuzzingtheweb.com/blog/2012/11/28/im-not-slacking-off/"/>
-    <updated>2012-11-28T23:53:00+01:00</updated>
+    <updated>2012-11-28T23:53:00+00:00</updated>
     <id>http://fuzzingtheweb.com/blog/2012/11/28/im-not-slacking-off</id>
     <content type="html"><![CDATA[<p>Today&rsquo;s shopping: this t-shirt.</p>
 

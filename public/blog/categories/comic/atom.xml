@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Comic | Fuzzing the Web]]></title>
   <link href="http://fuzzingtheweb.com/blog/categories/comic/atom.xml" rel="self"/>
   <link href="http://fuzzingtheweb.com/"/>
-  <updated>2014-01-16T09:14:31+00:00</updated>
+  <updated>2014-01-20T08:14:55+00:00</updated>
   <id>http://fuzzingtheweb.com/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Automation]]></title>
+    <link href="http://fuzzingtheweb.com/blog/2014/01/20/automation/"/>
+    <updated>2014-01-20T06:49:00+00:00</updated>
+    <id>http://fuzzingtheweb.com/blog/2014/01/20/automation</id>
+    <content type="html"><![CDATA[<p><img src="http://imgs.xkcd.com/comics/automation.png" alt="'Automating' comes from the roots 'auto-' meaning 'self-', and 'mating', meaning 'screwing'." /></p>
+
+<p>Caption: &lsquo;Automating&rsquo; comes from the roots &lsquo;auto-&rsquo; meaning &lsquo;self-&rsquo;, and &lsquo;mating&rsquo;, meaning &lsquo;screwing&rsquo;.</p>
+
+<p>Source: <a href="http://xkcd.com/1319/">xkcd &ndash; Automation</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[90% of my weeks]]></title>

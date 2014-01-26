@@ -4,7 +4,7 @@
   <title><![CDATA[Fuzzing the Web]]></title>
   <link href="http://fuzzingtheweb.com/atom.xml" rel="self"/>
   <link href="http://fuzzingtheweb.com/"/>
-  <updated>2014-01-26T21:35:34+00:00</updated>
+  <updated>2014-01-26T21:51:49+00:00</updated>
   <id>http://fuzzingtheweb.com/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
@@ -14,13 +14,29 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Hendon Cemetery]]></title>
-    <link href="http://fuzzingtheweb.com/blog/2014/01/26/hendon-cemetery/"/>
-    <updated>2014-01-26T21:32:00+00:00</updated>
-    <id>http://fuzzingtheweb.com/blog/2014/01/26/hendon-cemetery</id>
-    <content type="html"><![CDATA[<p>A few pictures from the last weekend, when Madga dragged me out of the bed on Sunday morning and took me to Hendon Cemetery.</p>
+    <title type="html"><![CDATA[Birthday party]]></title>
+    <link href="http://fuzzingtheweb.com/blog/2014/01/26/birthday-party/"/>
+    <updated>2014-01-26T21:46:00+00:00</updated>
+    <id>http://fuzzingtheweb.com/blog/2014/01/26/birthday-party</id>
+    <content type="html"><![CDATA[<p>A bit late, but better late than never &ndash; my birthday was on the 11th of January. Great dinner full of meat in Putney&rsquo;s <a href="http://rodiziopreto.co.uk/">Rodizio Preto</a> followed by a massive ale ingest in the closest wetherspoons and finished by more beer in a local club. Nothing fancy, that&rsquo;s why it ruled.</p>
 
-<p><img src="http://farm8.staticflickr.com/7440/12040273675_c50a27d9f9_c.jpg" alt="Angel" /></p>
+<p>And I got amazing presents! This beer crafting kit between them :)</p>
+
+<p><img src="http://lh6.googleusercontent.com/-j3xHxaoQi7g/UuQyF6gMBgI/AAAAAAAANyU/WT6PgKKR0ck/w924-h693-no/IMG_20140125_183604.jpg" alt="Beer crafting kit" /></p>
+
+<p>Let the crafting begin!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hendon Cemetery]]></title>
+    <link href="http://fuzzingtheweb.com/blog/2014/01/22/hendon-cemetery/"/>
+    <updated>2014-01-22T21:32:00+00:00</updated>
+    <id>http://fuzzingtheweb.com/blog/2014/01/22/hendon-cemetery</id>
+    <content type="html"><![CDATA[<p>A few pictures from this Sunday, when Madga dragged me out of the bed to visit Hendon Cemetery. Not the most common spot to visit on a weekend, but it was close from home and we the weekend lazziness was on us.</p>
+
+<p><img src="http://farm8.staticflickr.com/7440/12040273675_c50a27d9f9_c.jpg" alt="Angel" /><br/>
+<em>This first one was taken by Magda.</em></p>
 
 <p><img src="http://farm6.staticflickr.com/5490/12040668954_fd4bde62f7_c.jpg" alt="Church" /></p>
 
@@ -592,21 +608,6 @@ And before we realise, it&rsquo;s time to come back to London.</p>
 <p>And much more that will remain in my mind for years.</p>
 
 <p>It&rsquo;s time to rest now. Tomorrow I&rsquo;ll be part of London&rsquo;s heartbeat again and I must <em>beat</em> properly.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[You should blog even if you have no readers]]></title>
-    <link href="http://fuzzingtheweb.com/blog/2013/04/17/you-should-blog-even-if-you-have-no-readers/"/>
-    <updated>2013-04-17T23:48:00+01:00</updated>
-    <id>http://fuzzingtheweb.com/blog/2013/04/17/you-should-blog-even-if-you-have-no-readers</id>
-    <content type="html"><![CDATA[<p>I read this post a couple of days ago and I have to say I concur in most of the points with the writer. Most of the reasons he talks about are the reasons why I blog. Not to make myself advertisement (at all), or because I have nothing better to do. Actually, most of the last posts I&rsquo;ve written are quite short because I have plenty of better things to do. For me is as recreational as reading a good book.</p>
-
-<p>But yeah, as <em>Nathan Marz</em> says,  you should blog because it&rsquo;s good for you. You have very little to loose and a lot to win, such as intelligence! Well, not really, but it does help a lot making you think before talking and in a more organised way, in general.</p>
-
-<p>And for me, that was only when I used to write in spanish. Now I&rsquo;m even practising english! Very little to loose, indeed.</p>
-
-<p><a href="http://nathanmarz.com/blog/you-should-blog-even-if-you-have-no-readers.html">You should blog even if you have no readers &ndash; Nathan Marz</a></p>
 ]]></content>
   </entry>
   

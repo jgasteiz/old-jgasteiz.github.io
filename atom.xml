@@ -4,7 +4,7 @@
   <title><![CDATA[Fuzzing the Web]]></title>
   <link href="http://fuzzingtheweb.com/atom.xml" rel="self"/>
   <link href="http://fuzzingtheweb.com/"/>
-  <updated>2014-01-20T08:17:59+00:00</updated>
+  <updated>2014-01-26T21:35:34+00:00</updated>
   <id>http://fuzzingtheweb.com/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hendon Cemetery]]></title>
+    <link href="http://fuzzingtheweb.com/blog/2014/01/26/hendon-cemetery/"/>
+    <updated>2014-01-26T21:32:00+00:00</updated>
+    <id>http://fuzzingtheweb.com/blog/2014/01/26/hendon-cemetery</id>
+    <content type="html"><![CDATA[<p>A few pictures from the last weekend, when Madga dragged me out of the bed on Sunday morning and took me to Hendon Cemetery.</p>
+
+<p><img src="http://farm8.staticflickr.com/7440/12040273675_c50a27d9f9_c.jpg" alt="Angel" /></p>
+
+<p><img src="http://farm6.staticflickr.com/5490/12040668954_fd4bde62f7_c.jpg" alt="Church" /></p>
+
+<p><img src="http://farm4.staticflickr.com/3670/12040585163_b6ae8fbb3c_c.jpg" alt="Windmill" /></p>
+
+<p><img src="http://farm8.staticflickr.com/7367/12040654343_89385bde19_c.jpg" alt="Magda" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Automation]]></title>
@@ -590,27 +607,6 @@ And before we realise, it&rsquo;s time to come back to London.</p>
 <p>And for me, that was only when I used to write in spanish. Now I&rsquo;m even practising english! Very little to loose, indeed.</p>
 
 <p><a href="http://nathanmarz.com/blog/you-should-blog-even-if-you-have-no-readers.html">You should blog even if you have no readers &ndash; Nathan Marz</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[RAF Museum]]></title>
-    <link href="http://fuzzingtheweb.com/blog/2013/04/15/raf-museum/"/>
-    <updated>2013-04-15T23:48:00+01:00</updated>
-    <id>http://fuzzingtheweb.com/blog/2013/04/15/raf-museum</id>
-    <content type="html"><![CDATA[<p>It&rsquo;s been a <em>museums</em> weekend and for the first time in months, we&rsquo;ve had warm weather in London. Since yesterday. I might recover part of my natural tan before August!</p>
-
-<p>And I also haven&rsquo;t touch a keyboard during the weekend, which is cool. It&rsquo;s been some kind of disconnection weekend, something I&rsquo;m enjoying quite a lot lately. Anyway, I will probably compensate touching too much keyboard during this whole week, as usual.</p>
-
-<p><img src="http://lh4.googleusercontent.com/-_pcmbWoxsk8/UWrLOH6ldpI/AAAAAAAAGug/bEseDeQMqew/s1041/IMG_20130414_134941.jpg" alt="RAF Museum 1" /></p>
-
-<p><img src="http://lh5.googleusercontent.com/-dCmkTamyXYo/UWrLknhGg5I/AAAAAAAAGu4/Sy_ZvoDXm4g/s1041/IMG_20130414_135018.jpg" alt="RAF Museum 2" /></p>
-
-<p><img src="http://lh5.googleusercontent.com/-YY34hR19Z50/UWrMD-OxenI/AAAAAAAAGvc/KOTcF_UAhAI/s1041/IMG_20130414_135630.jpg" alt="RAF Museum 3" /></p>
-
-<p><img src="http://lh4.googleusercontent.com/-R-ZwMx4gRIw/UWrMPlDZ8qI/AAAAAAAAGvo/pNudU5BLINk/s1041/IMG_20130414_135643.jpg" alt="RAF Museum 4" /></p>
-
-<p><img src="http://lh6.googleusercontent.com/-1h898xXJM6Y/UWrPXmQBZuI/AAAAAAAAGyc/GhIKtYFx_XY/s1041/IMG_20130414_145342.jpg" alt="RAF Museum 5" /></p>
 ]]></content>
   </entry>
   

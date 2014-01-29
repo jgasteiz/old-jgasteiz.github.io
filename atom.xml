@@ -4,7 +4,7 @@
   <title><![CDATA[Fuzzing the Web]]></title>
   <link href="http://fuzzingtheweb.com/atom.xml" rel="self"/>
   <link href="http://fuzzingtheweb.com/"/>
-  <updated>2014-01-28T08:18:31+00:00</updated>
+  <updated>2014-01-29T08:35:45+00:00</updated>
   <id>http://fuzzingtheweb.com/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Protocol]]></title>
+    <link href="http://fuzzingtheweb.com/blog/2014/01/29/protocol/"/>
+    <updated>2014-01-29T08:32:00+00:00</updated>
+    <id>http://fuzzingtheweb.com/blog/2014/01/29/protocol</id>
+    <content type="html"><![CDATA[<p><img src="http://imgs.xkcd.com/comics/protocol.png" title="Changing the names would be easier, but if you're not comfortable lying, try only making friends with people named Alice, Bob, Carol, etc." alt="Protocol" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[2112 - Rush]]></title>
@@ -565,23 +574,6 @@ And before we realise, it&rsquo;s time to come back to London.</p>
 <p>I think the guys in France will have very difficult to organise an event as awesome as this next year, but something else I&rsquo;ve learnt these days is: with hard work, motivation and love, you can achieve anything. So as long as next year&rsquo;s organisation works hard on getting an awesome DjangoCon, everything will be just fine.</p>
 
 <p>Dziękuję for these awesome days, DjangoCon + Warsaw!!!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Porto 2013]]></title>
-    <link href="http://fuzzingtheweb.com/blog/2013/05/07/porto-2013/"/>
-    <updated>2013-05-07T23:48:00+01:00</updated>
-    <id>http://fuzzingtheweb.com/blog/2013/05/07/porto-2013</id>
-    <content type="html"><![CDATA[<p>Beautiful and very needed days <em>Away From Keyboard</em>. I&rsquo;ve even recovered my <a href="https://lh6.googleusercontent.com/-wfIdHswupJM/USDeYJEhw5I/AAAAAAAAEsM/EQDWeLP2wHo/s640/19.jpg">original skin color</a>!</p>
-
-<p><img src="https://lh5.googleusercontent.com/-uUo9vtar4cY/UYajzzhKLJI/AAAAAAAAIB0/78RSZiQGebk/w1105-h829-no/IMG_20130505_151306.jpg" alt="Porto 1" /></p>
-
-<p><img src="https://lh5.googleusercontent.com/--dVFurw5-UY/UYikaYuQtgI/AAAAAAAAIGI/BQoE-EK1DQM/w1181-h737-no/2.jpg" alt="Porto 2" /></p>
-
-<p><img src="https://lh6.googleusercontent.com/-Zaduoufr614/UYikbD3NZWI/AAAAAAAAIGQ/LUY-GrEAqvE/w1235-h709-no/3.jpg" alt="Porto 3" /></p>
-
-<p><img src="https://lh6.googleusercontent.com/-nRu7YIauH5g/UYikbM_e_FI/AAAAAAAAIGY/6IlF4wUCQKE/w1155-h516-no/PANO_20130505_143322.jpg" alt="Porto 4" /></p>
 ]]></content>
   </entry>
   

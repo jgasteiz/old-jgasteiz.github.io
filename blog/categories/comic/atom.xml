@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Comic | Fuzzing the Web]]></title>
   <link href="http://fuzzingtheweb.com/blog/categories/comic/atom.xml" rel="self"/>
   <link href="http://fuzzingtheweb.com/"/>
-  <updated>2014-03-01T17:34:32+00:00</updated>
+  <updated>2014-03-01T17:37:28+00:00</updated>
   <id>http://fuzzingtheweb.com/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Protocol]]></title>
+    <link href="http://fuzzingtheweb.com/blog/2014/01/29/protocol/"/>
+    <updated>2014-01-29T08:32:00+00:00</updated>
+    <id>http://fuzzingtheweb.com/blog/2014/01/29/protocol</id>
+    <content type="html"><![CDATA[<p><img src="http://imgs.xkcd.com/comics/protocol.png" title="Changing the names would be easier, but if you're not comfortable lying, try only making friends with people named Alice, Bob, Carol, etc." alt="Protocol" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Automation]]></title>
@@ -70,25 +79,6 @@
 <p><img src="http://imgs.xkcd.com/comics/tar.png" title="tar" alt="tar" /></p>
 
 <p><a href="http://xkcd.com/1168/" title="tar xkcd">xkcd &ndash; tar</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[I'm not slacking off]]></title>
-    <link href="http://fuzzingtheweb.com/blog/2012/11/28/im-not-slacking-off/"/>
-    <updated>2012-11-28T23:53:00+00:00</updated>
-    <id>http://fuzzingtheweb.com/blog/2012/11/28/im-not-slacking-off</id>
-    <content type="html"><![CDATA[<p>Today&rsquo;s shopping: this t-shirt.</p>
-
-<p><img src="http://lh3.googleusercontent.com/-NXzzvc9Iryk/ULaU7vUaZsI/AAAAAAAAAmI/x469mkQshKg/s512/compiling-1.jpg" title="compiling 1" alt="compiling 1" /></p>
-
-<p><img src="http://lh4.googleusercontent.com/-cxb3fjNNbpk/ULaU79_-QjI/AAAAAAAAAmM/EIMq5yv8JQ0/s512/compiling-2.jpg" title="compiling 2" alt="compiling 2" /></p>
-
-<p><em>Based on the Compiling comic, this shirt increases your programming and swordfighting skills to 18.</em></p>
-
-<p>You can find lots of stuff like this in <a href="http://store-xkcd-com.myshopify.com/" title="xkcd store">the xkcd store</a>.</p>
-
-<p><img src="http://imgs.xkcd.com/comics/compiling.png" title="compiling comic" alt="compiling comic" /></p>
 ]]></content>
   </entry>
   

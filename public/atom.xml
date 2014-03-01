@@ -4,7 +4,7 @@
   <title><![CDATA[Fuzzing the Web]]></title>
   <link href="http://fuzzingtheweb.com/atom.xml" rel="self"/>
   <link href="http://fuzzingtheweb.com/"/>
-  <updated>2014-03-01T17:34:32+00:00</updated>
+  <updated>2014-03-01T17:43:08+00:00</updated>
   <id>http://fuzzingtheweb.com/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Last of Us - My bedroom]]></title>
+    <title type="html"><![CDATA[The Last of Us - My bedroom]]></title>
     <link href="http://fuzzingtheweb.com/blog/2014/03/01/last-of-us-my-bedroom/"/>
     <updated>2014-03-01T17:25:00+00:00</updated>
     <id>http://fuzzingtheweb.com/blog/2014/03/01/last-of-us-my-bedroom</id>
@@ -23,6 +23,31 @@
 <p><img src="https://lh3.googleusercontent.com/-x5YtndeJ1ik/UxIZtd8-s0I/AAAAAAAAOSc/t0tCJfeAXKc/w632-h829-no/last-of-us.jpg" alt="Last of us" /></p>
 
 <p>this is how it begins.</p>
+
+<p><a href="http://www.youtube.com/watch?v=W01L70IGBgE">The Last of Us &ndash; trailer</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Protocol]]></title>
+    <link href="http://fuzzingtheweb.com/blog/2014/01/29/protocol/"/>
+    <updated>2014-01-29T08:32:00+00:00</updated>
+    <id>http://fuzzingtheweb.com/blog/2014/01/29/protocol</id>
+    <content type="html"><![CDATA[<p><img src="http://imgs.xkcd.com/comics/protocol.png" title="Changing the names would be easier, but if you're not comfortable lying, try only making friends with people named Alice, Bob, Carol, etc." alt="Protocol" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2112 - Rush]]></title>
+    <link href="http://fuzzingtheweb.com/blog/2014/01/28/2112-rush/"/>
+    <updated>2014-01-28T08:15:00+00:00</updated>
+    <id>http://fuzzingtheweb.com/blog/2014/01/28/2112-rush</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s been long since last time I posted some music. Well, here is the first track of Rush&rsquo;s 2112, great album I&rsquo;ve discovered not long ago.</p>
+
+<iframe src="https://embed.spotify.com/?uri=spotify:track:235Br7MoiAUW7spHkmZqCk" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+
+<p>Give the album a go if you have a change, it&rsquo;s worth it.</p>
 ]]></content>
   </entry>
   
@@ -503,84 +528,6 @@ And before we realise, it&rsquo;s time to come back to London.</p>
 
 
 <p>You might want to check <a href="http://www.elparaisorecords.com/">elparaisorecords.com</a> for further information regarding this album.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[DjangoCon EU 2013, Warszawa]]></title>
-    <link href="http://fuzzingtheweb.com/blog/2013/05/20/djangocon-eu-2013-warszawa/"/>
-    <updated>2013-05-20T23:48:00+01:00</updated>
-    <id>http://fuzzingtheweb.com/blog/2013/05/20/djangocon-eu-2013-warszawa</id>
-    <content type="html"><![CDATA[<p>This is an entry I&rsquo;ve been writing during DjangoCon 2013, from several places: hotel bedroom, laying in the grass from DjangoCon, having a beer in some terrace in Warsaw, airplane and back in the office before starting Monday :)</p>
-
-<h2>Friday, 17th May</h2>
-
-<p>Dzień dobry from my hotel room (cloning repos at 30KiB/s). I&rsquo;m half-exhausted half-excited right now. We are having an awesome weather in Warsaw these days and somehow it charges my batteries. Has to be photosynthesis.</p>
-
-<p>We arrived here  on Tuesday and after a proper afternoon rest, we headed to Stare Miasto to enjoy a bit the city. I managed to take these beautiful pics there.</p>
-
-<p><img src="http://lh3.googleusercontent.com/-4gYG4VDaD48/UZKvDAINwhI/AAAAAAAAIYY/rYuEhgPIT9M/w1532-h517-no/PANO_20130514_192834.jpg" title="Stare Miasto" alt="Stare Miasto 1" /></p>
-
-<p><img src="http://lh4.googleusercontent.com/-27IjArG1en4/UZKtfFUSraI/AAAAAAAAIXk/uw2es9HFsc0/w1533-h802-no/PANO_20130514_190623.jpg" title="Stare Miasto" alt="Stare Miasto 2" /></p>
-
-<p>On Wednesday morning DjangoCon started. My first impression of the venue was that they had experimented <em>a lot</em> setting up a real circus and trusting a lot on the weather. But after spending a few minutes there I realised they couldn&rsquo;t have chosen a better venue.</p>
-
-<p><img src="http://lh3.googleusercontent.com/-PZkNfzT-HH4/UZOwCl0tHGI/AAAAAAAAIcU/bBWh6AloaDk/w1533-h843-no/PANO_20130515_082237.jpg" title="Django Circus" alt="DjangoCon" /></p>
-
-<p>YES, it&rsquo;s a real circus. Here&rsquo;s a panorama view from the inside.</p>
-
-<p><img src="http://lh6.googleusercontent.com/-8qbIetxxq_c/UZc01mFeMbI/AAAAAAAAIfg/qEi8PdRIMyc/w1535-h739-no/PANO_20130517_122733.jpg" alt="DjangoCon" /></p>
-
-<p>Even thought I missed a few talks during the whole event, I met lots of great, wise and experienced developers/people.</p>
-
-<p><strong>The food</strong>: Since DjangoCon started we&rsquo;ve managed to get pierogi, popcorn, sandwiches, beer, <em>scoops</em> of ice cream, fruit, coffee&hellip; everything by <a href="https://www.facebook.com/bulka.spolka">Bulka i Spólka</a>. For sure, I can tell DjangoCon provided an environment that many other conferences would like to have. <strong>Well done</strong>.</p>
-
-<h2>Saturday, 18th May</h2>
-
-<p>To finish the <em>talkings</em>, <a href="http://sendgrid.com/">SendGrid</a> sponsored Friday&rsquo;s evening party. An awesome performance with the guitar by <a href="https://twitter.com/dN0t">Rob Spectre</a> and <a href="https://twitter.com/brandon_rhodes">Brandon Rhodes</a> made the night and eventually we ran out of beer. Sometimes like these, I wish I had a proper camera with me to immortalise these kind of moments.</p>
-
-<p><img src="http://lh3.googleusercontent.com/-XqBQCjOFfps/UZc1hq9hWWI/AAAAAAAAIhY/N7sL7U2D4bg/w1167-h875-no/IMG_20130517_215011.jpg" alt="Rob Spectre and Brandon Rhodes" /></p>
-
-<p>Oh, and I also got a signed copy of <a href="https://django.2scoops.org/">Two Scoops of Django</a>! &ndash; A must read for every Django developer. I don&rsquo;t say this, it&rsquo;s said by many people.</p>
-
-<p><img src="http://lh4.googleusercontent.com/-yDkh5eUoqgU/UZYMbaIWKXI/AAAAAAAAIfI/jtc5sPCuNHw/w656-h875-no/2013+-+1" alt="Two Scoops of Django" /></p>
-
-<p>Hah and if you feel curious about the <em>famous</em> PhotoBooth in DjangoCon, take a look at this <a href="http://www.facebook.com/media/set/?set=a.578110078887020.1073741829.469934899704539&amp;type=1">public album in facebook</a>.</p>
-
-<p>Example:</p>
-
-<p><img src="http://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-frc1/486653_578113725553322_1655252040_n.jpg" alt="photobooth" /></p>
-
-<h2>Sunday, 19th May</h2>
-
-<p>The party is over. The sprints are over too. It&rsquo;s been huge, all of it. It&rsquo;s the first time I feel part of a community like this, it feels very nice. I didn&rsquo;t get any picture of the sprints, I was quite immersed in the code for both Saturday and Sunday.</p>
-
-<p>During Saturday, I <em>tried</em> to contribute to Django project. I worked on a ticket (work still in progress) and from my side it wasn&rsquo;t that much contribution, but after the experience I&rsquo;m less afraid to pick any ticket now and work on them. It was something necessary in order to start contributing in a future.</p>
-
-<p>I spent today&rsquo;s morning working on personal stuff, something I started coding for personal use (which I&rsquo;m already using, by the way) and I will release in a near future. But I don&rsquo;t want to talk about it yet. I will only say it has something to do with <em>learning</em> stuff. For now, only languages :p</p>
-
-<h2>Monday, 20th May (already in the office)</h2>
-
-<p>I think the guys in France will have very difficult to organise an event as awesome as this next year, but something else I&rsquo;ve learnt these days is: with hard work, motivation and love, you can achieve anything. So as long as next year&rsquo;s organisation works hard on getting an awesome DjangoCon, everything will be just fine.</p>
-
-<p>Dziękuję for these awesome days, DjangoCon + Warsaw!!!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Porto 2013]]></title>
-    <link href="http://fuzzingtheweb.com/blog/2013/05/07/porto-2013/"/>
-    <updated>2013-05-07T23:48:00+01:00</updated>
-    <id>http://fuzzingtheweb.com/blog/2013/05/07/porto-2013</id>
-    <content type="html"><![CDATA[<p>Beautiful and very needed days <em>Away From Keyboard</em>. I&rsquo;ve even recovered my <a href="https://lh6.googleusercontent.com/-wfIdHswupJM/USDeYJEhw5I/AAAAAAAAEsM/EQDWeLP2wHo/s640/19.jpg">original skin color</a>!</p>
-
-<p><img src="https://lh5.googleusercontent.com/-uUo9vtar4cY/UYajzzhKLJI/AAAAAAAAIB0/78RSZiQGebk/w1105-h829-no/IMG_20130505_151306.jpg" alt="Porto 1" /></p>
-
-<p><img src="https://lh5.googleusercontent.com/--dVFurw5-UY/UYikaYuQtgI/AAAAAAAAIGI/BQoE-EK1DQM/w1181-h737-no/2.jpg" alt="Porto 2" /></p>
-
-<p><img src="https://lh6.googleusercontent.com/-Zaduoufr614/UYikbD3NZWI/AAAAAAAAIGQ/LUY-GrEAqvE/w1235-h709-no/3.jpg" alt="Porto 3" /></p>
-
-<p><img src="https://lh6.googleusercontent.com/-nRu7YIauH5g/UYikbM_e_FI/AAAAAAAAIGY/6IlF4wUCQKE/w1155-h516-no/PANO_20130505_143322.jpg" alt="Porto 4" /></p>
 ]]></content>
   </entry>
   

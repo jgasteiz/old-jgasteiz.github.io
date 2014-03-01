@@ -4,7 +4,11 @@
   <title><![CDATA[Category: Internet | Fuzzing the Web]]></title>
   <link href="http://fuzzingtheweb.com/blog/categories/internet/atom.xml" rel="self"/>
   <link href="http://fuzzingtheweb.com/"/>
+<<<<<<< HEAD
   <updated>2014-03-01T17:37:28+00:00</updated>
+=======
+  <updated>2014-01-29T08:35:45+00:00</updated>
+>>>>>>> 16cfec70633f2f7e2b2bdf2f93a8ac297cf99fe5
   <id>http://fuzzingtheweb.com/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>

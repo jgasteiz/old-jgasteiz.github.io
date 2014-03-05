@@ -9,7 +9,8 @@
   <meta name="author" content="Javi Manzano">
 
   
-  <meta name="description" content="This is the first post of this new stage of Fuzzing the Web. I&rsquo;ve decided to give static blogs a go and I&rsquo;ll start using Octopress for it &hellip;">
+  <meta name="description" content=" See original in explosm.net Or buy the official mousepad!
+">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -82,6 +83,162 @@
       
   <header>
     
+      <h1 class="entry-title"><a href="/blog/2013/11/25/90-percent-of-my-weeks/">90% of My Weeks</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-11-25T19:52:00+00:00" pubdate data-updated="true">Nov 25<span>th</span>, 2013</time>
+        
+         | <a href="/blog/2013/11/25/90-percent-of-my-weeks/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><img src="http://www.flashasylum.com/db/files/Comics/Rob/office-worker.png" alt="Cyanide and Happiness, a daily webcomic" /></p>
+
+<p>See original in <a href="http://www.explosm.net/comics/2898/">explosm.net</a></p>
+
+<p>Or buy <a href="http://store.explosm.net/products/9-to-5-mousepad">the official mousepad</a>!</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions/">Installing PIL on Ubuntu Based Distributions</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-09-26T21:09:00+01:00" pubdate data-updated="true">Sep 26<span>th</span>, 2013</time>
+        
+         | <a href="/blog/2013/09/26/installing-pil-on-ubuntu-based-distributions/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Today I&rsquo;ve been trying to run <a href="https://npmjs.org/package/grunt-glue">grunt-glue</a> in my Elementary OS and after trying to understand why it wasn&rsquo;t running, I realised the JPEG/ZLIB support weren&rsquo;t working.</p>
+
+<p>It usually happens when you install PIL via pip. To fix the issue, do the following:</p>
+
+<p>Uninstall PIL from your virtualenv &ndash; please, use <a href="https://pypi.python.org/pypi/virtualenv">virtualenv</a>.</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>pip uninstall PIL</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Install PIL dependencies &ndash; and python-dev, if you don&rsquo;t have it installed.</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>sudo apt-get build-dep python-imaging
+</span><span class='line'>sudo apt-get install python-dev</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Create a few symbolic links and install PIL again. When you install PIL, do it with a -U argument to see some output of the installation. I&rsquo;ve noticed the sources for 32bit installations would change to <em>i386-linux-gnu</em> instead of <em>x86_64linux-gnu</em>.</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>sudo ln -s /usr/lib/x86_64-linux-gnu/libjpeg.so /usr/lib
+</span><span class='line'>sudo ln -s /usr/lib/x86_64-linux-gnu/libfreetype.so /usr/lib
+</span><span class='line'>sudo ln -s /usr/lib/x86_64-linux-gnu/libz.so /usr/lib
+</span><span class='line'>
+</span><span class='line'>pip install -U PIL</span></code></pre></td></tr></table></div></figure>
+
+
+<p>If everything went fine, you shoould see something like this if you scroll up a bit:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>--------------------------------------------------------------------
+</span><span class='line'>PIL 1.1.7 SETUP SUMMARY
+</span><span class='line'>--------------------------------------------------------------------
+</span><span class='line'>version       1.1.7
+</span><span class='line'>platform      linux2 2.7.3 (default, Apr 10 2013, 06:20:15)
+</span><span class='line'>              [GCC 4.6.3]
+</span><span class='line'>--------------------------------------------------------------------
+</span><span class='line'>*** TKINTER support not available
+</span><span class='line'>--- JPEG support available
+</span><span class='line'>--- ZLIB (PNG/ZIP) support available
+</span><span class='line'>--- FREETYPE2 support available
+</span><span class='line'>*** LITTLECMS support not available
+</span><span class='line'>--------------------------------------------------------------------</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Another option, instead of creating those links manually, would be installing PIL in the machine python installation.</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>sudo apt-get install python-imaging</span></code></pre></td></tr></table></div></figure>
+
+
+<p>And another option, although not what you were looking for, would be installing Pillow &ndash; which is a better PIL, basically.</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>pip install Pillow</span></code></pre></td></tr></table></div></figure>
+
+
+<p>After any of these 3 options you should be able to use the python imaging library happily now.</p>
+
+<p>PS: Thanks everyone for the corrections and suggestions for this post ;)</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
       <h1 class="entry-title"><a href="/blog/2013/09/19/hello-world/">Hello World</a></h1>
     
     
@@ -127,182 +284,6 @@
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/08/23/trans-siberian-2013/">Trans Siberian 2013</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-08-23T21:09:00+01:00" pubdate data-updated="true">Aug 23<span>rd</span>, 2013</time>
-        
-         | <a href="/blog/2013/08/23/trans-siberian-2013/#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>As promised, here&rsquo;s a post about this August adventure: a trip going through Russia, Siberia, Mongolia and ending in China.</p>
-
-<p><img src="https://lh4.googleusercontent.com/-mCXmvnHTBJA/UhZ-MFSUF_I/AAAAAAAALj0/_btv84nweHo/w660/P8040494.JPG" alt="" /><br/>
-The adventurers &ndash; an adventurer is missing, but this is one of the few pictures in which I&rsquo;m ok.</p>
-
-<p><img src="https://lh4.googleusercontent.com/-m3QwgWAnkUI/UhKz-VXnJiI/AAAAAAAAFQo/JYLiiq4aZAQ/w660/P8030475.JPG" alt="" /><br/>
-We managed to enjoy the night life &ndash; once. And we saw the typical russian fight! One guy fighting half naked, almost til death.</p>
-
-<p><img src="https://lh5.googleusercontent.com/-EX1ygtOY18U/Ug-9xPxF04I/AAAAAAAAKE4/D8YYoMplTjY/w660/IMG_20130804_124842.jpg" alt="" /><br/>
-St. Basil&rsquo;s Cathedral.</p>
-
-<p><img src="https://lh5.googleusercontent.com/-AyGdd3y5LxE/UhCBxec15aI/AAAAAAAAKyg/PGpJ_Yn60HQ/w660/IMG_20130804_133625.jpg" alt="" /><br/>
-Uncle Lenin sleeps in there.</p>
-
-<p><img src="https://lh4.googleusercontent.com/-rBWu0N2q2sw/UhaB-yhPDFI/AAAAAAAALkQ/bGKGOAR2g1E/w660/P8040570.JPG" alt="" /><br/>
-Paranoid Matryoshka &ndash; in some market, can&rsquo;t remember where.</p>
-
-<p><img src="https://lh4.googleusercontent.com/-YQ66QHLGgo4/Ug_EhNmpbRI/AAAAAAAAKOQ/nGqLUsoH4m8/w660/IMG_20130805_143331.jpg" alt="" /><br/>
-Shut up and take my money &ndash; this happened in the same market.</p>
-
-<p><img src="https://lh3.googleusercontent.com/-LvBitvwd0oY/UhaB_NLT0sI/AAAAAAAALkU/vbvdUVzc1_Y/w660/P8050821.JPG" alt="" /><br/>
-Two funny spanish <em>tunos</em>.</p>
-
-<p><img src="https://lh3.googleusercontent.com/-cQdSl7NRn3o/UhaB-yauaSI/AAAAAAAALkY/NvSManMBsGE/w660/P8060881.JPG" alt="" /><br/>
-And the goodbye breakfast, a couple of hours before going to the train station.</p>
-
-<p><img src="https://lh3.googleusercontent.com/-xQf1FiykvMs/UhaFAWfSHMI/AAAAAAAALks/hlS11rNL1jo/w660/P8060930.JPG" alt="" />  <br/>
-But not before buying some <em>partay</em> items.</p>
-
-<p><img src="https://lh5.googleusercontent.com/-_hpukxKj9dA/UhaFA33eiFI/AAAAAAAALk0/bPMKH7trTKs/w660/P8081144.JPG" alt="" /><br/>
-Time to take this beast.</p>
-
-<p><img src="https://lh3.googleusercontent.com/-o_Iy5kzawFM/UhaFBMWjOqI/AAAAAAAALlI/m_lJPo04d44/w660/P8081160.JPG" alt="" /><br/>
-And this will be our home for the next 7 days.</p>
-
-<p><img src="https://lh4.googleusercontent.com/-GhYSFbojUxg/UhaFCHjgvmI/AAAAAAAALlY/oh5dqOa6r04/w660/P8091285.JPG" alt="" /><br/>
-There we go!</p>
-
-<p><img src="https://lh4.googleusercontent.com/-ZWpgKF4x5Tg/UhaFB2hJwII/AAAAAAAALlQ/T4MnxYOZVcU/w660/P8091195.JPG" alt="" /><br/>
-Local ladies selling food in some stations. Very nice.</p>
-
-<p><img src="https://lh4.googleusercontent.com/-ZGbjknIK2W0/UhaFBZdtC_I/AAAAAAAALlA/NBhPMwPhWts/w660/P8081182.JPG" alt="" /><br/>
-Unfortunately for us, our girls got bored. Luckily for us, it didn&rsquo;t go any further from there.</p>
-
-<p><img src="https://lh5.googleusercontent.com/-8ZFBjThcEkk/UhaFCf7Oj1I/AAAAAAAALlg/uPMv7lynKyw/w660/P8101559.JPG" alt="" /><br/>
-Our carriage was the best one. There we are with the staff of the carriage, having beers and cigars, like proper gentlemen.</p>
-
-<p><img src="https://lh4.googleusercontent.com/-nAIzVCg1qB0/UhaFCwjvyVI/AAAAAAAALlo/NIvUB4GbhLA/w660/P8111586.JPG" alt="" /><br/>
-We saw some wet places &ndash; somewhere at the beginning of Mongolia.</p>
-
-<p><img src="https://lh4.googleusercontent.com/-7e4gDVs3ILg/UhaFDMaMrmI/AAAAAAAALlw/X_eiKeguzSE/w660/P8111624.JPG" alt="" /><br/>
-And some dry ones &ndash; Gobi Desert.</p>
-
-<p><img src="https://lh6.googleusercontent.com/-6EXBbNG7JMM/UhaFDrGq60I/AAAAAAAALl4/ARpbi7s91e8/w660/P8121732.JPG" alt="" /><br/>
-China already!</p>
-
-<p><img src="https://lh5.googleusercontent.com/-GRky_g17f-A/UhaJj4ESk5I/AAAAAAAALmc/GEE4dlGkxXI/w660/P8121741.JPG" alt="" /><br/>
-Last picture with the train.</p>
-
-<p><img src="https://lh3.googleusercontent.com/-gd0ygFxTQqc/UhaJj90YEsI/AAAAAAAALmU/LjJLh8tDmLc/w660/P8121745.JPG" alt="" /><br/>
-Delicious stuff &ndash; 1</p>
-
-<p><img src="https://lh6.googleusercontent.com/-9m1gONiE4-w/UhaJjwMffXI/AAAAAAAALnU/PCka9kLQR_U/w660/P8121753.JPG" alt="" /><br/>
-Delicious stuff &ndash; and 2.</p>
-
-<p><img src="https://lh5.googleusercontent.com/-TwDUyQgfIRU/UhaJkUuc0-I/AAAAAAAALmk/LMxbfCfI71E/w660/P8131777.JPG" alt="" /><br/>
-Forbidden City was a <em>must</em>.</p>
-
-<p><img src="https://lh4.googleusercontent.com/-tlJEdc7ivK8/UhaJkmpghQI/AAAAAAAALms/MkzVhPOoPHk/w660/P8131874.JPG" alt="" /><br/>
-And Tiananmen Square too.</p>
-
-<p><img src="https://lh3.googleusercontent.com/-u3cuOhMtaRY/UhaJlSGE7CI/AAAAAAAALno/5T9A7LNm1TY/w660/P8131930.JPG" alt="" /><br/>
-Behold <em>La Moustache</em>.</p>
-
-<p><img src="https://lh3.googleusercontent.com/--sjjNpZbL70/UhaJk8NAjFI/AAAAAAAALm0/jR5VvLyVuGQ/w660/P8131917.JPG" alt="" /><br/>
-Give me my Yuans back!</p>
-
-<p><img src="https://lh3.googleusercontent.com/-xqfeao6tUrw/UhaJmPr5LSI/AAAAAAAALnM/yiRbY9aDgk4/w660/P8142008.JPG" alt="" /><br/>
-Satan sailors.</p>
-
-<p><img src="https://lh5.googleusercontent.com/-IGacnVoOwVQ/UhaJmmTpJuI/AAAAAAAALng/GJ_8bUOhrEk/w660/P8142091.JPG" alt="" /><br/>
-Cycling some peaceful neighbourhood.</p>
-
-<p><img src="https://lh3.googleusercontent.com/-7KpvQhqkc_s/UhaJnHDn5UI/AAAAAAAALnc/MyC9-GGaEtQ/w660/P8172275.JPG" alt="" /><br/>
-And before we realise, it&rsquo;s time to come back to London.</p>
-
-<p>It&rsquo;s been awesome, really. A couple of amazing weeks with great people, discovering incredible places. I&rsquo;d like to do something similar next year.</p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/07/01/young-qualified-and-jobless/">Young, Qualified and Jobless</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-07-01T23:48:00+01:00" pubdate data-updated="true">Jul 1<span>st</span>, 2013</time>
-        
-         | <a href="/blog/2013/07/01/young-qualified-and-jobless/#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>I&rsquo;ve read <a href="http://www.guardian.co.uk/world/2013/jul/01/jobless-europe-young-qualified">this article</a> in my way back home, which was in the home page of <a href="http://www.guardian.co.uk/">The Guardian UK</a>. Sad feelings, sad stories. Close and familiar.</p>
-
-<p>I don&rsquo;t have many friends that have left Spain because of the crisis. I&rsquo;m actually the only one who has done that in my group of friends of Vitoria (my hometown). And the crisis wasn&rsquo;t my main reason for leaving, to be honest, but that&rsquo;s a story for another post. But yeah, I can see many of <em>us</em> walking everyday through the streets of London, talking Spanish to each other, some of them going back home after work, others carrying CVs from one place to another.</p>
-
-<p>Sometimes, when I hear a conversation in Spanish in the tube I usually turn off my music and pay attention. Back in Spain, that would be being gossip, but I don&rsquo;t have that feeling here.</p>
-
-<p>The other day for instance, I was listening to a couple of guys talking in the tube. For their accent, I&rsquo;d say they were from Madrid. One of them was apparently doing quite good. He was happy with his salary and he could even save money, something very uncommon between the spaniard community here, taking into account that most of us work as waiters, kitchen porters and other positions that don&rsquo;t require special qualification. But the other one wasn&rsquo;t that happy. I couldn&rsquo;t get what his job was, but he wasn&rsquo;t happy with it at all. He sounded a bit desperate and nervous. Anyway, I don&rsquo;t want to guess.</p>
-
-<p>Is it always the fault of the politicians? Well, I agree the ones we have in Spain are in their majority shameless idiots. But I think it&rsquo;s most a matter of none knowing how to fix this.</p>
-
-<p>I remember a conversation I had in my last year of high school with a friend. We were rambling about how the future would be, regarding employment (an advanced topic for a high school conversation maybe? :/ ). What both of us were wondering was how different would be the future employment, after so many technological advances. And we knew nothing, back then in 2007, because since then this has gone way further. Basically, the question we were asking ourselves was: <em>Does the world really need so many working people?</em></p>
-
-<p>Back then, both of us thought that if the unemployment was so high is basically because there are no jobs for everyone, plain and simple. Stuff like travel agencies, estate agencies (in Spain, probably the 70% of them are gone), music stores, media stores, cinemas, post offices&hellip; all of them seem from a past age. And many more to come.</p>
-
-<p>What we used to say, without giving proper arguments, is that the human race is getting to a point in which we shouldn&rsquo;t work that much. But the established economy model isn&rsquo;t prepared for that yet. I&rsquo;m sure we&rsquo;ll see some kind of global economy reorganization within ten years. I would like to see it.</p>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/7/">&larr; Older</a>
@@ -324,6 +305,14 @@ And before we realise, it&rsquo;s time to come back to London.</p>
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2014/03/05/berlin-not-this-year/">Berlin - Not This Year</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/03/05/distance-2009-ahkmed/">Distance (2009) - Ahkmed</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2014/03/01/last-of-us-my-bedroom/">The Last of Us - My Bedroom</a>
       </li>
     
@@ -335,14 +324,6 @@ And before we realise, it&rsquo;s time to come back to London.</p>
         <a href="/blog/2014/01/28/2112-rush/">2112 - Rush</a>
       </li>
     
-      <li class="post">
-        <a href="/blog/2014/01/26/birthday-party/">Birthday Party</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/01/22/hendon-cemetery/">Hendon Cemetery</a>
-      </li>
-    
   </ul>
 </section>
 <section>
@@ -351,8 +332,8 @@ And before we realise, it&rsquo;s time to come back to London.</p>
     <li class='category'><a href='/blog/categories/books/'>Books (1)</a></li>
 <li class='category'><a href='/blog/categories/comic/'>Comic (6)</a></li>
 <li class='category'><a href='/blog/categories/internet/'>Internet (10)</a></li>
-<li class='category'><a href='/blog/categories/miscellaneous/'>Miscellaneous (17)</a></li>
-<li class='category'><a href='/blog/categories/music/'>Music (7)</a></li>
+<li class='category'><a href='/blog/categories/miscellaneous/'>Miscellaneous (18)</a></li>
+<li class='category'><a href='/blog/categories/music/'>Music (9)</a></li>
 <li class='category'><a href='/blog/categories/programming/'>Programming (4)</a></li>
 <li class='category'><a href='/blog/categories/travel/'>Travel (6)</a></li>
 

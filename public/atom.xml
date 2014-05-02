@@ -4,7 +4,7 @@
   <title><![CDATA[Fuzzing the Web]]></title>
   <link href="http://fuzzingtheweb.com/atom.xml" rel="self"/>
   <link href="http://fuzzingtheweb.com/"/>
-  <updated>2014-03-05T22:04:12+00:00</updated>
+  <updated>2014-05-02T09:40:42+01:00</updated>
   <id>http://fuzzingtheweb.com/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Oh the irony]]></title>
+    <link href="http://fuzzingtheweb.com/blog/2014/05/02/oh-the-irony/"/>
+    <updated>2014-05-02T09:29:00+01:00</updated>
+    <id>http://fuzzingtheweb.com/blog/2014/05/02/oh-the-irony</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve recently moved to a new flat. The fact that I love most about it is that I don&rsquo;t have neighbours. Well, almost.</p>
+
+<p>The flat is the top floor of a big house, which ground and first floors are used by a charity. So we technically have neighbours from Monday to Friday, 9 to 5.</p>
+
+<p>One of the requirements for living in my current flat was having a clean criminal history, at least clean in all matters related with children &ndash; the charity is for children with disabilities. To check our criminal records we had to go through a short interview with one of the charity workers and fill in some forms. Not a big deal.</p>
+
+<p>One of the questions you get to answer in this interview is &ldquo;what do you do for a living&rdquo;. When I told the guy I was a web developer, he raised his eyebrows and said something like &ldquo;oh, that&rsquo;s cool! We could actually use some help with our website here, we&rsquo;re having some trouble getting some stuff working properly&rdquo;. I told him I&rsquo;d be happy to help. It&rsquo;s always good to have a nice relationship with your neighbours.</p>
+
+<p>The weeks went by and we moved in. Of course, we didn&rsquo;t have internet in place, so I thought I could ask them for <em>some</em> and offer my help with their website, regardless they could give me access to their internet or not. I wrote a friendly email asking for internet to the guy I met during my interview and he raised the query to his supervisor. Then I realised that this charity probably worked as any other company out there and they probably couldn&rsquo;t just share their internet that easily. Pretty understandable, that&rsquo;s how things work.</p>
+
+<p>I was right about that, they couldn&rsquo;t give me internet because they manage private and important data, <em>bla bla bla</em> &ndash; I was expecting it. But, here comes the irony, they also can&rsquo;t accept my help for the same reason. Doesn&rsquo;t it sound stupid? I&rsquo;d like to help a charity doing one of the few things I know how to do right and they just can&rsquo;t accept my help.</p>
+
+<p>But who can blame them, they are only following rules there. They seem nice people and because we&rsquo;ll be in the building at different times during the day, I&rsquo;m sure we&rsquo;ll get to be good neighbours.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Berlin - not this year]]></title>
@@ -479,29 +500,6 @@ Cycling some peaceful neighbourhood.</p>
 And before we realise, it&rsquo;s time to come back to London.</p>
 
 <p>It&rsquo;s been awesome, really. A couple of amazing weeks with great people, discovering incredible places. I&rsquo;d like to do something similar next year.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Young, qualified and jobless]]></title>
-    <link href="http://fuzzingtheweb.com/blog/2013/07/01/young-qualified-and-jobless/"/>
-    <updated>2013-07-01T23:48:00+01:00</updated>
-    <id>http://fuzzingtheweb.com/blog/2013/07/01/young-qualified-and-jobless</id>
-    <content type="html"><![CDATA[<p>I&rsquo;ve read <a href="http://www.guardian.co.uk/world/2013/jul/01/jobless-europe-young-qualified">this article</a> in my way back home, which was in the home page of <a href="http://www.guardian.co.uk/">The Guardian UK</a>. Sad feelings, sad stories. Close and familiar.</p>
-
-<p>I don&rsquo;t have many friends that have left Spain because of the crisis. I&rsquo;m actually the only one who has done that in my group of friends of Vitoria (my hometown). And the crisis wasn&rsquo;t my main reason for leaving, to be honest, but that&rsquo;s a story for another post. But yeah, I can see many of <em>us</em> walking everyday through the streets of London, talking Spanish to each other, some of them going back home after work, others carrying CVs from one place to another.</p>
-
-<p>Sometimes, when I hear a conversation in Spanish in the tube I usually turn off my music and pay attention. Back in Spain, that would be being gossip, but I don&rsquo;t have that feeling here.</p>
-
-<p>The other day for instance, I was listening to a couple of guys talking in the tube. For their accent, I&rsquo;d say they were from Madrid. One of them was apparently doing quite good. He was happy with his salary and he could even save money, something very uncommon between the spaniard community here, taking into account that most of us work as waiters, kitchen porters and other positions that don&rsquo;t require special qualification. But the other one wasn&rsquo;t that happy. I couldn&rsquo;t get what his job was, but he wasn&rsquo;t happy with it at all. He sounded a bit desperate and nervous. Anyway, I don&rsquo;t want to guess.</p>
-
-<p>Is it always the fault of the politicians? Well, I agree the ones we have in Spain are in their majority shameless idiots. But I think it&rsquo;s most a matter of none knowing how to fix this.</p>
-
-<p>I remember a conversation I had in my last year of high school with a friend. We were rambling about how the future would be, regarding employment (an advanced topic for a high school conversation maybe? :/ ). What both of us were wondering was how different would be the future employment, after so many technological advances. And we knew nothing, back then in 2007, because since then this has gone way further. Basically, the question we were asking ourselves was: <em>Does the world really need so many working people?</em></p>
-
-<p>Back then, both of us thought that if the unemployment was so high is basically because there are no jobs for everyone, plain and simple. Stuff like travel agencies, estate agencies (in Spain, probably the 70% of them are gone), music stores, media stores, cinemas, post offices&hellip; all of them seem from a past age. And many more to come.</p>
-
-<p>What we used to say, without giving proper arguments, is that the human race is getting to a point in which we shouldn&rsquo;t work that much. But the established economy model isn&rsquo;t prepared for that yet. I&rsquo;m sure we&rsquo;ll see some kind of global economy reorganization within ten years. I would like to see it.</p>
 ]]></content>
   </entry>
   

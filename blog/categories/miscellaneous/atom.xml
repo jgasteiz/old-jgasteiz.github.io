@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Miscellaneous | Fuzzing the Web]]></title>
   <link href="http://fuzzingtheweb.com/blog/categories/miscellaneous/atom.xml" rel="self"/>
   <link href="http://fuzzingtheweb.com/"/>
-  <updated>2014-03-05T22:04:12+00:00</updated>
+  <updated>2014-05-02T09:30:15+01:00</updated>
   <id>http://fuzzingtheweb.com/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Oh the irony]]></title>
+    <link href="http://fuzzingtheweb.com/blog/2014/05/02/oh-the-irony/"/>
+    <updated>2014-05-02T09:29:00+01:00</updated>
+    <id>http://fuzzingtheweb.com/blog/2014/05/02/oh-the-irony</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve recently moved to a new flat. The fact that I love most about it is that I don&rsquo;t have neighbours. Well, almost.</p>
+
+<p>The flat is the top floor of a big house, which ground and first floors are used by a charity. So we technically have neighbours from Monday to Friday, 9 to 5.</p>
+
+<p>One of the requirements for living in my current flat was having a clean criminal history, at least clean in all matters related with children &ndash; the charity is for children with disabilities. To check our criminal records we had to go through a short interview with one of the charity workers and fill in some forms. Not a big deal.</p>
+
+<p>One of the questions you get to answer in this interview is &ldquo;what do you do for a life&rdquo;. When I told the guy I was a web developer, he raised his eyebrows and said something like &ldquo;oh, that&rsquo;s cool! We could actually use some help with our website here, we&rsquo;re having some trouble getting some stuff working properly&rdquo;. I told him I&rsquo;ll be happy to help. It&rsquo;s always good to have a nice relationship with your neighbours.</p>
+
+<p>The weeks went by and we moved in. Of course, we didn&rsquo;t have internet in place, so I thought I could ask them for <em>some</em> and offering my help with their website, regardless they could give me internet or not. I wrote a friendly email asking for internet to the guy I met during my interview and he raised to his supervisor. Then I realised that this charity probably worked as any other company out there and they probably couldn&rsquo;t just share their internet that easily. Pretty understandable, that&rsquo;s how things work.</p>
+
+<p>I was right about that, they couldn&rsquo;t give me internet because they manage private and important data, <em>bla bla bla</em> &ndash; I was expecting it. But, here comes the irony, they also can&rsquo;t accept my help for the same reason. Doesn&rsquo;t it sound stupid? I&rsquo;d like to help a charity with one of the few things I know how to do right and they just can&rsquo;t accept my help.</p>
+
+<p>But who can blame them, they are only following rules there. They seem nice people and because we&rsquo;ll be in the building at different times during the day, I&rsquo;m sure we&rsquo;ll get to be good neighbours.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Berlin - not this year]]></title>
@@ -72,29 +93,6 @@
 <p><img src="http://farm4.staticflickr.com/3670/12040585163_b6ae8fbb3c_c.jpg" alt="Windmill" /></p>
 
 <p><img src="http://farm8.staticflickr.com/7367/12040654343_89385bde19_c.jpg" alt="Magda" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Back for Christmas- Turrón style]]></title>
-    <link href="http://fuzzingtheweb.com/blog/2014/01/03/back-for-christmas/"/>
-    <updated>2014-01-03T01:22:00+00:00</updated>
-    <id>http://fuzzingtheweb.com/blog/2014/01/03/back-for-christmas</id>
-    <content type="html"><![CDATA[<p>I&rsquo;m back here since this Monday morning, that&rsquo;s one of the few and vague reasons I haven&rsquo;t written in a few days. That and Christmas excitement. New year&rsquo;s eve has been brutal this year. I can&rsquo;t remember a night as epic as this year&rsquo;s has been, hard to believe. Specially because I don&rsquo;t usually enjoy new year&rsquo;s eve at all.</p>
-
-<p>I brought the new camera to Spain and I&rsquo;ve some time to spend learning the basics about it. After reading some book introductions and blog posts, I&rsquo;ve got a common message from all of them: I should try to make tons of pictures. Apparently &ldquo;learning by doing&rdquo; is the best way of learning. Good stuff. I&rsquo;ve also started uploading some of them to <a href="http://www.flickr.com/photos/jgasteiz/">my flickr account</a>.</p>
-
-<p><em>A couple of seconds of shutter speed in the darkness of my bedroom made the trick.</em></p>
-
-<p><img src="http://farm4.staticflickr.com/3822/11719225215_4f406bfc08_z.jpg" alt="vinyl" /></p>
-
-<p><em>After reading one of the first chapters of <a href="http://www.ppsop.com/unex.aspx">Understanding Exposure, by Bryan Peterson</a>, I had the feeling of trying something the book explained about playing with values for getting cool exposures. For getting this, I&rsquo;ve also changed some stuff in Lightroom.</em></p>
-
-<p><img src="http://farm6.staticflickr.com/5516/11778545294_2c581dece4_z.jpg" alt="from my window" /></p>
-
-<p>A tripod was used for both pictures, I got a cheap one the other day &ndash; I know, I know, none recommends cheap tripods. But I&rsquo;m definitely not spending a lot on a tripod now, and 12 euros seemed quite reasonable for what I got. Better that than nothing, right?</p>
-
-<p>And that&rsquo;s all folks.</p>
 ]]></content>
   </entry>
   

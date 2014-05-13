@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>New Flat - Fuzzing the Web</title>
+  <title>iTerm2 word jumping - Fuzzing the Web</title>
   <meta name="author" content="Javi Manzano">
 
   
-  <meta name="description" content="Just moved today into a new flat. This one feels like home, actually. I will (finally) be able to reduce my amount of daily public transport and only &hellip;">
+  <meta name="description" content="I&rsquo;m so tired of looking for posts about jumping/deleting words and jumping between the beginning and the end of the line in iTerm2, that I& &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://fuzzingtheweb.com/blog/2012/12/18/new-flat">
+  <link rel="canonical" href="http://fuzzingtheweb.com/blog/2014/05/13/iterm2-word-jumping">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="Fuzzing the Web" type="application/atom+xml">
@@ -79,7 +79,7 @@
   
   <header>
     
-      <h1 class="entry-title">New Flat</h1>
+      <h1 class="entry-title">iTerm2 Word Jumping</h1>
     
     
       <p class="meta">
@@ -95,7 +95,7 @@
   
 
 
-<time datetime="2012-12-18T23:53:00+00:00" pubdate data-updated="true">Dec 18<span>th</span>, 2012</time>
+<time datetime="2014-05-13T13:51:00+01:00" pubdate data-updated="true">May 13<span>th</span>, 2014</time>
         
          | <a href="#disqus_thread">Comments</a>
         
@@ -104,23 +104,45 @@
   </header>
 
 
-<div class="entry-content"><p>Just moved today into a new flat. This one feels like home, actually. I will (finally) be able to reduce my amount of daily public transport and only take two tubes instead of bus+train+tube every single day. It was exhausting and annoying.</p>
+<div class="entry-content"><p>I&rsquo;m so tired of looking for posts about jumping/deleting words and jumping between the beginning and the end of the line in iTerm2, that I&rsquo;ve decided to write my own post.</p>
 
-<p>Here are some pictures from my new place.</p>
+<h3>Word jumping &ndash; with <em>option + left/right</em></h3>
 
-<p>First one is the living room, from where I&rsquo;m seated right now. The picture doesn&rsquo;t show the real size of the room, which is quite big. More pictures coming when we get the TV ;)</p>
+<ul>
+<li>Go to iTerm preferences &ndash;> &ldquo;your default profile&rdquo; &ndash;> Keys</li>
+<li>get rid of the lines with the two lines sending escape codes with <em>option + left/right</em></li>
+<li>Add a couple of lines in iTerm preferences &ndash;> Keys (Global Shortcut keys)
 
-<p><img src="http://lh3.googleusercontent.com/-Fl6DKeuD4RE/UNhwdqigZNI/AAAAAAAAB6A/UnipGYaj0OE/s640/D0427FF4-9C59-48E7-A31B-76885E5F5D41.JPG" title="living room" alt="living room" /></p>
+<ul>
+<li><em>option + left</em>: Send Escape Sequence, ESC + B</li>
+<li><em>option + right</em>: Send Escape Sequence, ESC + F</li>
+</ul>
+</li>
+</ul>
 
-<p>This one is the kitchen. Small but cozy.</p>
 
-<p><img src="http://lh6.googleusercontent.com/-exwSv2BFggA/UNhwjoYDqTI/AAAAAAAAB6k/6uJv8wpesBs/s512/84B9ADB2-8813-44D4-A459-890934872748.JPG" title="kitchen" alt="kitchen" /></p>
+<h3>Word deletion &ndash; with <em>option + backspace</em></h3>
 
-<p>The last one is my bedroom. I guess it&rsquo;s extremely small compared to the other ones. I should have chosen tails :(</p>
+<p>Add a line in iTerm preferences &ndash;> Keys (Global Shortcut keys):</p>
 
-<p><img src="http://lh6.googleusercontent.com/-bgTPGw6Xzgw/UNhwhsZLbzI/AAAAAAAAB6Y/KHofnBxla-M/s512/53738133-C3FF-4664-A4E4-C40E1851A92A.JPG" title="bedroom" alt="bedroom" /></p>
+<ul>
+<li><em>option + backspace</em>: Send Hex Code, 0x1B 0x08</li>
+</ul>
 
-<p>And after a huge dosis of Tuesday pizza, it&rsquo;s bedtime.</p>
+
+<h3>Jump to the beginning/end of a line &ndash; with <em>cmd + left/right</em></h3>
+
+<p>Add a couple of lines in iTerm preferences &ndash;> Keys (Global Shortcut keys):</p>
+
+<ul>
+<li><em>cmd + left</em>: Send Hex Code, 0x01</li>
+<li><em>cmd + right</em>: Send Hex Code, 0x05</li>
+</ul>
+
+
+<p>Check the following screenshot for more details:</p>
+
+<p><img src="https://lh3.googleusercontent.com/-i9gBv_w7PkE/U3IUEQ8mUUI/AAAAAAAAO9U/8oUtFFLcSiI/w922-h539-no/Screen+Shot+2014-05-13+at+13.45.12.png" alt="scr1" /></p>
 </div>
 
 
@@ -143,12 +165,12 @@
   
 
 
-<time datetime="2012-12-18T23:53:00+00:00" pubdate data-updated="true">Dec 18<span>th</span>, 2012</time>
+<time datetime="2014-05-13T13:51:00+01:00" pubdate data-updated="true">May 13<span>th</span>, 2014</time>
       
 
 <span class="categories">
   
-    <a class='category' href='/blog/categories/miscellaneous/'>Miscellaneous</a>
+    <a class='category' href='/blog/categories/programming/'>Programming</a>
   
 </span>
 
@@ -157,7 +179,7 @@
     
       <div class="sharing">
   
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://fuzzingtheweb.com/blog/2012/12/18/new-flat/" data-via="jgasteiz" data-counturl="http://fuzzingtheweb.com/blog/2012/12/18/new-flat/" >Tweet</a>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://fuzzingtheweb.com/blog/2014/05/13/iterm2-word-jumping/" data-via="jgasteiz" data-counturl="http://fuzzingtheweb.com/blog/2014/05/13/iterm2-word-jumping/" >Tweet</a>
   
   
   <div class="g-plusone" data-size="medium"></div>
@@ -168,10 +190,8 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2012/12/08/truckfighters/" title="Previous Post: Truckfighters">&laquo; Truckfighters</a>
+        <a class="basic-alignment left" href="/blog/2014/05/09/getting-glasses/" title="Previous Post: Getting glasses">&laquo; Getting glasses</a>
       
-      
-        <a class="basic-alignment right" href="/blog/2013/01/01/the-junk-room/" title="Next Post: The Junk Room">The Junk Room &raquo;</a>
       
     </p>
   </footer>
@@ -249,8 +269,8 @@
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://fuzzingtheweb.com/blog/2012/12/18/new-flat/';
-        var disqus_url = 'http://fuzzingtheweb.com/blog/2012/12/18/new-flat/';
+        var disqus_identifier = 'http://fuzzingtheweb.com/blog/2014/05/13/iterm2-word-jumping/';
+        var disqus_url = 'http://fuzzingtheweb.com/blog/2014/05/13/iterm2-word-jumping/';
         var disqus_script = 'embed.js';
       
     (function () {

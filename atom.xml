@@ -4,7 +4,7 @@
   <title><![CDATA[Fuzzing the Web]]></title>
   <link href="http://fuzzingtheweb.com/atom.xml" rel="self"/>
   <link href="http://fuzzingtheweb.com/"/>
-  <updated>2014-05-09T10:52:58+01:00</updated>
+  <updated>2014-05-13T14:07:29+01:00</updated>
   <id>http://fuzzingtheweb.com/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[iTerm2 word jumping]]></title>
+    <link href="http://fuzzingtheweb.com/blog/2014/05/13/iterm2-word-jumping/"/>
+    <updated>2014-05-13T13:51:00+01:00</updated>
+    <id>http://fuzzingtheweb.com/blog/2014/05/13/iterm2-word-jumping</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m so tired of looking for posts about jumping/deleting words and jumping between the beginning and the end of the line in iTerm2, that I&rsquo;ve decided to write my own post.</p>
+
+<h3>Word jumping &ndash; with <em>option + left/right</em></h3>
+
+<ul>
+<li>Go to iTerm preferences &ndash;> &ldquo;your default profile&rdquo; &ndash;> Keys</li>
+<li>get rid of the lines with the two lines sending escape codes with <em>option + left/right</em></li>
+<li>Add a couple of lines in iTerm preferences &ndash;> Keys (Global Shortcut keys)
+
+<ul>
+<li><em>option + left</em>: Send Escape Sequence, ESC + B</li>
+<li><em>option + right</em>: Send Escape Sequence, ESC + F</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>Word deletion &ndash; with <em>option + backspace</em></h3>
+
+<p>Add a line in iTerm preferences &ndash;> Keys (Global Shortcut keys):</p>
+
+<ul>
+<li><em>option + backspace</em>: Send Hex Code, 0x1B 0x08</li>
+</ul>
+
+
+<h3>Jump to the beginning/end of a line &ndash; with <em>cmd + left/right</em></h3>
+
+<p>Add a couple of lines in iTerm preferences &ndash;> Keys (Global Shortcut keys):</p>
+
+<ul>
+<li><em>cmd + left</em>: Send Hex Code, 0x01</li>
+<li><em>cmd + right</em>: Send Hex Code, 0x05</li>
+</ul>
+
+
+<p>Check the following screenshot for more details:</p>
+
+<p><img src="https://lh3.googleusercontent.com/-i9gBv_w7PkE/U3IUEQ8mUUI/AAAAAAAAO9U/8oUtFFLcSiI/w922-h539-no/Screen+Shot+2014-05-13+at+13.45.12.png" alt="scr1" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Getting glasses]]></title>
@@ -400,27 +447,6 @@
 <p>After any of these 3 options you should be able to use the python imaging library happily now.</p>
 
 <p>PS: Thanks everyone for the corrections and suggestions for this post ;)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://fuzzingtheweb.com/blog/2013/09/19/hello-world/"/>
-    <updated>2013-09-19T23:48:00+01:00</updated>
-    <id>http://fuzzingtheweb.com/blog/2013/09/19/hello-world</id>
-    <content type="html"><![CDATA[<p>This is the first post of this new stage of Fuzzing the Web. I&rsquo;ve decided to give static blogs a go and I&rsquo;ll start using Octopress for it.</p>
-
-<p>I&rsquo;ll write about the same random things I used to write about before, but I&rsquo;ll try to write better stuff.</p>
-
-<p>Also, not all of the old content of Fuzzing the Web will be here. At the beginning, I&rsquo;ll make an effort to migrate my favourite blog posts, but they will be only a few. I&rsquo;ll keep migrating posts little by little, until one day I&rsquo;ll be done.</p>
-
-<p>I&rsquo;ll also work hard on keeping all the content properly categorised.</p>
-
-<p>Let&rsquo;s close this first post of this new blog with some <em>classic</em> fun :)</p>
-
-<p><img src="http://imgs.xkcd.com/comics/tags.png" title="&lt;A&gt;: Like &lt;/a&gt;this.&nbsp;" alt="tags - xkcd" /></p>
-
-<p><a href="http://xkcd.com/1144/" title="tags">Tags &ndash; xkcd</a></p>
 ]]></content>
   </entry>
   

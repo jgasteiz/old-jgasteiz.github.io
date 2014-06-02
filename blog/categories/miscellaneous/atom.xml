@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Miscellaneous | Fuzzing the Web]]></title>
   <link href="http://fuzzingtheweb.com/blog/categories/miscellaneous/atom.xml" rel="self"/>
   <link href="http://fuzzingtheweb.com/"/>
-  <updated>2014-05-13T14:07:29+01:00</updated>
+  <updated>2014-06-02T13:28:37+01:00</updated>
   <id>http://fuzzingtheweb.com/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Fuck the King]]></title>
+    <link href="http://fuzzingtheweb.com/blog/2014/06/02/fuck-the-king/"/>
+    <updated>2014-06-02T13:20:00+01:00</updated>
+    <id>http://fuzzingtheweb.com/blog/2014/06/02/fuck-the-king</id>
+    <content type="html"><![CDATA[<iframe width="560" height="315" src="http://fuzzingtheweb.com//www.youtube.com/embed/MAusMcu513U" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Because it&rsquo;s always easier to quote someone else.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Getting glasses]]></title>
@@ -76,21 +88,6 @@
 <p>this is how it begins.</p>
 
 <p><a href="http://www.youtube.com/watch?v=W01L70IGBgE">The Last of Us &ndash; trailer</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Birthday party]]></title>
-    <link href="http://fuzzingtheweb.com/blog/2014/01/26/birthday-party/"/>
-    <updated>2014-01-26T21:46:00+00:00</updated>
-    <id>http://fuzzingtheweb.com/blog/2014/01/26/birthday-party</id>
-    <content type="html"><![CDATA[<p>A bit late, but better late than never &ndash; my birthday was on the 11th of January. Great dinner full of meat in Putney&rsquo;s <a href="http://rodiziopreto.co.uk/">Rodizio Preto</a> followed by a massive ale ingest in the closest wetherspoons and finished by more beer in a local club. Nothing fancy, that&rsquo;s why it ruled.</p>
-
-<p>And I got amazing presents! This beer crafting kit between them :)</p>
-
-<p><img src="http://lh6.googleusercontent.com/-j3xHxaoQi7g/UuQyF6gMBgI/AAAAAAAANyU/WT6PgKKR0ck/w924-h693-no/IMG_20140125_183604.jpg" alt="Beer crafting kit" /></p>
-
-<p>Let the crafting begin!</p>
 ]]></content>
   </entry>
   

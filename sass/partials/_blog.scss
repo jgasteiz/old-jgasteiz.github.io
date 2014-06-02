@@ -1,6 +1,9 @@
 article {
   padding-top: 1em;
   a { @extend .force-wrap; }
+  ul {
+    margin-left: 25px;
+  }
   header {
     position: relative;
     padding-top: 2em;

@@ -90,6 +90,9 @@ body {
 #content {
   overflow: hidden;
   > div, > article { width: 100%; }
+  ul {
+    margin-left: 20px;
+  }
 }
 
 aside.sidebar {

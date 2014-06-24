@@ -16,13 +16,13 @@ One of the things people are scared about when they go with this kind of purpose
 
 ### Bicycles
 
-I'd would be very happy if we had in London half of the cycling paths we saw in Amsterdam. And it would also be cool if didn't live 12 miles away from the office... and if people here wouldn't drive in the wrong side. But that's a different story.
+I'd be very happy if we had in London half of the cycling paths we saw in Amsterdam. And it would be so cool if didn't live 12 miles away from the office... and if people here wouldn't drive in the wrong side. But that's a different story.
 
 ![Bicycles](http://lh6.googleusercontent.com/-H5gg4xw_QvQ/U6dqd600GsI/AAAAAAAAPeo/-h1NOoJ8a-Y/w845-h634-no/IMG_20140622_124530.jpg)
 
 ### The weather
 
-Like Matus said, *we don't realise how lucky we've been with the weather* – or did we?. Lucky enough to be able to go in shorts every day and get some human being colour in my forehead. Which unfortunately, will run away during the following weeks.
+Like Matus said, *we don't realise how lucky we've been with the weather* – or did we? Luckily enough, I was able to wear shorts every day and get some human being colour in my forehead. Which unfortunately, will run away during the following weeks.
 
 ![The weather](http://lh4.googleusercontent.com/-4G-XREQfvP8/U6gI3CAqANI/AAAAAAAAPg4/bQ5eCXWvSj4/w845-h634-no/IMG_20140622_195314.jpg)
 

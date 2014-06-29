@@ -4,7 +4,7 @@
   <title><![CDATA[Fuzzing the Web]]></title>
   <link href="http://fuzzingtheweb.com/atom.xml" rel="self"/>
   <link href="http://fuzzingtheweb.com/"/>
-  <updated>2014-06-24T08:08:39+01:00</updated>
+  <updated>2014-06-29T12:05:58+01:00</updated>
   <id>http://fuzzingtheweb.com/</id>
   <author>
     <name><![CDATA[Javi Manzano]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Polyvalence]]></title>
+    <link href="http://fuzzingtheweb.com/blog/2014/06/29/polyvalence/"/>
+    <updated>2014-06-29T11:57:00+01:00</updated>
+    <id>http://fuzzingtheweb.com/blog/2014/06/29/polyvalence</id>
+    <content type="html"><![CDATA[<p>Coding books are good for reading, but they can also serve different purposes. At least that&rsquo;s what they do in my flat.</p>
+
+<iframe width="560" height="315" src="http://fuzzingtheweb.com//www.youtube.com/embed/oKbKKeIsfzo" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Amsterdam - June 2014]]></title>
@@ -378,28 +390,6 @@
 <p>Kindles might be a perfect substitute for most of the books in the market, but I still believe there is nothing like paper when we talk about reference or programming books. Flipping pages >>> pressing buttons.</p>
 
 <p>I don&rsquo;t have time for writing more, there are a few bags that need to be filled with stuff. Wish me luck.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Jobs - short review]]></title>
-    <link href="http://fuzzingtheweb.com/blog/2013/11/26/jobs-short-review/"/>
-    <updated>2013-11-26T08:10:00+00:00</updated>
-    <id>http://fuzzingtheweb.com/blog/2013/11/26/jobs-short-review</id>
-    <content type="html"><![CDATA[<p><img src="http://lh6.googleusercontent.com/zQvObkDlsk-J7_fDNZFw0qGRR69ngA0ggi0CEBl52_0=w519-h525-no" alt="Jobs, 2013" /></p>
-
-<p>The film was ok, but</p>
-
-<ul>
-<li><p>did anyone else had the feeling that Steve Jobs (and Jonathan Ive) got extremely caricatured? They looked more like programmed machines to follow one or two behaviours than humans! I still can&rsquo;t understand how Wozniak could put up with him for more than half of the movie.</p></li>
-<li><p>again, <em>Steve Jobs&#8217;</em> way of facing problems seemed so unhuman. It&rsquo;s well known he was a &ldquo;special&rdquo; guy for not being the nicest boss / father ever, but I would feel quite offended if anyone pictured me in a film like this. I&rsquo;d feel offended if he was my family or friend, I think.</p></li>
-<li><p>have they put all Apple commercials together as a script for Jonathan Ive&rsquo;s role? They made him look like a weirdo. Once more, I&rsquo;d feel offended if I was him.</p></li>
-</ul>
-
-
-<p>Apart from this, the film was fine. Entertaining, although I&rsquo;d say it&rsquo;s not worthy paying much for watching it :/</p>
-
-<p>I give it two thirds of a star out of two stars. Because weird roles deserve weird ratings.</p>
 ]]></content>
   </entry>
   

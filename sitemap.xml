@@ -216,7 +216,11 @@
     </url>
     <url>
         <loc>http://fuzzingtheweb.com/blog/2014/06/23/amsterdam-june-2014/</loc>
-        <lastmod>2014-06-23T22:56:20+01:00</lastmod>
+        <lastmod>2014-06-29T11:57:03+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://fuzzingtheweb.com/blog/2014/06/29/polyvalence/</loc>
+        <lastmod>2014-06-29T12:00:04+01:00</lastmod>
     </url>
     <url>
         <loc>http://fuzzingtheweb.com/about/</loc>
@@ -224,11 +228,11 @@
     </url>
     <url>
         <loc>http://fuzzingtheweb.com/blog/archives/</loc>
-        <lastmod>2014-06-23T22:56:20+01:00</lastmod>
+        <lastmod>2014-06-29T12:00:04+01:00</lastmod>
     </url>
     <url>
         <loc>http://fuzzingtheweb.com/</loc>
-        <lastmod>2014-06-23T22:56:20+01:00</lastmod>
+        <lastmod>2014-06-29T12:00:04+01:00</lastmod>
     </url>
     <url>
         <loc>http://fuzzingtheweb.com/robots.txt</loc>
